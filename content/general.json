@@ -1,15 +1,15 @@
 {
   "hero": {
-    "eyebrow": "NO. 2019-0340 · SÜREKLİ DÜZENLENİR",
-    "title": "ECZAPLUS",
-    "subtitle": "ECZACILIK TOPLULUĞU",
-    "lead_label": "Kullanım şekli:",
-    "lead_text": "ayda en az bir buluşma, sınırsız meslektaş desteği, düzenli mesleki eğitim ve aylık dergi.",
-    "description": "2019'dan beri öğrencileri, yeni mezunları ve eczacıları ortak bir öğrenme kültüründe buluşturuyoruz. EczaPlus; içerik, etkinlik, dergi ve güçlü bir mesleki dayanışma alanı oluşturmayı hedefler.",
+    "secondary_link": "#dergi",
+    "eyebrow": "Eczacılık sandığından daha fazlası",
     "primary_text": "Topluluğu Tanı",
+    "lead_text": "Her zaman daha fazlası",
+    "lead_label": "Kullanım şekli:",
     "primary_link": "#hakkimizda",
+    "subtitle": "ECZACILIK TOPLULUĞU",
     "secondary_text": "Dergi Arşivi",
-    "secondary_link": "#dergi"
+    "title": "ECZAPLUS",
+    "description": " Yeni mezunları ve eczacıları ortak bir öğrenme kültüründe buluşturuyoruz. EczaPlus; içerik, etkinlik, dergi ve güçlü bir mesleki dayanışma alanı oluşturmayı hedefler."
   },
   "about": {
     "eyebrow": "BİZ KİMİZ?",
