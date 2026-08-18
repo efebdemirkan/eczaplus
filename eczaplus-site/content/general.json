@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "eyebrow": "NO. 2019-0340 · SÜREKLİ DÜZENLENİR",
+    "title": "ECZAPLUS",
+    "subtitle": "ECZACILIK TOPLULUĞU",
+    "lead_label": "Kullanım şekli:",
+    "lead_text": "ayda en az bir buluşma, sınırsız meslektaş desteği, düzenli mesleki eğitim ve aylık dergi.",
+    "description": "2019'dan beri öğrencileri, yeni mezunları ve eczacıları ortak bir öğrenme kültüründe buluşturuyoruz. EczaPlus; içerik, etkinlik, dergi ve güçlü bir mesleki dayanışma alanı oluşturmayı hedefler.",
+    "primary_text": "Topluluğu Tanı",
+    "primary_link": "#hakkimizda",
+    "secondary_text": "Dergi Arşivi",
+    "secondary_link": "#dergi"
+  },
+  "about": {
+    "eyebrow": "BİZ KİMİZ?",
+    "title": "Hakkımızda",
+    "paragraph_1": "EczaPlus; eczacılık öğrencilerini, mezunları ve meslek profesyonellerini ortak bir öğrenme kültüründe buluşturmayı amaçlayan bağımsız bir topluluktur. Bilgiyi yalnızca paylaşmak değil, düzenli hale getirmek ve sürdürülebilir bir topluluk kültürüne dönüştürmek ister.",
+    "paragraph_2": "Amacımız güncel bilimsel bilgiyi ulaşılır hale getirmek, kariyer deneyimlerini paylaşmak, üretken ekipler kurmak ve eczacılık öğrencileri arasında güçlü bir ağ oluşturmaktır. İçerikler, etkinlikler, duyurular ve dergi çalışmaları bu vizyonun parçalarıdır.",
+    "pills": [
+      "Öğrenci Odaklı",
+      "Mesleki Gelişim",
+      "Bilimsel İçerik",
+      "Topluluk Ruhu"
+    ]
+  }
+}
