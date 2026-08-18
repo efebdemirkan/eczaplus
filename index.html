@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="EczaPlus Eczacılık Topluluğu" />
+  <title>EczaPlus | Eczacılık Topluluğu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#anasayfa" aria-label="EczaPlus ana sayfa">
+      <div class="brand-mark brand-mark-3d" id="headerLogoShell">
+        <canvas id="headerLogoCanvas" aria-hidden="true"></canvas>
+        <img class="brand-logo-fallback" src="logo.png" alt="EczaPlus logo" />
+      </div>
+      <div>
+        <strong>ECZAPLUS</strong>
+        <span>ECZACILIK TOPLULUĞU</span>
+      </div>
+    </a>
+
+    <button class="menu-button" aria-label="Menüyü aç/kapat" aria-expanded="false">☰</button>
+
+    <nav class="nav" aria-label="Ana menü">
+      <a class="active" href="#anasayfa">Ana Sayfa</a>
+      <a href="#etkinlikler">Etkinlikler</a>
+      <a href="#duyurular">Duyurular</a>
+      <a href="#icerikler">İçerikler</a>
+      <a href="#ekibimiz">Ekibimiz</a>
+      <a href="#hakkimizda">Hakkımızda</a>
+      <a href="#dergi">Dergi</a>
+      <a href="#basvuru">Başvuru</a>
+      <a href="#iletisim">İletişim</a>
+    </nav>
+  </header>
+  <div class="page-floating-logo" aria-hidden="true">
+    <img src="logo.png" alt="">
+  </div>
+
+  <main>
+    <section id="anasayfa" class="hero watermark-section">
+
+      <div class="hero-copy">
+        <p class="eyebrow">NO. 2019-0340 · SÜREKLİ DÜZENLENİR</p>
+        <h1>ECZAPLUS</h1>
+        <p class="subtitle">ECZACILIK TOPLULUĞU</p>
+
+        <div class="rule"></div>
+
+        <p class="lead"><strong>Kullanım şekli:</strong> ayda en az bir buluşma, sınırsız meslektaş desteği, düzenli mesleki eğitim ve aylık dergi.</p>
+        <p class="description">2019'dan beri öğrencileri, yeni mezunları ve eczacıları ortak bir öğrenme kültüründe buluşturuyoruz. EczaPlus; içerik, etkinlik, dergi ve güçlü bir mesleki dayanışma alanı oluşturmayı hedefler.</p>
+
+        <div class="hero-actions">
+          <a class="btn btn-dark" href="#hakkimizda">Topluluğu Tanı <span>→</span></a>
+          <a class="btn btn-outline" href="#dergi">Dergi Arşivi</a>
+        </div>
+      </div>
+
+      <div class="hero-logo-stage" id="heroLogoStage" aria-label="Three.js ile 3 boyutlu hareketli logo alanı">
+        <div class="hero-logo-backdrop" aria-hidden="true">
+          <span class="ghost-word ghost-word-main">ECZA</span>
+          <span class="ghost-word ghost-word-sub">PLUS</span>
+          <span class="ghost-plus">+</span>
+        </div>
+        <div class="three-logo-shell" id="threeLogoShell">
+          <canvas id="threeLogoCanvas" aria-label="EczaPlus 3D logo"></canvas>
+          <div class="three-logo-fallback">
+            <img src="logo.png" alt="EczaPlus logosu">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="etkinlikler" class="content-section alt watermark-section">
+      <div class="section-heading">
+        <p class="eyebrow">BİRLİKTE ÖĞREN</p>
+        <h2>Etkinlikler</h2>
+      </div>
+      <div class="cards three">
+        <article class="card"><span>01</span><h3>Meslek Söyleşileri</h3><p>Eczane, endüstri, akademi ve kamu alanlarından konuklarla deneyim paylaşımı.</p></article>
+        <article class="card"><span>02</span><h3>Mini Eğitimler</h3><p>Farmakoloji, klinik eczacılık, bilimsel okuryazarlık ve kariyer odaklı kısa eğitimler.</p></article>
+        <article class="card"><span>03</span><h3>Topluluk Buluşmaları</h3><p>Öğrenci ve mezunları aynı masada buluşturan networking etkinlikleri.</p></article>
+      </div>
+    </section>
+
+    <section id="duyurular" class="content-section watermark-section">
+      <div class="section-heading row-heading">
+        <div><p class="eyebrow">GÜNCEL</p><h2>Duyurular</h2></div>
+        <a href="#iletisim" class="text-link">Başvuru için bize yaz →</a>
+      </div>
+      <div class="notice-grid">
+        <article class="notice-card">
+          <small>18 AĞUSTOS</small>
+          <h3>EczaPlus web sitesi yenilendi</h3>
+          <p>Yeni 3 boyutlu logo alanı, logolu arka plan sistemi ve mobil uyumlu tasarım yayında.</p>
+        </article>
+        <article class="notice-card">
+          <small>25 AĞUSTOS</small>
+          <h3>Yeni dönem ekip başvuruları</h3>
+          <p>İçerik, tasarım, iletişim ve etkinlik ekipleri için başvurular açılıyor.</p>
+        </article>
+        <article class="notice-card">
+          <small>1 EYLÜL</small>
+          <h3>İlk tanışma toplantısı</h3>
+          <p>Yeni üyeler için çevrim içi tanışma toplantısı ve topluluk tanıtımı düzenlenecek.</p>
+        </article>
+        <article class="notice-card">
+          <small>15 EYLÜL</small>
+          <h3>Ecza+ Dergi Sayı 01 çağrısı</h3>
+          <p>Yazı, röportaj, tasarım ve editörlük katkıları için içerik kabulü başlıyor.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="icerikler" class="content-section alt watermark-section">
+      <div class="section-heading"><p class="eyebrow">OKU · İZLE · ÖĞREN</p><h2>İçerikler</h2></div>
+      <div class="cards three">
+        <article class="card editorial"><small>FARMAKOLOJİ</small><h3>Yan etki ve advers etki aynı şey mi?</h3><p>Kavram farklarını sade ve doğru bir dille anlatan kısa içerik.</p><a href="#">İçeriğe git →</a></article>
+        <article class="card editorial"><small>BESLENME</small><h3>Probiyotik ve prebiyotik farkı</h3><p>Sık karıştırılan iki terimi örneklerle açıklayan rehber içerik.</p><a href="#">İçeriğe git →</a></article>
+        <article class="card editorial"><small>ECZACILIK</small><h3>Yeni eczacılık öğrencileri için başlangıç rehberi</h3><p>İlk sınıf ve yeni başlayan öğrenciler için yön gösterici mini kılavuz.</p><a href="#">İçeriğe git →</a></article>
+      </div>
+    </section>
+
+    <section id="ekibimiz" class="content-section watermark-section">
+      <div class="section-heading row-heading">
+        <div>
+          <p class="eyebrow">BİRLİKTE ÜRETİYORUZ</p>
+          <h2>Ekibimiz</h2>
+        </div>
+        <span class="section-note">Yeni ekip arkadaşları için başvurular açık</span>
+      </div>
+      <div class="team-grid">
+        <article class="team-card founder-card">
+          <div class="team-avatar">EB</div>
+          <h3>Kurucu / Genel Koordinatör</h3>
+          <strong>Efe Berke Demirkan</strong>
+          <p>EczaPlus'ın genel koordinasyonu, topluluk vizyonu, içerik planlaması ve stratejik gelişiminden sorumludur.</p>
+        </article>
+        <article class="team-card">
+          <div class="team-avatar">İ</div>
+          <h3>İçerik Ekibi</h3>
+          <strong>Başvuru Açık</strong>
+          <p>Bilgi postları, röportaj soruları, içerik planı ve metin üretimi.</p>
+        </article>
+        <article class="team-card">
+          <div class="team-avatar">T</div>
+          <h3>Tasarım Ekibi</h3>
+          <strong>Başvuru Açık</strong>
+          <p>Görseller, dergi düzeni, sosyal medya tasarımları ve marka dili.</p>
+        </article>
+        <article class="team-card">
+          <div class="team-avatar">İL</div>
+          <h3>İletişim / Organizasyon</h3>
+          <strong>Başvuru Açık</strong>
+          <p>Etkinlik koordinasyonu, başvuru süreçleri ve topluluk iletişimi.</p>
+        </article>
+      </div>
+    </section>
+
+
+    <section id="hakkimizda" class="content-section watermark-section">
+      <div class="section-heading">
+        <p class="eyebrow">BİZ KİMİZ?</p>
+        <h2>Hakkımızda</h2>
+      </div>
+      <div class="about-grid">
+        <p>EczaPlus; eczacılık öğrencilerini, mezunları ve meslek profesyonellerini ortak bir öğrenme kültüründe buluşturmayı amaçlayan bağımsız bir topluluktur. Bilgiyi yalnızca paylaşmak değil, düzenli hale getirmek ve sürdürülebilir bir topluluk kültürüne dönüştürmek ister.</p>
+        <p>Amacımız güncel bilimsel bilgiyi ulaşılır hale getirmek, kariyer deneyimlerini paylaşmak, üretken ekipler kurmak ve eczacılık öğrencileri arasında güçlü bir ağ oluşturmaktır. İçerikler, etkinlikler, duyurular ve dergi çalışmaları bu vizyonun parçalarıdır.</p>
+      </div>
+      <div class="pill-row">
+        <span>Öğrenci Odaklı</span>
+        <span>Mesleki Gelişim</span>
+        <span>Bilimsel İçerik</span>
+        <span>Topluluk Ruhu</span>
+      </div>
+    </section>
+
+    <section id="dergi" class="magazine-section watermark-section">
+      <div>
+        <p class="eyebrow">ECZA+ DERGİ</p>
+        <h2>Bilgiyi kaydet.<br>Paylaş. Büyüt.</h2>
+        <p>Röportajlar, güncel eczacılık konuları, öğrenci deneyimleri ve kariyer içerikleri tek yerde. Aşağıdaki sayılar alanını doldurarak bunu gerçek bir dergi arşivine dönüştürebilirsin.</p>
+        <a class="btn btn-light" href="#arsiv">Arşivi incele →</a>
+      </div>
+      <div class="magazine-cover">
+        <img src="logo.png" alt="EczaPlus logo">
+        <strong>DERGİ</strong>
+        <small>SAYI 01 · 2026</small>
+      </div>
+    </section>
+
+    <section id="arsiv" class="content-section alt watermark-section">
+      <div class="section-heading"><p class="eyebrow">DERGİ ARŞİVİ</p><h2>Son Sayılar</h2></div>
+      <div class="archive-grid">
+        <article class="archive-card">
+          <span>Sayı 01</span>
+          <h3>Eczacılıkta Yeni Başlangıçlar</h3>
+          <p>Yeni kazanan öğrenciler, ilk yıl tavsiyeleri ve topluluğa giriş rehberi.</p>
+          <a href="#">PDF bağlantısı ekle →</a>
+        </article>
+        <article class="archive-card">
+          <span>Sayı 02</span>
+          <h3>Meslek Söyleşileri</h3>
+          <p>Eczane eczacılığı, kariyer yolları ve mezun deneyimlerinden seçkiler.</p>
+          <a href="#">PDF bağlantısı ekle →</a>
+        </article>
+        <article class="archive-card">
+          <span>Sayı 03</span>
+          <h3>Bilimsel İçerik Dosyası</h3>
+          <p>Farmakoloji, ilaç bilgisi ve günlük hayatta merak edilen sağlık konuları.</p>
+          <a href="#">PDF bağlantısı ekle →</a>
+        </article>
+      </div>
+    </section>
+
+
+    <section id="basvuru" class="content-section application-section watermark-section">
+      <div class="section-heading">
+        <p class="eyebrow">ECZA+ EKİBİNE KATIL</p>
+        <h2>Başvuru Formu</h2>
+        <p class="form-intro">İçerik, tasarım, iletişim ve organizasyon ekiplerinden birine katılmak için formu doldur.</p>
+      </div>
+      <form id="applicationForm" class="application-form" method="POST">
+        <input type="text" name="_honey" class="honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <input type="hidden" name="_subject" value="Yeni EczaPlus Ekip Başvurusu">
+        <input type="hidden" name="_template" value="table">
+        <div class="form-grid">
+          <label>
+            <span>Ad Soyad *</span>
+            <input type="text" name="name" required placeholder="Adın ve soyadın">
+          </label>
+          <label>
+            <span>Üniversite *</span>
+            <input type="text" name="university" required placeholder="Üniversiten">
+          </label>
+          <label>
+            <span>Sınıf *</span>
+            <select name="classYear" required>
+              <option value="">Seç</option>
+              <option>Hazırlık</option>
+              <option>1. Sınıf</option>
+              <option>2. Sınıf</option>
+              <option>3. Sınıf</option>
+              <option>4. Sınıf</option>
+              <option>5. Sınıf</option>
+              <option>Mezun</option>
+            </select>
+          </label>
+          <label>
+            <span>E-posta *</span>
+            <input type="email" name="email" required placeholder="ornek@mail.com">
+          </label>
+          <label>
+            <span>Telefon / Instagram</span>
+            <input type="text" name="contact" placeholder="05xx... veya @kullaniciadi">
+          </label>
+          <label>
+            <span>Başvurulan Ekip *</span>
+            <select name="team" required>
+              <option value="">Ekip seç</option>
+              <option>İçerik Ekibi</option>
+              <option>Tasarım Ekibi</option>
+              <option>İletişim / Organizasyon</option>
+              <option>Dergi Ekibi</option>
+            </select>
+          </label>
+        </div>
+        <label class="full-field">
+          <span>Neden EczaPlus'a katılmak istiyorsun? *</span>
+          <textarea name="motivation" required rows="5" placeholder="Kısaca motivasyonundan bahset."></textarea>
+        </label>
+        <label class="full-field">
+          <span>Daha önceki deneyimlerin</span>
+          <textarea name="experience" rows="4" placeholder="Kulüp, tasarım, içerik üretimi, etkinlik vb."></textarea>
+        </label>
+        <label class="full-field">
+          <span>Eklemek istediğin bir şey var mı?</span>
+          <textarea name="note" rows="3" placeholder="İsteğe bağlı"></textarea>
+        </label>
+        <div class="form-actions">
+          <button class="btn btn-dark submit-button" type="submit">Başvuruyu Gönder →</button>
+          <p id="formStatus" class="form-status" aria-live="polite"></p>
+        </div>
+      </form>
+    </section>
+
+    <section id="iletisim" class="content-section contact watermark-section">
+      <div class="section-heading"><p class="eyebrow">BİZE ULAŞ</p><h2>İletişim</h2></div>
+      <p>Topluluğa katılmak, içerik üretmek, ekip başvurusu yapmak veya iş birliği kurmak için bizimle iletişime geç.</p>
+      <div class="contact-links">
+        <a href="mailto:eczaplus0@gmail.com">eczaplus0@gmail.com</a>
+        <a href="https://www.instagram.com/ecz.plus/" target="_blank" rel="noopener noreferrer">Instagram · @ecz.plus</a>
+      </div>
+    </section>
+  </main>
+
+  <nav class="mobile-bottom-nav" aria-label="Mobil hızlı menü">
+    <a href="#anasayfa"><span>⌂</span><small>Ana Sayfa</small></a>
+    <a href="#icerikler"><span>✦</span><small>İçerikler</small></a>
+    <a href="#basvuru" class="mobile-cta"><span>＋</span><small>Başvur</small></a>
+    <a href="#dergi"><span>▤</span><small>Dergi</small></a>
+    <a href="#iletisim"><span>✉</span><small>İletişim</small></a>
+  </nav>
+
+  <footer>
+    <div>
+      <strong>ECZAPLUS</strong>
+      <span>© 2026 EczaPlus Eczacılık Topluluğu</span>
+    </div>
+    <p>İçerik · Etkinlik · Dergi · Topluluk</p>
+  </footer>
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.165.0/build/three.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

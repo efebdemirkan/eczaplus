@@ -1,0 +1,21 @@
+{
+  "eyebrow": "BİRLİKTE ÖĞREN",
+  "title": "Etkinlikler",
+  "items": [
+    {
+      "number": "01",
+      "title": "Meslek Söyleşileri",
+      "text": "Eczane, endüstri, akademi ve kamu alanlarından konuklarla deneyim paylaşımı."
+    },
+    {
+      "number": "02",
+      "title": "Mini Eğitimler",
+      "text": "Farmakoloji, klinik eczacılık, bilimsel okuryazarlık ve kariyer odaklı kısa eğitimler."
+    },
+    {
+      "number": "03",
+      "title": "Topluluk Buluşmaları",
+      "text": "Öğrenci ve mezunları aynı masada buluşturan networking etkinlikleri."
+    }
+  ]
+}

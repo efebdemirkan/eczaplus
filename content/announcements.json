@@ -1,0 +1,28 @@
+{
+  "eyebrow": "GÜNCEL",
+  "title": "Duyurular",
+  "action_text": "Başvuru için bize yaz →",
+  "action_link": "#iletisim",
+  "items": [
+    {
+      "date": "18 AĞUSTOS",
+      "title": "EczaPlus web sitesi yenilendi",
+      "text": "Yeni 3 boyutlu logo alanı, logolu arka plan sistemi ve mobil uyumlu tasarım yayında."
+    },
+    {
+      "date": "25 AĞUSTOS",
+      "title": "Yeni dönem ekip başvuruları",
+      "text": "İçerik, tasarım, iletişim ve etkinlik ekipleri için başvurular açılıyor."
+    },
+    {
+      "date": "1 EYLÜL",
+      "title": "İlk tanışma toplantısı",
+      "text": "Yeni üyeler için çevrim içi tanışma toplantısı ve topluluk tanıtımı düzenlenecek."
+    },
+    {
+      "date": "15 EYLÜL",
+      "title": "Ecza+ Dergi Sayı 01 çağrısı",
+      "text": "Yazı, röportaj, tasarım ve editörlük katkıları için içerik kabulü başlıyor."
+    }
+  ]
+}

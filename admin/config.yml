@@ -1,0 +1,157 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "media/uploads"
+public_folder: "/media/uploads"
+
+locale: "tr"
+
+collections:
+  - name: "site"
+    label: "EczaPlus Site İçeriği"
+    files:
+      - label: "Ana Sayfa ve Hakkımızda"
+        name: "general"
+        file: "content/general.json"
+        format: "json"
+        fields:
+          - label: "Ana Sayfa"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: "Üst Küçük Yazı", name: "eyebrow", widget: "string"}
+              - {label: "Ana Başlık", name: "title", widget: "string"}
+              - {label: "Alt Başlık", name: "subtitle", widget: "string"}
+              - {label: "Kalın Giriş", name: "lead_label", widget: "string"}
+              - {label: "Giriş Metni", name: "lead_text", widget: "text"}
+              - {label: "Açıklama", name: "description", widget: "text"}
+              - {label: "1. Buton Yazısı", name: "primary_text", widget: "string"}
+              - {label: "1. Buton Linki", name: "primary_link", widget: "string"}
+              - {label: "2. Buton Yazısı", name: "secondary_text", widget: "string"}
+              - {label: "2. Buton Linki", name: "secondary_link", widget: "string"}
+          - label: "Hakkımızda"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+              - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "1. Paragraf", name: "paragraph_1", widget: "text"}
+              - {label: "2. Paragraf", name: "paragraph_2", widget: "text"}
+              - label: "Etiketler"
+                name: "pills"
+                widget: "list"
+                field: {label: "Etiket", name: "pill", widget: "string"}
+
+      - label: "Etkinlikler"
+        name: "events"
+        file: "content/events.json"
+        format: "json"
+        fields:
+          - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+          - {label: "Başlık", name: "title", widget: "string"}
+          - label: "Etkinlik Kartları"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.number}} · {{fields.title}}"
+            fields:
+              - {label: "Numara", name: "number", widget: "string"}
+              - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "Açıklama", name: "text", widget: "text"}
+
+      - label: "Duyurular"
+        name: "announcements"
+        file: "content/announcements.json"
+        format: "json"
+        fields:
+          - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+          - {label: "Başlık", name: "title", widget: "string"}
+          - {label: "Sağ Link Yazısı", name: "action_text", widget: "string"}
+          - {label: "Sağ Link", name: "action_link", widget: "string"}
+          - label: "Duyurular"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.date}} · {{fields.title}}"
+            fields:
+              - {label: "Tarih", name: "date", widget: "string"}
+              - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "Açıklama", name: "text", widget: "text"}
+
+      - label: "İçerikler"
+        name: "contents"
+        file: "content/contents.json"
+        format: "json"
+        fields:
+          - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+          - {label: "Başlık", name: "title", widget: "string"}
+          - label: "İçerik Kartları"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.category}} · {{fields.title}}"
+            fields:
+              - {label: "Kategori", name: "category", widget: "string"}
+              - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "Açıklama", name: "text", widget: "text"}
+              - {label: "Link", name: "link", widget: "string", required: false}
+              - {label: "Link Yazısı", name: "link_text", widget: "string", default: "İçeriğe git →"}
+
+      - label: "Ekibimiz"
+        name: "team"
+        file: "content/team.json"
+        format: "json"
+        fields:
+          - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+          - {label: "Başlık", name: "title", widget: "string"}
+          - {label: "Sağ Not", name: "note", widget: "string"}
+          - label: "Ekip Üyeleri"
+            name: "items"
+            widget: "list"
+            summary: "{{fields.name}} · {{fields.role}}"
+            fields:
+              - {label: "Baş Harfler", name: "initials", widget: "string"}
+              - {label: "Görev", name: "role", widget: "string"}
+              - {label: "Ad Soyad", name: "name", widget: "string"}
+              - {label: "Açıklama", name: "description", widget: "text"}
+              - {label: "Kurucu Kartı", name: "founder", widget: "boolean", default: false}
+              - {label: "Fotoğraf", name: "image", widget: "image", required: false}
+
+      - label: "Dergi ve Arşiv"
+        name: "magazine"
+        file: "content/magazine.json"
+        format: "json"
+        fields:
+          - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
+          - {label: "Başlık Satır 1", name: "title_line_1", widget: "string"}
+          - {label: "Başlık Satır 2", name: "title_line_2", widget: "string"}
+          - {label: "Açıklama", name: "description", widget: "text"}
+          - {label: "Buton Yazısı", name: "button_text", widget: "string"}
+          - {label: "Buton Linki", name: "button_link", widget: "string"}
+          - {label: "Kapak Başlığı", name: "cover_title", widget: "string"}
+          - {label: "Kapak Sayı Yazısı", name: "cover_issue", widget: "string"}
+          - {label: "Arşiv Üst Yazı", name: "archive_eyebrow", widget: "string"}
+          - {label: "Arşiv Başlığı", name: "archive_title", widget: "string"}
+          - label: "Dergi Sayıları"
+            name: "issues"
+            widget: "list"
+            summary: "{{fields.number}} · {{fields.title}}"
+            fields:
+              - {label: "Sayı", name: "number", widget: "string"}
+              - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "Açıklama", name: "text", widget: "text"}
+              - {label: "PDF", name: "pdf", widget: "file", required: false}
+              - {label: "Link Yazısı", name: "link_text", widget: "string", default: "PDF'i aç →"}
+
+      - label: "İletişim ve Başvuru"
+        name: "contact"
+        file: "content/contact.json"
+        format: "json"
+        fields:
+          - {label: "Başvuru Üst Yazı", name: "application_eyebrow", widget: "string"}
+          - {label: "Başvuru Başlığı", name: "application_title", widget: "string"}
+          - {label: "Başvuru Açıklaması", name: "application_intro", widget: "text"}
+          - {label: "İletişim Üst Yazı", name: "contact_eyebrow", widget: "string"}
+          - {label: "İletişim Başlığı", name: "contact_title", widget: "string"}
+          - {label: "İletişim Açıklaması", name: "contact_text", widget: "text"}
+          - {label: "E-posta", name: "email", widget: "string"}
+          - {label: "Instagram Kullanıcı Adı", name: "instagram_handle", widget: "string"}
+          - {label: "Instagram Linki", name: "instagram_url", widget: "string"}
