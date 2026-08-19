@@ -1,14 +1,12 @@
 {
+  "button_link": "#arsiv",
   "eyebrow": "ECZA+ DERGİ",
+  "archive_eyebrow": "DERGİ ARŞİVİ",
   "title_line_1": "Bilgiyi kaydet.",
   "title_line_2": "Paylaş. Büyüt.",
-  "description": "Röportajlar, güncel eczacılık konuları, öğrenci deneyimleri ve kariyer içerikleri tek yerde.",
-  "button_text": "Arşivi incele →",
-  "button_link": "#arsiv",
   "cover_title": "DERGİ",
   "cover_issue": "SAYI 01 · 2026",
-  "archive_eyebrow": "DERGİ ARŞİVİ",
-  "archive_title": "Son Sayılar",
+  "button_text": "Arşivi incele →",
   "issues": [
     {
       "number": "Sayı 01",
@@ -16,20 +14,8 @@
       "text": "Yeni kazanan öğrenciler, ilk yıl tavsiyeleri ve topluluğa giriş rehberi.",
       "pdf": "",
       "link_text": "PDF bağlantısı ekle →"
-    },
-    {
-      "number": "Sayı 02",
-      "title": "Meslek Söyleşileri",
-      "text": "Eczane eczacılığı, kariyer yolları ve mezun deneyimlerinden seçkiler.",
-      "pdf": "",
-      "link_text": "PDF bağlantısı ekle →"
-    },
-    {
-      "number": "Sayı 03",
-      "title": "Bilimsel İçerik Dosyası",
-      "text": "Farmakoloji, ilaç bilgisi ve günlük hayatta merak edilen sağlık konuları.",
-      "pdf": "",
-      "link_text": "PDF bağlantısı ekle →"
     }
-  ]
+  ],
+  "archive_title": "Son Sayılar",
+  "description": "Röportajlar, güncel eczacılık konuları, öğrenci deneyimleri ve kariyer içerikleri tek yerde."
 }
