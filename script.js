@@ -321,11 +321,12 @@ function setLink(selector, text, href) {
 
 async function hydrateCmsContent() {
   try {
-    const [general, events, announcements, contents, team, magazine, contact] = await Promise.all([
+    const [general, events, announcements, contents, articles, team, magazine, contact] = await Promise.all([
       loadJson('content/general.json'),
       loadJson('content/events.json'),
       loadJson('content/announcements.json'),
       loadJson('content/contents.json'),
+      loadJson('content/articles-index.json'),
       loadJson('content/team.json'),
       loadJson('content/magazine.json'),
       loadJson('content/contact.json')
@@ -346,20 +347,20 @@ async function hydrateCmsContent() {
     setText('#etkinlikler .eyebrow', events.eyebrow);
     setText('#etkinlikler h2', events.title);
     const eventsGrid = document.querySelector('#etkinlikler .cards');
-    if (eventsGrid) eventsGrid.innerHTML = (events.items || []).map(item => `<article class="card"><span>${escapeHtml(item.number)}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.text)}</p></article>`).join('');
+    if (eventsGrid) eventsGrid.innerHTML = (events.items || []).map(item => `<article class="card"><span>${escapeHtml(item.number)}</span><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.text)}</p><a class="card-detail-link" href="${escapeHtml(item.url || `/etkinlikler/${item.slug}/`)}">Etkinliğe git →</a></article>`).join('');
 
     // Announcements
     setText('#duyurular .eyebrow', announcements.eyebrow);
     setText('#duyurular h2', announcements.title);
     setLink('#duyurular .text-link', announcements.action_text, announcements.action_link);
     const noticeGrid = document.querySelector('#duyurular .notice-grid');
-    if (noticeGrid) noticeGrid.innerHTML = (announcements.items || []).map(item => `<article class="notice-card"><small>${escapeHtml(item.date)}</small><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.text)}</p></article>`).join('');
+    if (noticeGrid) noticeGrid.innerHTML = (announcements.items || []).map(item => `<article class="notice-card"><small>${escapeHtml(item.date)}</small><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.text)}</p><a class="card-detail-link" href="${escapeHtml(item.url || `/duyurular/${item.slug}/`)}">Duyuruya git →</a></article>`).join('');
 
     // Contents
     setText('#icerikler .eyebrow', contents.eyebrow);
     setText('#icerikler h2', contents.title);
     const contentsGrid = document.querySelector('#icerikler .cards');
-    if (contentsGrid) contentsGrid.innerHTML = (contents.items || []).map(item => `<article class="card editorial"><small>${escapeHtml(item.category)}</small><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.text)}</p><a href="${escapeHtml(item.link || '#')}">${escapeHtml(item.link_text || 'İçeriğe git →')}</a></article>`).join('');
+    if (contentsGrid) contentsGrid.innerHTML = (articles.items || []).map(item => `<article class="card editorial">${item.cover ? `<img class="content-card-cover" src="${escapeHtml(item.cover)}" alt="${escapeHtml(item.title)}">` : ''}<small>${escapeHtml(item.category)}</small><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.summary)}</p><a href="${escapeHtml(item.url)}">İçeriğe git →</a></article>`).join('');
 
     // Team
     setText('#ekibimiz .eyebrow', team.eyebrow);
@@ -391,7 +392,7 @@ async function hydrateCmsContent() {
     setText('#arsiv .eyebrow', magazine.archive_eyebrow);
     setText('#arsiv h2', magazine.archive_title);
     const archiveGrid = document.querySelector('#arsiv .archive-grid');
-    if (archiveGrid) archiveGrid.innerHTML = (magazine.issues || []).map(issue => `<article class="archive-card"><span>${escapeHtml(issue.number)}</span><h3>${escapeHtml(issue.title)}</h3><p>${escapeHtml(issue.text)}</p><a href="${escapeHtml(issue.pdf || '#')}">${escapeHtml(issue.link_text || 'PDF bağlantısı ekle →')}</a></article>`).join('');
+    if (archiveGrid) archiveGrid.innerHTML = (magazine.issues || []).map(issue => `<article class="archive-card">${issue.cover ? `<img class="content-card-cover" src="${escapeHtml(issue.cover)}" alt="${escapeHtml(issue.title)}">` : ''}<span>${escapeHtml(issue.number)}</span><h3>${escapeHtml(issue.title)}</h3><p>${escapeHtml(issue.text)}</p><a class="card-detail-link" href="${escapeHtml(issue.url || `/dergi/${issue.slug}/`)}">Dergiyi incele →</a>${issue.pdf ? `<a class="secondary-card-link" href="${escapeHtml(issue.pdf)}" target="_blank" rel="noopener">${escapeHtml(issue.link_text || "PDF'yi aç →")}</a>` : ''}</article>`).join('');
 
     // Application + contact
     setText('#basvuru .eyebrow', contact.application_eyebrow);

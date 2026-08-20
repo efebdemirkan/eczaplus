@@ -17,3 +17,11 @@ Dosyalar:
 
 Kullanım:
 index.html dosyasını çift tıklayıp tarayıcıda aç.
+
+Dinamik detay sayfalari:
+- Etkinlik kartlari /etkinlikler/<slug>/ adresine gider.
+- Duyuru kartlari /duyurular/<slug>/ adresine gider.
+- Icerik kartlari /icerikler/<slug>/ adresine gider.
+- Dergi kartlari /dergi/<slug>/ adresine gider.
+- CMS panelinde etkinlik, duyuru ve dergi kartlarina URL Kisa Adi, Detay Sayfasi Icerigi ve Kapak Gorseli alanlari eklendi.
+- Netlify build komutu node build.js oldugu icin CMS'de kaydettikten sonra detay sayfalari otomatik olusur.

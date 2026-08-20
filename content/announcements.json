@@ -3,5 +3,42 @@
   "title": "Duyurular",
   "action_text": "Başvuru için bize yaz →",
   "action_link": "#iletisim",
-  "items": []
+  "items": [
+    {
+      "date": "18 AĞUSTOS",
+      "title": "EczaPlus web sitesi yenilendi",
+      "text": "Yeni 3 boyutlu logo alanı, logolu arka plan sistemi ve mobil uyumlu tasarım yayında.",
+      "slug": "eczaplus-web-sitesi-yenilendi",
+      "cover": "",
+      "detail": "Yeni 3 boyutlu logo alanı, logolu arka plan sistemi ve mobil uyumlu tasarım yayında.",
+      "url": "/duyurular/eczaplus-web-sitesi-yenilendi/"
+    },
+    {
+      "date": "25 AĞUSTOS",
+      "title": "Yeni dönem ekip başvuruları",
+      "text": "İçerik, tasarım, iletişim ve etkinlik ekipleri için başvurular açılıyor.",
+      "slug": "yeni-donem-ekip-basvurulari",
+      "cover": "",
+      "detail": "İçerik, tasarım, iletişim ve etkinlik ekipleri için başvurular açılıyor.",
+      "url": "/duyurular/yeni-donem-ekip-basvurulari/"
+    },
+    {
+      "date": "1 EYLÜL",
+      "title": "İlk tanışma toplantısı",
+      "text": "Yeni üyeler için çevrim içi tanışma toplantısı ve topluluk tanıtımı düzenlenecek.",
+      "slug": "ilk-tanisma-toplantisi",
+      "cover": "",
+      "detail": "Yeni üyeler için çevrim içi tanışma toplantısı ve topluluk tanıtımı düzenlenecek.",
+      "url": "/duyurular/ilk-tanisma-toplantisi/"
+    },
+    {
+      "date": "15 EYLÜL",
+      "title": "Ecza+ Dergi Sayı 01 çağrısı",
+      "text": "Yazı, röportaj, tasarım ve editörlük katkıları için içerik kabulü başlıyor.",
+      "slug": "eczaplus-dergi-sayi-01-cagrisi",
+      "cover": "",
+      "detail": "Yazı, röportaj, tasarım ve editörlük katkıları için içerik kabulü başlıyor.",
+      "url": "/duyurular/eczaplus-dergi-sayi-01-cagrisi/"
+    }
+  ]
 }

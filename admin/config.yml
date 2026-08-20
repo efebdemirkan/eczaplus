@@ -57,7 +57,11 @@ collections:
             fields:
               - {label: "Numara", name: "number", widget: "string"}
               - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "URL Kısa Adı", name: "slug", widget: "string", hint: "Örn: meslek-soylesileri. Türkçe karakter ve boşluk kullanma."}
+              - {label: "Tarih", name: "date", widget: "string", required: false}
               - {label: "Açıklama", name: "text", widget: "text"}
+              - {label: "Detay Sayfası İçeriği", name: "detail", widget: "markdown"}
+              - {label: "Kapak Görseli", name: "cover", widget: "image", required: false}
 
       - label: "Duyurular"
         name: "announcements"
@@ -75,25 +79,18 @@ collections:
             fields:
               - {label: "Tarih", name: "date", widget: "string"}
               - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "URL Kısa Adı", name: "slug", widget: "string", hint: "Örn: yeni-donem-ekip-basvurulari"}
               - {label: "Açıklama", name: "text", widget: "text"}
+              - {label: "Detay Sayfası İçeriği", name: "detail", widget: "markdown"}
+              - {label: "Kapak Görseli", name: "cover", widget: "image", required: false}
 
-      - label: "İçerikler"
+      - label: "İçerikler Bölümü Ayarları"
         name: "contents"
         file: "content/contents.json"
         format: "json"
         fields:
           - {label: "Üst Yazı", name: "eyebrow", widget: "string"}
           - {label: "Başlık", name: "title", widget: "string"}
-          - label: "İçerik Kartları"
-            name: "items"
-            widget: "list"
-            summary: "{{fields.category}} · {{fields.title}}"
-            fields:
-              - {label: "Kategori", name: "category", widget: "string"}
-              - {label: "Başlık", name: "title", widget: "string"}
-              - {label: "Açıklama", name: "text", widget: "text"}
-              - {label: "Link", name: "link", widget: "string", required: false}
-              - {label: "Link Yazısı", name: "link_text", widget: "string", default: "İçeriğe git →"}
 
       - label: "Ekibimiz"
         name: "team"
@@ -137,7 +134,10 @@ collections:
             fields:
               - {label: "Sayı", name: "number", widget: "string"}
               - {label: "Başlık", name: "title", widget: "string"}
+              - {label: "URL Kısa Adı", name: "slug", widget: "string", hint: "Örn: sayi-01"}
               - {label: "Açıklama", name: "text", widget: "text"}
+              - {label: "Detay Sayfası İçeriği", name: "detail", widget: "markdown"}
+              - {label: "Kapak Görseli", name: "cover", widget: "image", required: false}
               - {label: "PDF", name: "pdf", widget: "file", required: false}
               - {label: "Link Yazısı", name: "link_text", widget: "string", default: "PDF'i aç →"}
 
@@ -155,3 +155,25 @@ collections:
           - {label: "E-posta", name: "email", widget: "string"}
           - {label: "Instagram Kullanıcı Adı", name: "instagram_handle", widget: "string"}
           - {label: "Instagram Linki", name: "instagram_url", widget: "string"}
+
+
+  - name: "articles"
+    label: "İçerik Yazıları"
+    label_singular: "İçerik Yazısı"
+    folder: "content/articles"
+    create: true
+    delete: true
+    extension: "md"
+    format: "frontmatter"
+    slug: "{{slug}}"
+    summary: "{{category}} · {{title}}"
+    sortable_fields: ["date", "title", "category"]
+    fields:
+      - {label: "Başlık", name: "title", widget: "string"}
+      - {label: "URL Kısa Adı", name: "slug", widget: "string", hint: "Örn: yan-etki-advers-etki. Türkçe karakter ve boşluk kullanma."}
+      - {label: "Kategori", name: "category", widget: "string"}
+      - {label: "Kısa Açıklama", name: "summary", widget: "text"}
+      - {label: "Yayın Tarihi", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: false}
+      - {label: "Kapak Görseli", name: "cover", widget: "image", required: false}
+      - {label: "Yayında", name: "published", widget: "boolean", default: true}
+      - {label: "Yazı İçeriği", name: "body", widget: "markdown"}

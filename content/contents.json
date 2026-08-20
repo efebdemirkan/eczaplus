@@ -1,27 +1,4 @@
 {
   "eyebrow": "OKU · İZLE · ÖĞREN",
-  "title": "İçerikler",
-  "items": [
-    {
-      "category": "FARMAKOLOJİ",
-      "title": "Yan etki ve advers etki aynı şey mi?",
-      "text": "Kavram farklarını sade ve doğru bir dille anlatan kısa içerik.",
-      "link": "#",
-      "link_text": "İçeriğe git →"
-    },
-    {
-      "category": "BESLENME",
-      "title": "Probiyotik ve prebiyotik farkı",
-      "text": "Sık karıştırılan iki terimi örneklerle açıklayan rehber içerik.",
-      "link": "#",
-      "link_text": "İçeriğe git →"
-    },
-    {
-      "link_text": "İçeriğe git →",
-      "title": "3 Soru 3 Cevap",
-      "text": "Eczacılığa farklı bir bakış",
-      "link": "#Röportajlar",
-      "category": "Röportaj"
-    }
-  ]
+  "title": "İçerikler"
 }
