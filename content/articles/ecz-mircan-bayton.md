@@ -4,6 +4,7 @@ slug: röportaj
 category: Röportaj
 summary: Eczacılığa dair farklı bakış açıları
 date: 21.08.2026
+cover: /media/uploads/1.png
 published: true
 ---
 ***`Ecz. Mircan Bayton kimdir?`***
