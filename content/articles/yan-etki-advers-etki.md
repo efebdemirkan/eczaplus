@@ -1,9 +1,9 @@
 ---
-title: "Yan etki ve advers etki aynı şey mi?"
-slug: "yan-etki-advers-etki"
-category: "FARMAKOLOJİ"
-summary: "Kavram farklarını sade ve doğru bir dille anlatan kısa içerik."
-date: "2026-08-19"
+title: Yan etki ve advers etki aynı şey mi?
+slug: yan-etki-advers-etki
+category: FARMAKOLOJİ
+summary: Aynı mıdır?
+date: 2026-08-19
 published: true
 ---
 ## Yan etki nedir?
