@@ -4,7 +4,7 @@ slug: reçetetürleri
 category: Eczacılık
 summary: Reçete renkleri neyi ifade eder?
 date: 21.08.2026
-cover: /media/uploads/1.png
+cover: /media/uploads/2.png
 published: true
 ---
 
