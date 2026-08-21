@@ -1,47 +1,13 @@
 {
+  "button_link": "#arsiv",
   "eyebrow": "ECZA+ DERGİ",
+  "archive_eyebrow": "DERGİ ARŞİVİ",
   "title_line_1": "Bilgiyi kaydet.",
   "title_line_2": "Paylaş. Büyüt.",
-  "description": "Röportajlar, güncel eczacılık konuları, öğrenci deneyimleri ve kariyer içerikleri tek yerde.",
-  "button_text": "Arşivi incele →",
-  "button_link": "#arsiv",
   "cover_title": "DERGİ",
   "cover_issue": "SAYI 01 · 2026",
-  "archive_eyebrow": "DERGİ ARŞİVİ",
-  "archive_title": "Son Sayılar",
-  "issues": [
-    {
-      "number": "Sayı 01",
-      "title": "Eczacılıkta Yeni Başlangıçlar",
-      "text": "Yeni kazanan öğrenciler, ilk yıl tavsiyeleri ve topluluğa giriş rehberi.",
-      "pdf": "",
-      "link_text": "PDF bağlantısı ekle →",
-      "slug": "sayi-01",
-      "cover": "",
-      "detail": "Yeni kazanan öğrenciler, ilk yıl tavsiyeleri ve topluluğa giriş rehberi.",
-      "url": "/dergi/sayi-01/"
-    },
-    {
-      "number": "Sayı 02",
-      "title": "Meslek Söyleşileri",
-      "text": "Eczane eczacılığı, kariyer yolları ve mezun deneyimlerinden seçkiler.",
-      "pdf": "",
-      "link_text": "PDF bağlantısı ekle →",
-      "slug": "sayi-02",
-      "cover": "",
-      "detail": "Eczane eczacılığı, kariyer yolları ve mezun deneyimlerinden seçkiler.",
-      "url": "/dergi/sayi-02/"
-    },
-    {
-      "number": "Sayı 03",
-      "title": "Bilimsel İçerik Dosyası",
-      "text": "Farmakoloji, ilaç bilgisi ve günlük hayatta merak edilen sağlık konuları.",
-      "pdf": "",
-      "link_text": "PDF bağlantısı ekle →",
-      "slug": "sayi-03",
-      "cover": "",
-      "detail": "Farmakoloji, ilaç bilgisi ve günlük hayatta merak edilen sağlık konuları.",
-      "url": "/dergi/sayi-03/"
-    }
-  ]
+  "button_text": "Arşivi incele →",
+  "issues": [],
+  "archive_title": "YAKINDA...",
+  "description": "Röportajlar, güncel eczacılık konuları, öğrenci deneyimleri ve kariyer içerikleri tek yerde."
 }
