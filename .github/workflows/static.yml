@@ -29,7 +29,9 @@ jobs:
           node-version: "24"
 
       - name: Build EczaPlus content pages
-        run: node build.js
+        run: |
+          node patch-build-images.js
+          node build.js
         env:
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
 
