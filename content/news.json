@@ -1,16 +1,26 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-08-31T22:19:57.150563+00:00",
+  "updated_at": "2026-08-31T23:19:51.485993+00:00",
   "items": [
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:29:43+00:00",
+      "published_at": "2026-08-31T22:28:20+00:00",
       "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
       "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T21:04:00+00:00",
+      "title": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals - Spectrum News",
+      "text": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals Spectrum News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
       "auto": true
     },
     {
@@ -26,8 +36,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - ScienceAlert",
-      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say ScienceAlert",
+      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - sciencealert.com",
+      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say sciencealert.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
@@ -45,22 +55,22 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T16:43:57+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T09:52:45-04:00",
       "title": "One injection could keep osteoarthritis drugs working for weeks",
       "text": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying drugs directly where they are needed while",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -331,16 +341,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
