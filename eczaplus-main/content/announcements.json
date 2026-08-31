@@ -1,0 +1,18 @@
+{
+  "eyebrow": "GÜNCEL",
+  "title": "Duyurular",
+  "action_text": "Eczaplus",
+  "action_link": "#iletisim",
+  "items": [
+    {
+      "date": "24.08.2026",
+      "title": "Eczaplus Başlıyor...",
+      "slug": "eczaplus-basliyor",
+      "text": "Ezcacılık Topluluğu",
+      "detail": "![](/media/uploads/1-19.webp)\n\n![](/media/uploads/2-12.webp)\n\n![](/media/uploads/3-12.webp)\n\n![](/media/uploads/4-12.webp)\n\n![](/media/uploads/5.webp)\n\n",
+      "cover": "/media/uploads/1-19.webp",
+      "url": "duyurular/eczaplus-basliyor/index.html",
+      "updated_at": "24.08.2026"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "items": [
+    {
+      "title": "Adsorpsiyon ve Absorpsiyon aynı mıdır?",
+      "slug": "adsorpsiyon-ve-absorpsiyon-ayni-midir",
+      "category": "Aynı mıdır?",
+      "summary": "|-",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "",
+      "url": "./icerikler/adsorpsiyon-ve-absorpsiyon-ayni-midir/index.html"
+    },
+    {
+      "title": "Ecz. Azra Çiftçi",
+      "slug": "ecz-azra-ciftci",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-4.webp",
+      "url": "./icerikler/ecz-azra-ciftci/index.html"
+    },
+    {
+      "title": "Ecz. Berat Yücel",
+      "slug": "ecz-berat-yucel",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-1.webp",
+      "url": "./icerikler/ecz-berat-yucel/index.html"
+    },
+    {
+      "title": "Ecz. Elif Saban",
+      "slug": "ecz-elif-saban",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-5.webp",
+      "url": "./icerikler/ecz-elif-saban/index.html"
+    },
+    {
+      "title": "Ecz. Gamze Can",
+      "slug": "ecz-gamze-can",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-2.webp",
+      "url": "./icerikler/ecz-gamze-can/index.html"
+    },
+    {
+      "title": "Ecz. Gizem Tuğba Akman",
+      "slug": "ecz-gizem-tugba-akman",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-11.webp",
+      "url": "./icerikler/ecz-gizem-tugba-akman/index.html"
+    },
+    {
+      "title": "Ecz. Helin Öner",
+      "slug": "ecz-helin-oner",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-13.webp",
+      "url": "./icerikler/ecz-helin-oner/index.html"
+    },
+    {
+      "title": "Ecz. İrem Tavil",
+      "slug": "ecz-irem-tavil",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-7.webp",
+      "url": "./icerikler/ecz-irem-tavil/index.html"
+    },
+    {
+      "title": "Ecz. Mircan Bayton",
+      "slug": "ecz-mircan-bayton",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1.webp",
+      "url": "./icerikler/ecz-mircan-bayton/index.html"
+    },
+    {
+      "title": "Ecz. Muhammed Nur Atay",
+      "slug": "ecz-muhammed-nur-atay",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-9.webp",
+      "url": "./icerikler/ecz-muhammed-nur-atay/index.html"
+    },
+    {
+      "title": "Ecz. Yağmur Yıldırım",
+      "slug": "ecz-yagmur-yildirim",
+      "category": "Röportaj",
+      "summary": "Eczacılığa dair farklı bakış açıları",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-3.webp",
+      "url": "./icerikler/ecz-yagmur-yildirim/index.html"
+    },
+    {
+      "title": "ECZACILIK NEDİR?",
+      "slug": "eczacilik-nedir",
+      "category": "Eczacılık",
+      "summary": "Eczacılık nedir?",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-15.webp",
+      "url": "./icerikler/eczacilik-nedir/index.html"
+    },
+    {
+      "title": "İlk Eczane",
+      "slug": "ilk-eczane",
+      "category": "Eczacılık",
+      "summary": "Tarihte ilk eczane",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/1-17.webp",
+      "url": "./icerikler/ilk-eczane/index.html"
+    },
+    {
+      "title": "MAGNEZYUM",
+      "slug": "magnezyum",
+      "category": "Takviyeler",
+      "summary": "Magnezyum ne işe yarar? Etkileşimleri, çeşitleri...",
+      "date": "2026-08-24",
+      "created_at": "2026-08-24",
+      "updated_at": "2026-08-24",
+      "cover": "/media/uploads/carousel-1.webp",
+      "url": "./icerikler/magnezyum/index.html"
+    },
+    {
+      "title": "Reçete Türleri",
+      "slug": "recete-turleri",
+      "category": "Eczacılık",
+      "summary": "Reçete renkleri neyi ifade eder?",
+      "date": "21.08.2026",
+      "created_at": "21.08.2026",
+      "updated_at": "21.08.2026",
+      "cover": "/media/uploads/6.webp",
+      "url": "./icerikler/recete-turleri/index.html"
+    },
+    {
+      "title": "Yan etki ve advers etki aynı şey mi?",
+      "slug": "yan-etki-advers-etki",
+      "category": "FARMAKOLOJİ",
+      "summary": "Aynı mıdır?",
+      "date": "2026-08-19",
+      "created_at": "2026-08-19",
+      "updated_at": "2026-08-19",
+      "cover": "",
+      "url": "./icerikler/yan-etki-advers-etki/index.html"
+    },
+    {
+      "title": "Probiyotik ve prebiyotik farkı",
+      "slug": "probiyotik-prebiyotik",
+      "category": "BESLENME",
+      "summary": "Aynı mıdır?",
+      "date": "2026-08-18",
+      "created_at": "2026-08-18",
+      "updated_at": "2026-08-18",
+      "cover": "",
+      "url": "./icerikler/probiyotik-prebiyotik/index.html"
+    }
+  ]
+}

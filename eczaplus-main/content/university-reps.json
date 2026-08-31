@@ -1,0 +1,274 @@
+{
+  "eyebrow": "TÜRKİYE ÇAPINDA ECZA+",
+  "title": "Üniversite Temsilcileri",
+  "description": "Türkiye’de 2026 yerleştirme listelerinde eczacılık programı bulunan şehirleri ve üniversiteleri haritada görüntüle.",
+  "items": [
+    {
+      "city": "Adana",
+      "x": 50.6,
+      "y": 76.5,
+      "universities": [
+        "Çukurova Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Adıyaman",
+      "x": 64.8,
+      "y": 66.3,
+      "universities": [
+        "Adıyaman Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Afyonkarahisar",
+      "x": 27.5,
+      "y": 53.2,
+      "universities": [
+        "Afyonkarahisar Sağlık Bilimleri Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Ankara",
+      "x": 38.7,
+      "y": 37.7,
+      "universities": [
+        "Hacettepe Üniversitesi",
+        "Ankara Üniversitesi",
+        "Gazi Üniversitesi",
+        "Başkent Üniversitesi",
+        "Ankara Medipol Üniversitesi",
+        "Sağlık Bilimleri Üniversitesi (Gülhane Eczacılık Fakültesi)",
+        "Lokman Hekim Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Ağrı",
+      "x": 87.8,
+      "y": 40.5,
+      "universities": [
+        "Ağrı İbrahim Çeçen Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Diyarbakır",
+      "x": 74.2,
+      "y": 64.4,
+      "universities": [
+        "Dicle Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Düzce",
+      "x": 30.5,
+      "y": 25.6,
+      "universities": [
+        "Düzce Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Edirne",
+      "x": 8.4,
+      "y": 14.6,
+      "universities": [
+        "Trakya Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Elazığ",
+      "x": 69.4,
+      "y": 54.3,
+      "universities": [
+        "Fırat Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Erzincan",
+      "x": 70.7,
+      "y": 40.1,
+      "universities": [
+        "Erzincan Binali Yıldırım Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Erzurum",
+      "x": 79.2,
+      "y": 38.0,
+      "universities": [
+        "Atatürk Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Eskişehir",
+      "x": 27.5,
+      "y": 39.7,
+      "universities": [
+        "Anadolu Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Isparta",
+      "x": 27.6,
+      "y": 66.3,
+      "universities": [
+        "Süleyman Demirel Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Kayseri",
+      "x": 51.4,
+      "y": 53.7,
+      "universities": [
+        "Erciyes Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Kocaeli",
+      "x": 24.7,
+      "y": 26.6,
+      "universities": [
+        "Kocaeli Sağlık ve Teknoloji Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Konya",
+      "x": 37.0,
+      "y": 64.9,
+      "universities": [
+        "Selçuk Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Malatya",
+      "x": 65.0,
+      "y": 58.5,
+      "universities": [
+        "İnönü Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Mersin",
+      "x": 47.3,
+      "y": 78.9,
+      "universities": [
+        "Mersin Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Samsun",
+      "x": 55.4,
+      "y": 19.7,
+      "universities": [
+        "Ondokuz Mayıs Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Sivas",
+      "x": 58.7,
+      "y": 40.1,
+      "universities": [
+        "Sivas Cumhuriyet Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Tokat",
+      "x": 56.5,
+      "y": 32.6,
+      "universities": [
+        "Tokat Gaziosmanpaşa Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Trabzon",
+      "x": 71.8,
+      "y": 23.5,
+      "universities": [
+        "Karadeniz Teknik Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Van",
+      "x": 89.4,
+      "y": 56.6,
+      "universities": [
+        "Van Yüzüncü Yıl Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Zonguldak",
+      "x": 33.6,
+      "y": 17.5,
+      "universities": [
+        "Zonguldak Bülent Ecevit Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "İstanbul",
+      "x": 20.0,
+      "y": 23.4,
+      "universities": [
+        "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+        "Yeditepe Üniversitesi",
+        "İstanbul Üniversitesi",
+        "Bahçeşehir Üniversitesi",
+        "İstanbul Medipol Üniversitesi",
+        "Marmara Üniversitesi",
+        "İstanbul Üniversitesi-Cerrahpaşa",
+        "Bezmialem Vakıf Üniversitesi",
+        "İstanbul Aydın Üniversitesi",
+        "Biruni Üniversitesi",
+        "İstinye Üniversitesi",
+        "Altınbaş Üniversitesi",
+        "İstanbul Sağlık ve Teknoloji Üniversitesi",
+        "İstanbul Okan Üniversitesi",
+        "İstanbul Kent Üniversitesi",
+        "Fenerbahçe Üniversitesi",
+        "İstanbul Yeni Yüzyıl Üniversitesi",
+        "Sağlık Bilimleri Üniversitesi (Hamidiye Eczacılık Fakültesi)"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "İzmir",
+      "x": 11.2,
+      "y": 57.6,
+      "universities": [
+        "Ege Üniversitesi",
+        "İzmir Katip Çelebi Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    },
+    {
+      "city": "Şanlıurfa",
+      "x": 67.3,
+      "y": 74.2,
+      "universities": [
+        "Harran Üniversitesi"
+      ],
+      "representative": "Temsilcilik başvurusu açık"
+    }
+  ]
+}

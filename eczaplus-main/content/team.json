@@ -1,0 +1,39 @@
+{
+  "eyebrow": "BİRLİKTE ÜRETİYORUZ",
+  "title": "Ekibimiz",
+  "note": "Yeni ekip arkadaşları için başvurular açılacak. Beklemede kalın...",
+  "items": [
+    {
+      "initials": "EB",
+      "role": "Kurucu / Genel Koordinatör",
+      "name": "Efe Berke Demirkan",
+      "description": "EczaPlus'ın genel koordinasyonu, topluluk vizyonu, içerik planlaması ve stratejik gelişiminden sorumludur.",
+      "founder": true,
+      "image": ""
+    },
+    {
+      "initials": "İ",
+      "role": "İçerik Ekibi",
+      "name": "Başvuru Açık",
+      "description": "Bilgi postları, röportaj soruları, içerik planı ve metin üretimi.",
+      "founder": false,
+      "image": ""
+    },
+    {
+      "initials": "T",
+      "role": "Tasarım Ekibi",
+      "name": "Başvuru Açık",
+      "description": "Görseller, dergi düzeni, sosyal medya tasarımları ve marka dili.",
+      "founder": false,
+      "image": ""
+    },
+    {
+      "initials": "İL",
+      "role": "İletişim / Organizasyon",
+      "name": "Başvuru Açık",
+      "description": "Etkinlik koordinasyonu, başvuru süreçleri ve topluluk iletişimi.",
+      "founder": false,
+      "image": ""
+    }
+  ]
+}

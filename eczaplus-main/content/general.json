@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "eyebrow": "Eczacılık sandığından daha fazlası",
+    "title": "ECZAPLUS",
+    "subtitle": "ECZACILIK TOPLULUĞU",
+    "lead_label": "Kullanım şekli: Her zaman yanında",
+    "lead_text": "ecza+",
+    "description": "EczaPlus; eczacılık öğrencilerini, yeni mezunları ve meslek profesyonellerini bilgi, deneyim ve fırsatlar etrafında buluşturan bağımsız bir eczacılık topluluğudur. Amacımız güvenilir bilgiyi erişilebilir kılmak, farklı kariyer yollarını görünür hale getirmek ve paylaşan, üreten güçlü bir mesleki ağ oluşturmaktır.",
+    "primary_text": "Topluluğu Tanı",
+    "primary_link": "#hakkimizda",
+    "secondary_text": "İçerikler",
+    "secondary_link": "#içerikler"
+  },
+  "about": {
+    "eyebrow": "BİZ KİMİZ?",
+    "title": "Hakkımızda",
+    "paragraph_1": "EczaPlus; eczacılık öğrencilerini, yeni mezunları ve meslek profesyonellerini aynı çatı altında buluşturan bağımsız bir eczacılık topluluğudur. Bilimsel bilgiye erişimi kolaylaştırmak, mesleki deneyimleri paylaşmak ve öğrencilerin eczacılığın farklı alanlarını daha yakından tanımasına yardımcı olmak için çalışıyoruz.",
+    "paragraph_2": "Hedefimiz; içerikler, röportajlar, etkinlikler, duyurular ve gelecekteki yayın çalışmalarımız aracılığıyla eczacılık alanında güvenilir, üretken ve sürdürülebilir bir paylaşım ağı oluşturmak. EczaPlus'ı yalnızca bilgi sunan bir platform değil, öğrencilerin ve meslek profesyonellerinin birbirinden öğrenebildiği, fikir üretebildiği ve birlikte gelişebildiği bir topluluk olarak büyütmek istiyoruz.",
+    "pills": [
+      "Öğrenci Odaklı",
+      "Mesleki Gelişim",
+      "Bilimsel İçerik",
+      "Topluluk Ruhu"
+    ]
+  }
+}
