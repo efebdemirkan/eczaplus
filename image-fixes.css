@@ -1,0 +1,87 @@
+/* EczaPlus image visibility + no-crop fixes */
+.content-card-cover{
+  display:block!important;
+  width:100%!important;
+  max-width:100%!important;
+  height:auto!important;
+  aspect-ratio:auto!important;
+  object-fit:contain!important;
+  object-position:center!important;
+  margin:0 0 18px!important;
+  border-radius:18px!important;
+  background:#f2f1ec!important;
+}
+
+.content-cover-photo{
+  position:relative!important;
+  width:100%!important;
+  height:auto!important;
+  min-height:0!important;
+  aspect-ratio:auto!important;
+  overflow:hidden!important;
+  background:#f2f1ec!important;
+}
+.content-cover-photo img{
+  position:relative!important;
+  inset:auto!important;
+  display:block!important;
+  width:100%!important;
+  max-width:100%!important;
+  height:auto!important;
+  max-height:none!important;
+  aspect-ratio:auto!important;
+  object-fit:contain!important;
+  object-position:center!important;
+  transform:none!important;
+}
+.card:hover .content-cover-photo img,
+.featured-primary:hover .content-cover-photo img,
+.featured-mini:hover .content-cover-photo img{
+  transform:none!important;
+}
+
+.article-cover,
+.article-inline-image,
+.article-body img{
+  display:block!important;
+  width:100%!important;
+  max-width:100%!important;
+  height:auto!important;
+  max-height:none!important;
+  aspect-ratio:auto!important;
+  object-fit:contain!important;
+  object-position:center!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+}
+.article-cover{
+  border-radius:18px!important;
+  background:#f2f1ec!important;
+}
+.article-inline-image,
+.article-body img{
+  margin-top:22px!important;
+  margin-bottom:22px!important;
+  border-radius:16px!important;
+}
+
+@media(max-width:720px){
+  .content-card-cover,
+  .content-cover-photo,
+  .content-cover-photo img,
+  .article-cover,
+  .article-inline-image,
+  .article-body img{
+    width:100%!important;
+    max-width:100%!important;
+    height:auto!important;
+    max-height:none!important;
+    aspect-ratio:auto!important;
+    object-fit:contain!important;
+    object-position:center!important;
+  }
+  .article-cover{
+    margin:18px 0 24px!important;
+    border-radius:14px!important;
+  }
+}
