@@ -1,0 +1,515 @@
+media:
+- name: images
+  label: Görseller
+  input: media/uploads
+  output: /media/uploads
+  categories:
+  - image
+  extensions:
+  - png
+  - jpg
+  - jpeg
+  - webp
+  - gif
+  rename: safe
+- name: documents
+  label: Belgeler
+  input: media/documents
+  output: /media/documents
+  categories:
+  - document
+  extensions:
+  - pdf
+  rename: safe
+content:
+- name: articles
+  label: İçerikler
+  type: collection
+  path: content/articles
+  format: yaml-frontmatter
+  filename: '{fields.slug}.md'
+  view:
+    primary: title
+    fields:
+    - title
+    - category
+    - date
+    - published
+    sort:
+    - date
+    - title
+    search:
+    - title
+    - category
+    - summary
+    default:
+      sort: date
+      order: desc
+  fields:
+  - name: title
+    label: Başlık
+    type: string
+    required: true
+  - name: slug
+    label: URL kısa adı
+    type: string
+    required: true
+    pattern: ^[a-z0-9-]+$
+  - name: category
+    label: Kategori
+    type: string
+    required: true
+  - name: summary
+    label: Kısa açıklama
+    type: text
+  - name: date
+    label: Yayın tarihi
+    type: date
+  - name: cover
+    label: Kapak görseli
+    type: image
+    options:
+      media: images
+  - name: published
+    label: Yayında
+    type: boolean
+    default: true
+  - name: body
+    label: İçerik
+    type: rich-text
+    options:
+      media: images
+      format: markdown
+- name: events
+  label: Etkinlikler
+  type: file
+  path: content/events.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: eyebrow
+    label: Üst başlık
+    type: string
+  - name: title
+    label: Bölüm başlığı
+    type: string
+  - name: items
+    label: Etkinlikler
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: number
+      label: Sıra
+      type: string
+    - name: title
+      label: Etkinlik adı
+      type: string
+    - name: slug
+      label: URL kısa adı
+      type: string
+    - name: date
+      label: Tarih
+      type: string
+    - name: text
+      label: Kısa açıklama
+      type: text
+    - name: detail
+      label: Detay
+      type: rich-text
+      options:
+        format: markdown
+    - name: cover
+      label: Kapak görseli
+      type: image
+      options:
+        media: images
+    - name: capacity
+      label: Kontenjan
+      type: number
+    - name: registration_open
+      label: Kayıt açık
+      type: boolean
+    - name: certificate_enabled
+      label: Sertifika var
+      type: boolean
+    - name: status
+      label: Durum
+      type: string
+    - name: url
+      label: Sayfa yolu
+      type: string
+- name: announcements
+  label: Duyurular
+  type: file
+  path: content/announcements.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: eyebrow
+    label: Üst başlık
+    type: string
+  - name: title
+    label: Bölüm başlığı
+    type: string
+  - name: action_text
+    label: Buton yazısı
+    type: string
+  - name: action_link
+    label: Buton bağlantısı
+    type: string
+  - name: items
+    label: Duyurular
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: date
+      label: Tarih
+      type: string
+    - name: title
+      label: Duyuru başlığı
+      type: string
+    - name: slug
+      label: URL kısa adı
+      type: string
+    - name: text
+      label: Kısa açıklama
+      type: text
+    - name: detail
+      label: Detay
+      type: rich-text
+      options:
+        format: markdown
+    - name: cover
+      label: Kapak görseli
+      type: image
+      options:
+        media: images
+    - name: url
+      label: Sayfa yolu
+      type: string
+- name: magazine
+  label: Dergi
+  type: file
+  path: content/magazine.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: eyebrow
+    label: Üst başlık
+    type: string
+  - name: title_line_1
+    label: Başlık 1
+    type: string
+  - name: title_line_2
+    label: Başlık 2
+    type: string
+  - name: description
+    label: Açıklama
+    type: text
+  - name: cover_title
+    label: Kapak başlığı
+    type: string
+  - name: cover_issue
+    label: Kapak sayı bilgisi
+    type: string
+  - name: button_text
+    label: Buton yazısı
+    type: string
+  - name: button_link
+    label: Buton bağlantısı
+    type: string
+  - name: archive_eyebrow
+    label: Arşiv üst başlığı
+    type: string
+  - name: archive_title
+    label: Arşiv başlığı
+    type: string
+  - name: issues
+    label: Dergi sayıları
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{number} · {title}'
+    fields:
+    - name: number
+      label: Sayı
+      type: string
+    - name: title
+      label: Başlık
+      type: string
+    - name: slug
+      label: URL kısa adı
+      type: string
+    - name: text
+      label: Kısa açıklama
+      type: text
+    - name: detail
+      label: Detay
+      type: rich-text
+      options:
+        format: markdown
+    - name: cover
+      label: Kapak görseli
+      type: image
+      options:
+        media: images
+    - name: pdf
+      label: Dergi PDF
+      type: file
+      options:
+        media: documents
+        extensions:
+        - pdf
+    - name: link_text
+      label: PDF buton yazısı
+      type: string
+    - name: url
+      label: Sayfa yolu
+      type: string
+    - name: pages
+      label: Sayfa görselleri
+      type: image
+      list: true
+      options:
+        media: images
+- name: team
+  label: Ekip
+  type: file
+  path: content/team.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: eyebrow
+    label: Üst başlık
+    type: string
+  - name: title
+    label: Başlık
+    type: string
+  - name: note
+    label: Bölüm notu
+    type: text
+  - name: items
+    label: Ekip üyeleri
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{name} · {role}'
+    fields:
+    - name: initials
+      label: Baş harfler
+      type: string
+    - name: role
+      label: Görev
+      type: string
+    - name: name
+      label: İsim
+      type: string
+    - name: description
+      label: Açıklama
+      type: text
+    - name: founder
+      label: Kurucu kartı
+      type: boolean
+    - name: image
+      label: Profil fotoğrafı
+      type: image
+      options:
+        media: images
+- name: representatives
+  label: Üniversite Temsilcileri
+  type: file
+  path: content/university-reps.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: eyebrow
+    label: Üst başlık
+    type: string
+  - name: title
+    label: Başlık
+    type: string
+  - name: items
+    label: Temsilciler
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{name} · {university}'
+    fields:
+    - name: name
+      label: İsim
+      type: string
+    - name: university
+      label: Üniversite
+      type: string
+    - name: city
+      label: Şehir
+      type: string
+    - name: role
+      label: Görev
+      type: string
+    - name: image
+      label: Fotoğraf
+      type: image
+      options:
+        media: images
+    - name: x
+      label: Harita X
+      type: number
+    - name: y
+      label: Harita Y
+      type: number
+- name: instagram
+  label: Instagram
+  type: file
+  path: content/instagram.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: handle
+    label: Kullanıcı adı
+    type: string
+  - name: profile_url
+    label: Profil bağlantısı
+    type: string
+  - name: items
+    label: Gönderiler
+    type: object
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+    fields:
+    - name: title
+      label: Başlık
+      type: string
+    - name: url
+      label: Instagram bağlantısı
+      type: string
+    - name: image
+      label: Görsel
+      type: image
+      options:
+        media: images
+- name: general
+  label: Ana Sayfa / Hakkımızda
+  type: file
+  path: content/general.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: hero
+    label: Ana ekran
+    type: object
+    fields:
+    - name: eyebrow
+      label: Üst başlık
+      type: string
+    - name: title
+      label: Ana başlık
+      type: string
+    - name: subtitle
+      label: Alt başlık
+      type: string
+    - name: lead_label
+      label: Küçük vurgu
+      type: string
+    - name: lead_text
+      label: Vurgu metni
+      type: string
+    - name: description
+      label: Açıklama
+      type: text
+    - name: primary_text
+      label: Birinci buton
+      type: string
+    - name: primary_link
+      label: Birinci buton bağlantısı
+      type: string
+    - name: secondary_text
+      label: İkinci buton
+      type: string
+    - name: secondary_link
+      label: İkinci buton bağlantısı
+      type: string
+  - name: about
+    label: Hakkımızda
+    type: object
+    fields:
+    - name: eyebrow
+      label: Üst başlık
+      type: string
+    - name: title
+      label: Başlık
+      type: string
+    - name: paragraph_1
+      label: Paragraf 1
+      type: text
+    - name: paragraph_2
+      label: Paragraf 2
+      type: text
+    - name: pills
+      label: Etiketler
+      type: string
+      list: true
+- name: contact
+  label: İletişim / Başvuru
+  type: file
+  path: content/contact.json
+  format: json
+  operations:
+    delete: false
+    rename: false
+  fields:
+  - name: application_eyebrow
+    label: Başvuru üst başlığı
+    type: string
+  - name: application_title
+    label: Başvuru başlığı
+    type: string
+  - name: application_intro
+    label: Başvuru açıklaması
+    type: text
+  - name: contact_eyebrow
+    label: İletişim üst başlığı
+    type: string
+  - name: contact_title
+    label: İletişim başlığı
+    type: string
+  - name: contact_text
+    label: İletişim açıklaması
+    type: text
+  - name: email
+    label: E-posta
+    type: string
+  - name: instagram_handle
+    label: Instagram kullanıcı adı
+    type: string
+  - name: instagram_url
+    label: Instagram bağlantısı
+    type: string
+settings:
+  commit:
+    identity: user
