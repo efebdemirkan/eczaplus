@@ -1,0 +1,123 @@
+name: EczaPlus Haber Panosu Güncelle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: eczaplus-news
+  cancel-in-progress: true
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Haberleri çek
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, re, html, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from email.utils import parsedate_to_datetime
+
+          OUT = Path("content/news.json")
+          OUT.parent.mkdir(parents=True, exist_ok=True)
+          FEEDS = [
+              ("EMA", "İlaç / Regülasyon", "https://www.ema.europa.eu/en/news.xml", 10),
+              ("FDA MedWatch", "İlaç Güvenliği", "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml", 10),
+              ("ScienceDaily", "Farmakoloji", "https://www.sciencedaily.com/rss/health_medicine/pharmacology.xml", 8),
+              ("ScienceDaily", "Farmasötik Bilimler", "https://www.sciencedaily.com/rss/health_medicine/pharmaceuticals.xml", 8),
+              ("Google News", "İlaç / Eczacılık", "https://news.google.com/rss/search?q=pharmacy+OR+pharmacology+OR+drug+medicine&hl=en-US&gl=US&ceid=US:en", 12),
+          ]
+
+          def clean(s):
+              s = html.unescape(s or "")
+              s = re.sub(r"<[^>]+>", " ", s)
+              return re.sub(r"\s+", " ", s).strip()
+
+          def parse_date(s):
+              if not s: return None
+              try:
+                  d = parsedate_to_datetime(s)
+                  return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+              except Exception:
+                  try: return datetime.fromisoformat(s.replace("Z", "+00:00"))
+                  except Exception: return None
+
+          def fmt_date(d):
+              return d.astimezone(timezone.utc).strftime("%d.%m.%Y") if d else ""
+
+          def fetch(url):
+              req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0 EczaPlus-NewsBot/1.0"})
+              with urllib.request.urlopen(req, timeout=20) as r: return r.read()
+
+          def first_text(el, names):
+              for name in names:
+                  node = el.find(name)
+                  if node is not None and node.text: return clean(node.text)
+              return ""
+
+          items = []
+          for source, category, url, limit in FEEDS:
+              try:
+                  root = ET.fromstring(fetch(url))
+                  nodes = root.findall(".//item") or root.findall(".//{http://www.w3.org/2005/Atom}entry")
+                  count = 0
+                  for node in nodes:
+                      title = first_text(node, ["title", "{http://www.w3.org/2005/Atom}title"])
+                      link = first_text(node, ["link"])
+                      if not link:
+                          atom_link = node.find("{http://www.w3.org/2005/Atom}link")
+                          if atom_link is not None: link = atom_link.attrib.get("href", "")
+                      pub = first_text(node, ["pubDate", "{http://www.w3.org/2005/Atom}published", "{http://www.w3.org/2005/Atom}updated"])
+                      desc = first_text(node, ["description", "{http://www.w3.org/2005/Atom}summary"])
+                      if not title or not link: continue
+                      low = f"{title} {link}".lower()
+                      if any(x in low for x in ["veterinary", "pet food", "tobacco"]): continue
+                      d = parse_date(pub)
+                      items.append({"date":fmt_date(d),"published_at":d.isoformat() if d else "","title":title,"text":desc[:260] if desc else "Eczacılık, ilaç ve sağlık alanında güncel haber.","source":source,"category":category,"url":link,"auto":True})
+                      count += 1
+                      if count >= limit: break
+              except Exception as e:
+                  print(f"{source}: {e}")
+
+          current = {"eyebrow":"ECZACILIK GÜNDEMİ","title":"Haber Panosu","items":[]}
+          if OUT.exists():
+              try: current = json.loads(OUT.read_text(encoding="utf-8"))
+              except Exception: pass
+          manual = [x for x in current.get("items", []) if not x.get("auto")]
+          seen, unique = set(), []
+          for x in sorted(items, key=lambda i:i.get("published_at", ""), reverse=True):
+              key = (x.get("url", "") + "|" + x.get("title", "")).lower()
+              if key in seen: continue
+              seen.add(key); unique.append(x)
+          result = {"eyebrow":current.get("eyebrow") or "ECZACILIK GÜNDEMİ","title":current.get("title") or "Haber Panosu","updated_at":datetime.now(timezone.utc).isoformat(),"items":(manual + unique)[:50]}
+          OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          PY
+
+      - name: Değişiklikleri kaydet
+        shell: bash
+        run: |
+          if git diff --quiet -- content/news.json; then
+            echo "Yeni değişiklik yok."
+            exit 0
+          fi
+          git config user.name "EczaPlus News Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add content/news.json
+          git commit -m "Haber panosunu otomatik güncelle"
+          git pull --rebase origin main
+          git push origin HEAD:main
