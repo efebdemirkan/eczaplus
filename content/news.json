@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T03:26:49.356400+00:00",
+  "updated_at": "2026-09-01T04:25:57.695492+00:00",
   "items": [
     {
       "date": "31.08.2026",
@@ -16,8 +16,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals - Spectrum News",
-      "text": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals Spectrum News",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
@@ -176,21 +176,21 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: IV Start Kit Issue from Avid Medical",
-      "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
       "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "Early Alert: IV Start Kit Issue from Avid Medical",
+      "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
       "auto": true
     },
     {
@@ -206,8 +206,8 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T12:00:00+00:00",
-      "title": "Evolving causes, diagnosis of drug-induced liver injury - Michigan Medicine",
-      "text": "Evolving causes, diagnosis of drug-induced liver injury Michigan Medicine",
+      "title": "Evolving causes, diagnosis of drug-induced liver injury - michiganmedicine.org",
+      "text": "Evolving causes, diagnosis of drug-induced liver injury michiganmedicine.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3l1MTNFOTR5VVVSNUQyaXpWT1dZRjlyQXlIWmh6cjlFT3N5QkNPd3VxWldOR0JoS3F4VTFXT3ZGWXJsRmF2Z2JWdk9YZlczRERWR2MzZ0hCUUdOdGVEMlF1WXFDalM0SjBTbWROVGJKZEN2WlJvLVlPYmszcHdKZmlQck9fZDY3dFlVSXNzemY5c0VEVEtQRTNwQQ?oc=5",
@@ -236,21 +236,21 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T00:00:00-04:00",
-      "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
-      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T00:00:00-04:00",
       "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
       "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
+      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
       "auto": true
     },
     {
@@ -266,21 +266,21 @@
     {
       "date": "26.08.2026",
       "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-      "text": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-      "auto": true
-    },
-    {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
       "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
       "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "26.08.2026",
+      "published_at": "2026-08-26T00:00:00-04:00",
+      "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
+      "text": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
       "auto": true
     },
     {
