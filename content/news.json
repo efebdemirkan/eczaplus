@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-08-31T23:19:51.485993+00:00",
+  "updated_at": "2026-09-01T00:36:18.281846+00:00",
   "items": [
     {
       "date": "31.08.2026",
@@ -36,8 +36,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - sciencealert.com",
-      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say sciencealert.com",
+      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - ScienceAlert",
+      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say ScienceAlert",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
@@ -125,16 +125,6 @@
     },
     {
       "date": "29.08.2026",
-      "published_at": "2026-08-29T09:16:21+00:00",
-      "title": "Why some companies may not be offering coverage for GLP-1 weight loss drugs - ABC News - Breaking News, Latest News and Videos",
-      "text": "Why some companies may not be offering coverage for GLP-1 weight loss drugs ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHVPV3lEaTFBUFd6dlhYMW8yVktCNVB5Vi1RajZreURmUkxBSmt4S3BTc29fQU5faXJhRkFmMGtSYkI4QXJZaVJ4UThMenZnUzBJNHZZcExEbno0WGlqQjJfdVZ6WkVtemY2UnFzQS1CMWNCYThSdzlNWmxoenY2WnB5NFZtUzhyMWNNYUFmdGtmLWducXdDTHhBdjZTQdIBowFBVV95cUxQWF9WT1R1VlFWMDdYUUI0RUNCR2hmNEJUWHlkVlVGclpobWZja0paMXpOWVBNYzlONzFYbmxlUW5lbHowRFBocXhJcVpZUmxaR3VjQWZJTmxpVmVYRFlIN19fMHNxVHB0WlBZanV4aVVuMzQtcGhYR2c0b2pRRmVlSUt2QU1YMDBOZU9HYTA2b3dtbmowT01VUXRQTG5PUVJhUmRN?oc=5",
-      "auto": true
-    },
-    {
-      "date": "29.08.2026",
       "published_at": "2026-08-29T06:52:20-04:00",
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "text": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions",
@@ -176,21 +166,21 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: IV Start Kit Issue from Avid Medical",
       "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -236,21 +226,21 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T00:00:00-04:00",
-      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
-      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T00:00:00-04:00",
       "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
       "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
       "auto": true
     },
     {
@@ -266,21 +256,21 @@
     {
       "date": "26.08.2026",
       "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
       "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
       "text": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+      "auto": true
+    },
+    {
+      "date": "26.08.2026",
+      "published_at": "2026-08-26T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -341,6 +331,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+      "auto": true
+    },
+    {
+      "date": "13.08.2026",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
+      "text": "Nonprescription Drug Product with an ACNU fda.gov",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
