@@ -1,13 +1,33 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T05:25:21.903157+00:00",
+  "updated_at": "2026-09-01T06:32:15.966175+00:00",
   "items": [
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T06:22:30+00:00",
+      "title": "UTA uses AI to advance precision medicine - uta.edu",
+      "text": "UTA uses AI to advance precision medicine uta.edu",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUZ6NVR2OEM0eS10Y01sQzc3eHRhZmxKM1hwQnRCVjdsRGJjUHdQZk13YVBaeXc0MlotMFV4c1FxUkx6RU8wUTR2dWl0T2JETDAtemwxUlhrN2p1Y3h5YkFSeDBBTDIxVFFGSlFET3g2cWtDOExTNmlYR1ZCX2Nud014ZFp1dlVMM2VzeEVkTTdZY1VVaEE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T01:18:00+00:00",
+      "title": "Sherman Medical Center hosts event to raise awareness about overdoses - KXII",
+      "text": "Sherman Medical Center hosts event to raise awareness about overdoses KXII",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE0LXVxaVVTRUtRVjEyeWFSN1FiTHgyb1hIaEgzNkQ4QlpIQ2poZG5nYTljODB6V1lhMTI2ZGtYY0txemRQNnAzVGpIZEpnV1RPWGZZXzNDanJRSFBwSG5tQkw4YkNfX0lDVVliQTRGdkMzaEd6OVNWU1d4bm1RRktVcEpqV2FjZ1QtbzY5T0NTNm9MYmNmQ2tENXhiT3FV0gG0AUFVX3lxTE5zVlBRS3JmRmxNMms1aUlpMURNSzlqdFNEcHJXUmEzQjRIQ3JoWkNROXhNYkhlSUItVFd2RkZUdFNKOWpNVWNWbWxZQ3IzUDJEaS1ZU0RZME85a1BVQ0xoeDNqZk9HWjUwOWRuTDJyVTBQNjBEeWpGTm01Ml9zUFIxM0g5QkpRQzBiaXJyNnBGMVZNYnNOc0UtREhVU3ZmWTRYS25lSEVQYXFiZGNLY3BYWEZIMw?oc=5",
+      "auto": true
+    },
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - nbcnews.com",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies nbcnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
@@ -55,6 +75,16 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T16:43:58+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T16:09:00+00:00",
       "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
       "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
@@ -75,32 +105,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T00:00:00-04:00",
       "title": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
       "text": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
-      "published_at": "2026-08-30T13:08:41+00:00",
-      "title": "The Hidden Cost of Bad Medicine - Drug Topics",
-      "text": "The Hidden Cost of Bad Medicine Drug Topics",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TYXpybXIwQU9nZUZ3dm9HN0owLU1waHFSLU5OVDRIWmZ0Q08zRE51Z1dpdjJBUkZBSkxtRTdyQTJCcWFxci11TVVna3JCdjFXUTBTUF85SXVvdDF6ZkM1Qk05ZDFwb3MzSktZeXctYnZkOWs?oc=5",
       "auto": true
     },
     {
@@ -121,16 +131,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
-      "auto": true
-    },
-    {
-      "date": "29.08.2026",
-      "published_at": "2026-08-29T15:11:00+00:00",
-      "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
-      "text": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
       "auto": true
     },
     {
@@ -166,21 +166,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:43:21+00:00",
-      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - Penn Medicine",
-      "text": "Researchers uncover how a leading class of heart failure drug powers the heart Penn Medicine",
+      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - pennmedicine.org",
+      "text": "Researchers uncover how a leading class of heart failure drug powers the heart pennmedicine.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE5OZ1h1ZTlNOVJkVUtYMFZqaVM3bk95VUtTLXQ5YlR0TmxMczc1cFZYQ0VYZVZyaWRaMGs2eUlOVzhDbWhNMTVZZmF1cEUwZzRYY2pycXlxYXhlS2gtTGxySkw0TmxrMlctNU5lS1docFFRSzFSQW9Ta2ExMk9LRXFzREpKZlExMHA5Sm42M2EzdGVjYll3?oc=5",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -196,6 +186,16 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
       "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
@@ -206,8 +206,8 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T12:00:00+00:00",
-      "title": "Evolving causes, diagnosis of drug-induced liver injury - michiganmedicine.org",
-      "text": "Evolving causes, diagnosis of drug-induced liver injury michiganmedicine.org",
+      "title": "Evolving causes, diagnosis of drug-induced liver injury - Michigan Medicine",
+      "text": "Evolving causes, diagnosis of drug-induced liver injury Michigan Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3l1MTNFOTR5VVVSNUQyaXpWT1dZRjlyQXlIWmh6cjlFT3N5QkNPd3VxWldOR0JoS3F4VTFXT3ZGWXJsRmF2Z2JWdk9YZlczRERWR2MzZ0hCUUdOdGVEMlF1WXFDalM0SjBTbWROVGJKZEN2WlJvLVlPYmszcHdKZmlQck9fZDY3dFlVSXNzemY5c0VEVEtQRTNwQQ?oc=5",
@@ -236,21 +236,21 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T00:00:00-04:00",
-      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
-      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T00:00:00-04:00",
       "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
       "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
       "auto": true
     },
     {
@@ -266,21 +266,21 @@
     {
       "date": "26.08.2026",
       "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
       "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
       "text": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
+      "auto": true
+    },
+    {
+      "date": "26.08.2026",
+      "published_at": "2026-08-26T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
