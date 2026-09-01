@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T12:31:34.697009+00:00",
+  "updated_at": "2026-09-01T13:26:44.665804+00:00",
   "items": [
     {
       "date": "01.09.2026",
@@ -15,12 +15,12 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T11:18:23+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "published_at": "2026-09-01T12:09:16+00:00",
+      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
+      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
       "auto": true
     },
     {
@@ -44,13 +44,33 @@
       "auto": true
     },
     {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T00:55:28+00:00",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T00:00:00-04:00",
+      "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
+      "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T21:10:00+00:00",
+      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
+      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
       "auto": true
     },
     {
@@ -96,8 +116,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T19:43:00+00:00",
-      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - Newsweek",
-      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced Newsweek",
+      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - newsweek.com",
+      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced newsweek.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0pGV1BGWVZ4S3ljaFgxajFoSjQwcGk3aWJGSVhlUjc2QVRtbVBYM2hONzRwd0hFV0VNaE04V3BYNFpOT2YydnQ1dUNIRWRuSElGN1d6TW9kVXZSbFFoM0JjUURMa0NqRS1yNV9oc3BvQjF5T2x5YVUzQXpERVBRcGduSHdqNWVVRDhUTGl4LUY3QQ?oc=5",
@@ -111,16 +131,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -186,6 +196,16 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
+      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: IV Start Kit Issue from Avid Medical",
       "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "source": "FDA MedWatch",
@@ -201,16 +221,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
-      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
       "auto": true
     },
     {
@@ -246,16 +256,6 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T00:00:00-04:00",
-      "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
-      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T00:00:00-04:00",
       "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
       "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
       "source": "FDA MedWatch",
@@ -264,13 +264,23 @@
       "auto": true
     },
     {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
+      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
+      "auto": true
+    },
+    {
+      "date": "26.08.2026",
+      "published_at": "2026-08-26T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -286,21 +296,11 @@
     {
       "date": "26.08.2026",
       "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "25.08.2026",
-      "published_at": "2026-08-25T00:00:00-04:00",
-      "title": "Baxter Issues Voluntary Nationwide Recall for One Lot of Anticoagulant Sodium Citrate Solution Due to Potential Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling one lot of Anticoagulant Sodium Citrate Solution due to the potential presence of particulate matter identified as fiberglass in the solution",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-one-lot-anticoagulant-sodium-citrate-solution-due",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
       "auto": true
     },
     {
