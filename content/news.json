@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T14:27:23.831648+00:00",
+  "updated_at": "2026-09-01T15:47:05.193634+00:00",
   "items": [
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T14:29:43+00:00",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
+      "auto": true
+    },
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
@@ -11,16 +21,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
       "auto": true
     },
     {
@@ -41,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE0LXVxaVVTRUtRVjEyeWFSN1FiTHgyb1hIaEgzNkQ4QlpIQ2poZG5nYTljODB6V1lhMTI2ZGtYY0txemRQNnAzVGpIZEpnV1RPWGZZXzNDanJRSFBwSG5tQkw4YkNfX0lDVVliQTRGdkMzaEd6OVNWU1d4bm1RRktVcEpqV2FjZ1QtbzY5T0NTNm9MYmNmQ2tENXhiT3FV0gG0AUFVX3lxTE5zVlBRS3JmRmxNMms1aUlpMURNSzlqdFNEcHJXUmEzQjRIQ3JoWkNROXhNYkhlSUItVFd2RkZUdFNKOWpNVWNWbWxZQ3IzUDJEaS1ZU0RZME85a1BVQ0xoeDNqZk9HWjUwOWRuTDJyVTBQNjBEeWpGTm01Ml9zUFIxM0g5QkpRQzBiaXJyNnBGMVZNYnNOc0UtREhVU3ZmWTRYS25lSEVQYXFiZGNLY3BYWEZIMw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T00:55:28+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
       "auto": true
     },
     {
@@ -106,8 +96,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - ScienceAlert",
-      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say ScienceAlert",
+      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - sciencealert.com",
+      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say sciencealert.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
@@ -231,6 +221,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T12:00:00+00:00",
+      "title": "Evolving causes, diagnosis of drug-induced liver injury - michiganmedicine.org",
+      "text": "Evolving causes, diagnosis of drug-induced liver injury michiganmedicine.org",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3l1MTNFOTR5VVVSNUQyaXpWT1dZRjlyQXlIWmh6cjlFT3N5QkNPd3VxWldOR0JoS3F4VTFXT3ZGWXJsRmF2Z2JWdk9YZlczRERWR2MzZ0hCUUdOdGVEMlF1WXFDalM0SjBTbWROVGJKZEN2WlJvLVlPYmszcHdKZmlQck9fZDY3dFlVSXNzemY5c0VEVEtQRTNwQQ?oc=5",
       "auto": true
     },
     {
