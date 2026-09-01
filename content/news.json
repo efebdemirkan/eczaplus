@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T07:26:29.028228+00:00",
+  "updated_at": "2026-09-01T08:28:51.491533+00:00",
   "items": [
     {
       "date": "01.09.2026",
@@ -31,16 +31,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmkybHA4YUhGeVhFMTNTbFl6OUUzSUd0OEZYLXpDLXBvMDFNVzd2UjI2WGZtNUxiNVlMQ2U4LS1MbkpvMDI1VlBfYWI4MG5fSVJPVEpKY1E3cjJaMU81cjY5VXgyMDZxNFdveHY3R3pWM2JzR0ZteTVlZUhSU3JfTG9mSEE5SWFSSDlndGExUXo3TW9sakEzLWo3VQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
       "auto": true
     },
     {
@@ -75,12 +65,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T17:57:00+00:00",
-      "title": "New dual-drug strategy blocks triple-negative breast cancer growth - News-Medical",
-      "text": "New dual-drug strategy blocks triple-negative breast cancer growth News-Medical",
+      "published_at": "2026-08-31T19:43:00+00:00",
+      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - Newsweek",
+      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced Newsweek",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUjdMOUhfUHpXMTM5cG1qX2VzU2gtbEZqNVdwZk1fb3JSU29sQmtJX3NUV2NUXzdtZVYyN04yQi0tbEJveS11V3JYTWt0M1Q3ZjI5Q2pYYU95OEEtWk1UZFFtYlJVeUR5ZnE5QVVfVkt2ejd5S19mMFBuclJ5a0EwZktBWVRSQ2NOQ3I3Mzk5TmZ2MEZYb285UDBjOUh6Vldyd21vazZYS3RtRElwSllqVnkyMHk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0pGV1BGWVZ4S3ljaFgxajFoSjQwcGk3aWJGSVhlUjc2QVRtbVBYM2hONzRwd0hFV0VNaE04V3BYNFpOT2YydnQ1dUNIRWRuSElGN1d6TW9kVXZSbFFoM0JjUURMa0NqRS1yNV9oc3BvQjF5T2x5YVUzQXpERVBRcGduSHdqNWVVRDhUTGl4LUY3QQ?oc=5",
       "auto": true
     },
     {
@@ -155,6 +145,16 @@
     },
     {
       "date": "28.08.2026",
+      "published_at": "2026-08-28T19:57:04+00:00",
+      "title": "Investigational drug offers hope for rare tumor-related hypoglycemia - Nebraska Medicine",
+      "text": "Investigational drug offers hope for rare tumor-related hypoglycemia Nebraska Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0tUQlZxc1loODdJUmh3NFJLbzJIWnFyMHViZnFKWUFScExaTWR1dGlETVhzRWNVemIzWmZCNUlNT2xnRXRUR3R1S25kM3pIa3hVTjRHRm1uNUdDdGV5SlgyX2dkdkdoVFI3Z3lfU2dkTUlOY0ZZbXFFeEhpOG9keXgzQV95V0tJekI0QVR5UzR6OG9LRzRsV2FDM29mZjdMSzJ0VUw1NkRCcVI5R0doTmJJRTJod2sxdnc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
       "published_at": "2026-08-28T10:21:46-04:00",
       "title": "Experimental eye drops help blind mice see again",
       "text": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when adm",
@@ -166,8 +166,8 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:43:21+00:00",
-      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - pennmedicine.org",
-      "text": "Researchers uncover how a leading class of heart failure drug powers the heart pennmedicine.org",
+      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - Penn Medicine",
+      "text": "Researchers uncover how a leading class of heart failure drug powers the heart Penn Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE5OZ1h1ZTlNOVJkVUtYMFZqaVM3bk95VUtTLXQ5YlR0TmxMczc1cFZYQ0VYZVZyaWRaMGs2eUlOVzhDbWhNMTVZZmF1cEUwZzRYY2pycXlxYXhlS2gtTGxySkw0TmxrMlctNU5lS1docFFRSzFSQW9Ta2ExMk9LRXFzREpKZlExMHA5Sm42M2EzdGVjYll3?oc=5",
