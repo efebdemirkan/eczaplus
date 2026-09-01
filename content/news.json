@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T02:25:04.587743+00:00",
+  "updated_at": "2026-09-01T03:26:49.356400+00:00",
   "items": [
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T22:28:20+00:00",
-      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
-      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
-      "auto": true
-    },
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T21:27:38+00:00",
@@ -25,12 +15,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T20:10:50+00:00",
-      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
-      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
+      "published_at": "2026-08-31T21:04:00+00:00",
+      "title": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals - Spectrum News",
+      "text": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
       "auto": true
     },
     {
@@ -55,16 +45,6 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T19:43:00+00:00",
-      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - Newsweek",
-      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced Newsweek",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0pGV1BGWVZ4S3ljaFgxajFoSjQwcGk3aWJGSVhlUjc2QVRtbVBYM2hONzRwd0hFV0VNaE04V3BYNFpOT2YydnQ1dUNIRWRuSElGN1d6TW9kVXZSbFFoM0JjUURMa0NqRS1yNV9oc3BvQjF5T2x5YVUzQXpERVBRcGduSHdqNWVVRDhUTGl4LUY3QQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T17:57:00+00:00",
       "title": "New dual-drug strategy blocks triple-negative breast cancer growth - News-Medical",
       "text": "New dual-drug strategy blocks triple-negative breast cancer growth News-Medical",
@@ -76,11 +56,21 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T16:43:57+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs nytimes.com",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T16:09:00+00:00",
+      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
+      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
       "auto": true
     },
     {
@@ -101,6 +91,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
+      "auto": true
+    },
+    {
+      "date": "30.08.2026",
+      "published_at": "2026-08-30T13:08:41+00:00",
+      "title": "The Hidden Cost of Bad Medicine - Drug Topics",
+      "text": "The Hidden Cost of Bad Medicine Drug Topics",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TYXpybXIwQU9nZUZ3dm9HN0owLU1waHFSLU5OVDRIWmZ0Q08zRE51Z1dpdjJBUkZBSkxtRTdyQTJCcWFxci11TVVna3JCdjFXUTBTUF85SXVvdDF6ZkM1Qk05ZDFwb3MzSktZeXctYnZkOWs?oc=5",
       "auto": true
     },
     {
