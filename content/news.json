@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-01T06:32:15.966175+00:00",
+  "updated_at": "2026-09-01T07:26:29.028228+00:00",
   "items": [
     {
       "date": "01.09.2026",
@@ -25,9 +25,19 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T22:05:20+00:00",
+      "title": "Column: Drug compounding has changed. Oversight should too - Daily Press",
+      "text": "Column: Drug compounding has changed. Oversight should too Daily Press",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmkybHA4YUhGeVhFMTNTbFl6OUUzSUd0OEZYLXpDLXBvMDFNVzd2UjI2WGZtNUxiNVlMQ2U4LS1MbkpvMDI1VlBfYWI4MG5fSVJPVEpKY1E3cjJaMU81cjY5VXgyMDZxNFdveHY3R3pWM2JzR0ZteTVlZUhSU3JfTG9mSEE5SWFSSDlndGExUXo3TW9sakEzLWo3VQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - nbcnews.com",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies nbcnews.com",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
@@ -141,16 +151,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T19:57:04+00:00",
-      "title": "Investigational drug offers hope for rare tumor-related hypoglycemia - Nebraska Medicine",
-      "text": "Investigational drug offers hope for rare tumor-related hypoglycemia Nebraska Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0tUQlZxc1loODdJUmh3NFJLbzJIWnFyMHViZnFKWUFScExaTWR1dGlETVhzRWNVemIzWmZCNUlNT2xnRXRUR3R1S25kM3pIa3hVTjRHRm1uNUdDdGV5SlgyX2dkdkdoVFI3Z3lfU2dkTUlOY0ZZbXFFeEhpOG9keXgzQV95V0tJekI0QVR5UzR6OG9LRzRsV2FDM29mZjdMSzJ0VUw1NkRCcVI5R0doTmJJRTJod2sxdnc?oc=5",
       "auto": true
     },
     {
