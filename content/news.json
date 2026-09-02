@@ -1,13 +1,23 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T22:25:21.630621+00:00",
+  "updated_at": "2026-09-02T23:23:07.526497+00:00",
   "items": [
     {
       "date": "02.09.2026",
+      "published_at": "2026-09-02T21:17:50+00:00",
+      "title": "Newly approved pancreatic cancer drug shows promise in lung cancer - NBC News",
+      "text": "Newly approved pancreatic cancer drug shows promise in lung cancer NBC News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2NFTTVlek43SDhxVm1zTHR4U1Y2WlJMTS1rT3hoR2pUTGUwUHlEMHdNY3pXTzlkWTdMeThzWHNId2VjXzdqREczdXVSczRWLVBNYjVIcTRqdzRVWW9rektfdmtqZUR4NW5BdFRwTEw3b2g0NktMSkExNzBnVHpReHhsZ0FKMjA0LVRqM2J1Zzd0OU9mVjJUNjdjTlg5QmxWdzc1UVBMYzhLOFdWTjhVSjhXOS15MVpo?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
       "published_at": "2026-09-02T19:54:26+00:00",
-      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
-      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
+      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - thewellnews.com",
+      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. thewellnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
@@ -36,8 +46,8 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T17:55:01+00:00",
-      "title": "Mini-tumors reveal new drug combinations for liver cancer - eurekalert.org",
-      "text": "Mini-tumors reveal new drug combinations for liver cancer eurekalert.org",
+      "title": "Mini-tumors reveal new drug combinations for liver cancer - EurekAlert!",
+      "text": "Mini-tumors reveal new drug combinations for liver cancer EurekAlert!",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lREJLYi1tTlBoWjNOVHlzR3ZlUDBGaDY5eS12ZVhhYUhNR2ZvNDZXcTV5TGY1elE3WlhLSmRSdkxjZlZ1QTlyN0hhZV9fa1FmSWVBUlBqelVPUDNT?oc=5",
@@ -75,22 +85,22 @@
     },
     {
       "date": "01.09.2026",
+      "published_at": "2026-09-01T14:23:35+00:00",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
       "text": "EMA has launched a new voluntary data submission (VDS) pilot to facilitate the sharing of data generated using New Approach Methodologies (NAMs). These innovative methods have…",
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
       "auto": true
     },
     {
@@ -111,16 +121,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging - ScienceAlert",
-      "text": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging ScienceAlert",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
       "auto": true
     },
     {
@@ -155,16 +155,6 @@
     },
     {
       "date": "30.08.2026",
-      "published_at": "2026-08-30T17:33:45+00:00",
-      "title": "Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua - statnews.com",
-      "text": "Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua statnews.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUw3VFRqVmlEVXZsUkpKejh1OHQyZTg0X0hBTmVlYzBvb003ZnY4Tmlzd0lXOGpONlFRTTRfTDBXTWRSUlVfVlAyYmxfV0w0OHlNTlE4OGgwdVkxY3hOT29QNmZiU0w4RDZWS21jTF9lMzJIWFRTUlVoYTF5c044U2tnZHlCekFTMTc3dVFFTERxMFlE?oc=5",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
       "published_at": "2026-08-30T10:35:22-04:00",
       "title": "Common supplements rival antibiotics for severe gum disease",
       "text": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way to treat some patien",
@@ -181,6 +171,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
+      "auto": true
+    },
+    {
+      "date": "29.08.2026",
+      "published_at": "2026-08-29T15:11:00+00:00",
+      "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
+      "text": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
       "auto": true
     },
     {
@@ -304,6 +304,16 @@
       "auto": true
     },
     {
+      "date": "23.08.2026",
+      "published_at": "2026-08-23T07:00:00+00:00",
+      "title": "Pharmacy student sets own course at NASA - unc.edu",
+      "text": "Pharmacy student sets own course at NASA unc.edu",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
+      "auto": true
+    },
+    {
       "date": "22.08.2026",
       "published_at": "2026-08-22T06:34:22-04:00",
       "title": "This yeast supplement may boost cancer-fighting immunity",
@@ -341,16 +351,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
