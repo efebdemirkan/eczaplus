@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T15:30:18.686771+00:00",
+  "updated_at": "2026-09-02T16:27:55.207663+00:00",
   "items": [
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T15:00:06+00:00",
-      "title": "Genetic tests may miss reaction risk from drug prescribed to millions - medicalxpress.com",
-      "text": "Genetic tests may miss reaction risk from drug prescribed to millions medicalxpress.com",
+      "title": "Genetic tests may miss reaction risk from drug prescribed to millions - Medical Xpress",
+      "text": "Genetic tests may miss reaction risk from drug prescribed to millions Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYTZDLVRSUXg2ZUJTcjA0RHNVSF9yeUI5Q1ZicGRhTGxrZ20zVGY3UTdBMzY2VkNVWEVYVlJUV2JiUU81Z0ItaUpib3UtcXotd2FNaU11eXFzMzZFcHFETWc2NmdkY29mZEpDeWRPRFNwdmFxdlBvN0l1UmU3YjQ?oc=5",
@@ -34,6 +34,16 @@
       "auto": true
     },
     {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T16:10:00+00:00",
       "title": "New method based on human blood simplifies mRNA drug development - News-Medical",
@@ -55,12 +65,12 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
+      "published_at": "2026-09-01T13:48:00+02:00",
+      "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
+      "text": "EMA has launched a new voluntary data submission (VDS) pilot to facilitate the sharing of data generated using New Approach Methodologies (NAMs). These innovative methods have…",
+      "source": "EMA",
+      "category": "İlaç / Regülasyon",
+      "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
       "auto": true
     },
     {
@@ -105,19 +115,9 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - spectrumlocalnews.com",
-      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says spectrumlocalnews.com",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
@@ -131,6 +131,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T09:03:03+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -151,6 +161,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
+      "auto": true
+    },
+    {
+      "date": "30.08.2026",
+      "published_at": "2026-08-30T10:30:29+00:00",
+      "title": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in - CNN",
+      "text": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in CNN",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zeVZFcGJ2SWk3eFdYcG1VWUJkY19xN0ZVUG0xOU40YXU5NzhzcnNKZTQ5ZnZ2THlHUmh2Nzc1Ukt2X0JtUk5yUG91TWxNaWl3ZExic053MGo4ZVhXQmZPaXBMRjBfTGJNMThvV2ZkLUdqYk0?oc=5",
       "auto": true
     },
     {
@@ -186,11 +206,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
-      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -206,11 +226,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
+      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
       "auto": true
     },
     {
@@ -281,16 +301,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-      "auto": true
-    },
-    {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Baxter Issues Voluntary Nationwide Recall for Two Lots of 0.9% Sodium Chloride Injection Due to Potential Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – AUG. 25, 2026 – DEERFIELD, Ill., Baxter International Inc. (NYSE:BAX) is voluntarily recalling two lots of 0.9% Sodium Chloride Injection due to the potential presence of particulate matter identified as fiberglass in the solution.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/baxter-issues-voluntary-nationwide-recall-two-lots-09-sodium-chloride-injection-due-potential",
       "auto": true
     },
     {
