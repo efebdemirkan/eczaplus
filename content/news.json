@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T04:27:58.278344+00:00",
+  "updated_at": "2026-09-02T05:28:21.678681+00:00",
   "items": [
     {
       "date": "01.09.2026",
@@ -26,8 +26,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T16:10:00+00:00",
-      "title": "New method based on human blood simplifies mRNA drug development - news-medical.net",
-      "text": "New method based on human blood simplifies mRNA drug development news-medical.net",
+      "title": "New method based on human blood simplifies mRNA drug development - News-Medical",
+      "text": "New method based on human blood simplifies mRNA drug development News-Medical",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVk1TG1fX1FtbUNwa3NGU0Rja2c4T04xT0gxNk5fV3NJeEhoM0ktSEJPbUtpWUp3ZkYzbXJmaUtWYUc4QVFremdvbXpCSFpGQkVDNTJWaURnRGNxOXl4Y2VUTzhxTUxwM2VqelVFeGZ6eC1QdXVxVkUxaW4tcGVmcU91MUlsMW5ObzFFX0JONjlJTW1ZVVpMZHIxU2Ywb25zN29lcVQtblA2U0RaV2xXUHV3?oc=5",
@@ -65,6 +65,16 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T21:27:38+00:00",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
       "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
       "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
@@ -85,12 +95,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T16:09:00+00:00",
-      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
-      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
+      "published_at": "2026-08-31T19:43:00+00:00",
+      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - Newsweek",
+      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced Newsweek",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0pGV1BGWVZ4S3ljaFgxajFoSjQwcGk3aWJGSVhlUjc2QVRtbVBYM2hONzRwd0hFV0VNaE04V3BYNFpOT2YydnQ1dUNIRWRuSElGN1d6TW9kVXZSbFFoM0JjUURMa0NqRS1yNV9oc3BvQjF5T2x5YVUzQXpERVBRcGduSHdqNWVVRDhUTGl4LUY3QQ?oc=5",
       "auto": true
     },
     {
@@ -341,16 +351,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
