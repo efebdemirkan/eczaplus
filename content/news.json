@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T17:24:16.935973+00:00",
+  "updated_at": "2026-09-02T18:29:26.062037+00:00",
   "items": [
     {
       "date": "02.09.2026",
@@ -45,16 +45,6 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T06:27:38+00:00",
       "title": "UTA uses AI to advance precision medicine - uta.edu",
       "text": "UTA uses AI to advance precision medicine uta.edu",
@@ -65,22 +55,12 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T01:18:00+00:00",
-      "title": "Sherman Medical Center hosts event to raise awareness about overdoses - KXII",
-      "text": "Sherman Medical Center hosts event to raise awareness about overdoses KXII",
+      "published_at": "2026-09-01T00:10:46+00:00",
+      "title": "New pancreatic cancer pill priced at $480,000 per year - KTLA",
+      "text": "New pancreatic cancer pill priced at $480,000 per year KTLA",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE0LXVxaVVTRUtRVjEyeWFSN1FiTHgyb1hIaEgzNkQ4QlpIQ2poZG5nYTljODB6V1lhMTI2ZGtYY0txemRQNnAzVGpIZEpnV1RPWGZZXzNDanJRSFBwSG5tQkw4YkNfX0lDVVliQTRGdkMzaEd6OVNWU1d4bm1RRktVcEpqV2FjZ1QtbzY5T0NTNm9MYmNmQ2tENXhiT3FV0gG0AUFVX3lxTE5zVlBRS3JmRmxNMms1aUlpMURNSzlqdFNEcHJXUmEzQjRIQ3JoWkNROXhNYkhlSUItVFd2RkZUdFNKOWpNVWNWbWxZQ3IzUDJEaS1ZU0RZME85a1BVQ0xoeDNqZk9HWjUwOWRuTDJyVTBQNjBEeWpGTm01Ml9zUFIxM0g5QkpRQzBiaXJyNnBGMVZNYnNOc0UtREhVU3ZmWTRYS25lSEVQYXFiZGNLY3BYWEZIMw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T00:50:25+00:00",
-      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - foxbaltimore.com",
-      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion foxbaltimore.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONUM1Y2dvak5LNnRwem83MkFNLTVsQTI1Ym5TLS1GQzBVUnRQTGRVYjBYdGFWUmJveU9KX0VDSjIyVWFrTnhJem04SjZ2cDZnSUlyNE8yQjhJaUI1ZVgxRTlkTTZqOXA1bzhxeXBWZ1JjVnU3TGFlSWE2cG1mdVpxNHdJUW4tVEFuOGV0a0p1d29jNGdGR0RoRTEydm0wUnI0MmQtNi1BVGUwMVUzLUNkU1l1Vm12V0ZRbVZqM0l0eEZZUkNUREhfX0JVbV83OFYzalZZdEhVS0hUMllUNDBHalQ1Y2ZfNFQwVjM2Wkx6OE84N1d5MzV0UllJYmZOb3Vfa2kxaDRBR2pBUV9VRTN0ak1jOWFXVnh4bll2Y2lwYnFiYllZenQtd3JmdGtPRnNTeWEtZ1lWbXRFZUlaTjEyY1c1ekxmS3lacGNVMjNUTHNPUHJCMk9OWkNVYzZiX0FPaFk2OU1EeTdzQlhxNDhscG1lWXNqdTlOak9UYWpESTlNUkk1NHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3FoNnJ0N2R5Ym4zTlZRMm8tRW5Ia25jdEF3aU0yckI5clh5enFhN1hIbjBwRHNQS2hiQ3hFSmlDRDI5V21Hb21RODVmRE4yY1ZuU2Q5a1MwaVB3aHkwYmxYSUUycklKb082bDZ5Ym5waHh0R3ZCZW5SUVNkWm5fd0ljX0JQRDV4Qk1zdUVWRjnSAZYBQVVfeXFMUEVPTTlMckZVcUZ2bUIzMXlaSkZLSlgxTkQzLVVhTTg3TVlINWxoMjRMWmNkUURFMjZ4MHN4U2VQdUlTdXNFR180bElIX2hOZlBIZkRWQmFVX3ZXVEl0Z0JfMGNFQmx6M1NYa2R6YUcxV0tURGh6TGktd3RxeUgySF81TWRfWkhkTy14eUdIVmI2NGg4SERB?oc=5",
       "auto": true
     },
     {
@@ -95,9 +75,19 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T21:27:38+00:00",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - spectrumlocalnews.com",
-      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says spectrumlocalnews.com",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
@@ -221,6 +211,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T09:02:46+00:00",
+      "title": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug - The New York Times",
+      "text": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9ONlptWEF3UElFcW9mUXNwd29WT1c5aE1XSVNJeDdRaFZEODFnb0Q1czlheGNTNkRUbVdEbDRHbXlYaEtrM0dVM1VNcHk2T08wLWZOOGZmTTdXQk9CMS1oc1UydXpFQkp0RUFxb0xHMnFuc1V1MTlSWjBiUllhWjdEbm1jc0pINHc?oc=5",
       "auto": true
     },
     {
