@@ -1,16 +1,36 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T14:26:45.555619+00:00",
+  "updated_at": "2026-09-02T15:30:18.686771+00:00",
   "items": [
     {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T16:40:11+00:00",
-      "title": "Experimental drug may disrupt immune circuits in pneumonia - medicalxpress.com",
-      "text": "Experimental drug may disrupt immune circuits in pneumonia medicalxpress.com",
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T15:00:06+00:00",
+      "title": "Genetic tests may miss reaction risk from drug prescribed to millions - medicalxpress.com",
+      "text": "Genetic tests may miss reaction risk from drug prescribed to millions medicalxpress.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUp0TmdZWDRMNjMtaHRtQWhXWkEyT3VNSnlwRHNONUhkVUFsN1Znd2RwdzZfUkdNd2pEb0F0dkt0ZGM2YV9JSENLSVBYXzdfS1F3ZVJGY3hHbWlScFdBaUd1WHJfUVlyUHM1Ym1UV1UtVlk3N0g1MkFwUkxxLXhXV3ptRXJhbGRaX3daWXpR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYTZDLVRSUXg2ZUJTcjA0RHNVSF9yeUI5Q1ZicGRhTGxrZ20zVGY3UTdBMzY2VkNVWEVYVlJUV2JiUU81Z0ItaUpib3UtcXotd2FNaU11eXFzMzZFcHFETWc2NmdkY29mZEpDeWRPRFNwdmFxdlBvN0l1UmU3YjQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T14:49:32+00:00",
+      "title": "Insilico launches specialist AI models for drug discovery chemistry - drugtargetreview.com",
+      "text": "Insilico launches specialist AI models for drug discovery chemistry drugtargetreview.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1dKNFU0Y0F5aWxBdEVDbHoyZ250M1ZWQ1FrcFNNbXk3ODNqaWxXa0hYYXVUMGZoZUcyTWdqNlZKeDNxVm9MRlcxUHFaYk5DZ2MzNnpacVREV1A3TWhEQkVoa2I4NU1JV1pmVk9IVXZQVDF0N0xKT252bGVzb1lpWlRodi04MzMzbV9ib0hZOHNlNXE1b3M1MjFrV3U2azNkeFJwNnBOZmdpQTFMVkNfR2ludDBmaVA4aDRyZG5n?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T05:28:23+00:00",
+      "title": "Former nurse dies amid dementia drug shortages - BBC",
+      "text": "Former nurse dies amid dementia drug shortages BBC",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JUHU4d3pUbGpmcjNRRXZ1aTFJSkFRUXBqVk9rVVV4eldORXpXQ1EwNW9yVWx4TWdfRURJVHlKanVuY0hTOW9KVjZYUW1CSjJQNm9hU0lRLUVvQQ?oc=5",
       "auto": true
     },
     {
@@ -35,16 +55,6 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T13:48:00+02:00",
-      "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
-      "text": "EMA has launched a new voluntary data submission (VDS) pilot to facilitate the sharing of data generated using New Approach Methodologies (NAMs). These innovative methods have…",
-      "source": "EMA",
-      "category": "İlaç / Regülasyon",
-      "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T12:09:16+00:00",
       "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
       "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
@@ -65,19 +75,9 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T01:18:00+00:00",
-      "title": "Sherman Medical Center hosts event to raise awareness about overdoses - KXII",
-      "text": "Sherman Medical Center hosts event to raise awareness about overdoses KXII",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE0LXVxaVVTRUtRVjEyeWFSN1FiTHgyb1hIaEgzNkQ4QlpIQ2poZG5nYTljODB6V1lhMTI2ZGtYY0txemRQNnAzVGpIZEpnV1RPWGZZXzNDanJRSFBwSG5tQkw4YkNfX0lDVVliQTRGdkMzaEd6OVNWU1d4bm1RRktVcEpqV2FjZ1QtbzY5T0NTNm9MYmNmQ2tENXhiT3FV0gG0AUFVX3lxTE5zVlBRS3JmRmxNMms1aUlpMURNSzlqdFNEcHJXUmEzQjRIQ3JoWkNROXhNYkhlSUItVFd2RkZUdFNKOWpNVWNWbWxZQ3IzUDJEaS1ZU0RZME85a1BVQ0xoeDNqZk9HWjUwOWRuTDJyVTBQNjBEeWpGTm01Ml9zUFIxM0g5QkpRQzBiaXJyNnBGMVZNYnNOc0UtREhVU3ZmWTRYS25lSEVQYXFiZGNLY3BYWEZIMw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T00:50:25+00:00",
-      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - foxbaltimore.com",
-      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion foxbaltimore.com",
+      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - WBFF",
+      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion WBFF",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONUM1Y2dvak5LNnRwem83MkFNLTVsQTI1Ym5TLS1GQzBVUnRQTGRVYjBYdGFWUmJveU9KX0VDSjIyVWFrTnhJem04SjZ2cDZnSUlyNE8yQjhJaUI1ZVgxRTlkTTZqOXA1bzhxeXBWZ1JjVnU3TGFlSWE2cG1mdVpxNHdJUW4tVEFuOGV0a0p1d29jNGdGR0RoRTEydm0wUnI0MmQtNi1BVGUwMVUzLUNkU1l1Vm12V0ZRbVZqM0l0eEZZUkNUREhfX0JVbV83OFYzalZZdEhVS0hUMllUNDBHalQ1Y2ZfNFQwVjM2Wkx6OE84N1d5MzV0UllJYmZOb3Vfa2kxaDRBR2pBUV9VRTN0ak1jOWFXVnh4bll2Y2lwYnFiYllZenQtd3JmdGtPRnNTeWEtZ1lWbXRFZUlaTjEyY1c1ekxmS3lacGNVMjNUTHNPUHJCMk9OWkNVYzZiX0FPaFk2OU1EeTdzQlhxNDhscG1lWXNqdTlOak9UYWpESTlNUkk1NHc?oc=5",
@@ -95,22 +95,32 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
-      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
+      "published_at": "2026-08-31T21:27:38+00:00",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
       "auto": true
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T20:10:50+00:00",
-      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
-      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
+      "published_at": "2026-08-31T21:10:00+00:00",
+      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
+      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T21:04:00+00:00",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - spectrumlocalnews.com",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says spectrumlocalnews.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
       "auto": true
     },
     {
@@ -176,16 +186,6 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
       "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
@@ -201,6 +201,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -325,32 +335,12 @@
     },
     {
       "date": "21.08.2026",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
-      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
-      "auto": true
-    },
-    {
-      "date": "21.08.2026",
       "published_at": "2026-08-20T20:10:15-04:00",
       "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
       "text": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they c",
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
