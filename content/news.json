@@ -1,8 +1,28 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T20:26:41.684296+00:00",
+  "updated_at": "2026-09-02T21:24:28.307905+00:00",
   "items": [
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T19:54:26+00:00",
+      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
+      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T19:12:01+00:00",
+      "title": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production - Fierce Pharma",
+      "text": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production Fierce Pharma",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXdJNlBkdjY4SjJVaFY5ZGNiY3I3bERaMEs5OENXZnRlVmJLSGRZc1ZZOTgxc1NneVBEb1FUb0tIcDREajluSElQNUduZzJHa3RPQUZvc0NsWWFQQU1TYjd2V3BLSGdRUG9YQXdoRmh6eEc0VHNEeC1mUXlYd3FwYlh0TEVrYVdzcWJNQ01IQU84U25EWUlGbWZfSVhwWEplNVE?oc=5",
+      "auto": true
+    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T18:25:00+00:00",
@@ -25,6 +45,16 @@
     },
     {
       "date": "02.09.2026",
+      "published_at": "2026-09-02T15:08:08+00:00",
+      "title": "Insilico launches specialist AI models for drug discovery chemistry - Drug Target Review",
+      "text": "Insilico launches specialist AI models for drug discovery chemistry Drug Target Review",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1dKNFU0Y0F5aWxBdEVDbHoyZ250M1ZWQ1FrcFNNbXk3ODNqaWxXa0hYYXVUMGZoZUcyTWdqNlZKeDNxVm9MRlcxUHFaYk5DZ2MzNnpacVREV1A3TWhEQkVoa2I4NU1JV1pmVk9IVXZQVDF0N0xKT252bGVzb1lpWlRodi04MzMzbV9ib0hZOHNlNXE1b3M1MjFrV3U2azNkeFJwNnBOZmdpQTFMVkNfR2ludDBmaVA4aDRyZG5n?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
       "published_at": "2026-09-02T15:00:06+00:00",
       "title": "Genetic tests may miss reaction risk from drug prescribed to millions - Medical Xpress",
       "text": "Genetic tests may miss reaction risk from drug prescribed to millions Medical Xpress",
@@ -41,6 +71,26 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T14:23:35+00:00",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
       "auto": true
     },
     {
@@ -85,19 +135,9 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
-      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - spectrumlocalnews.com",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says spectrumlocalnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
@@ -106,8 +146,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging - ScienceAlert",
-      "text": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging ScienceAlert",
+      "title": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging - sciencealert.com",
+      "text": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging sciencealert.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
@@ -126,8 +166,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs nytimes.com",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
@@ -141,16 +181,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/ana-salazar-modela-tu-cuerpo-inc-issues-nationwide-voluntary-recall-lipofit-extreme-fat-burner-20",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
-      "published_at": "2026-08-30T17:33:45+00:00",
-      "title": "Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua - STAT",
-      "text": "Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua STAT",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUw3VFRqVmlEVXZsUkpKejh1OHQyZTg0X0hBTmVlYzBvb003ZnY4Tmlzd0lXOGpONlFRTTRfTDBXTWRSUlVfVlAyYmxfV0w0OHlNTlE4OGgwdVkxY3hOT29QNmZiU0w4RDZWS21jTF9lMzJIWFRTUlVoYTF5c044U2tnZHlCekFTMTc3dVFFTERxMFlE?oc=5",
       "auto": true
     },
     {
@@ -196,21 +226,21 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: IV Start Kit Issue from Avid Medical",
       "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -246,16 +276,6 @@
     {
       "date": "27.08.2026",
       "published_at": "2026-08-27T00:00:00-04:00",
-      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
-      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T00:00:00-04:00",
       "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
       "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
       "source": "FDA MedWatch",
@@ -264,13 +284,13 @@
       "auto": true
     },
     {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Convenience Kit Correction: AVID Medical Issues Correction for Kits Containing Medline Namic Star Off Handle Manifolds",
+      "text": "AVID Medical is correcting convenience kits containing Manifolds affected by the Medline Namic Angiographic Star Off Handle Manifold Recall.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-avid-medical-issues-correction-kits-containing-medline-namic-star-handle",
       "auto": true
     },
     {
@@ -325,32 +345,12 @@
     },
     {
       "date": "21.08.2026",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
-      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
-      "auto": true
-    },
-    {
-      "date": "21.08.2026",
       "published_at": "2026-08-20T20:10:15-04:00",
       "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
       "text": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they c",
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
