@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T18:29:26.062037+00:00",
+  "updated_at": "2026-09-02T19:23:14.862227+00:00",
   "items": [
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T18:25:00+00:00",
+      "title": "Insilico Medicine releases frontier AI models for drug discovery - News-Medical",
+      "text": "Insilico Medicine releases frontier AI models for drug discovery News-Medical",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlRZcHFoRGR5N0R6dklCT3ZzVHN2TFVtMmY3My1XTU4zQllsZjNCY2NQZGdvVFVFeEV1aU56V2czeEp0elRrT0VCQUd4dUtTWGlIQkJNb00xZjd1aF9fVXZSYzdacTJFZVlZcVV0S2twMFJoS3VIZnhQZVVEYmFNSU5faUJ3MVo2TC03aWFYV3UwLUJqLTEzMF9JdHBDVDVLd3R6ZXlBQ2NrSnNoajJkQUFR?oc=5",
+      "auto": true
+    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T15:00:06+00:00",
@@ -21,16 +31,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T16:10:00+00:00",
-      "title": "New method based on human blood simplifies mRNA drug development - News-Medical",
-      "text": "New method based on human blood simplifies mRNA drug development News-Medical",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVk1TG1fX1FtbUNwa3NGU0Rja2c4T04xT0gxNk5fV3NJeEhoM0ktSEJPbUtpWUp3ZkYzbXJmaUtWYUc4QVFremdvbXpCSFpGQkVDNTJWaURnRGNxOXl4Y2VUTzhxTUxwM2VqelVFeGZ6eC1QdXVxVkUxaW4tcGVmcU91MUlsMW5ObzFFX0JONjlJTW1ZVVpMZHIxU2Ywb25zN29lcVQtblA2U0RaV2xXUHV3?oc=5",
       "auto": true
     },
     {
@@ -55,16 +55,6 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T00:10:46+00:00",
-      "title": "New pancreatic cancer pill priced at $480,000 per year - KTLA",
-      "text": "New pancreatic cancer pill priced at $480,000 per year KTLA",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3FoNnJ0N2R5Ym4zTlZRMm8tRW5Ia25jdEF3aU0yckI5clh5enFhN1hIbjBwRHNQS2hiQ3hFSmlDRDI5V21Hb21RODVmRE4yY1ZuU2Q5a1MwaVB3aHkwYmxYSUUycklKb082bDZ5Ym5waHh0R3ZCZW5SUVNkWm5fd0ljX0JQRDV4Qk1zdUVWRjnSAZYBQVVfeXFMUEVPTTlMckZVcUZ2bUIzMXlaSkZLSlgxTkQzLVVhTTg3TVlINWxoMjRMWmNkUURFMjZ4MHN4U2VQdUlTdXNFR180bElIX2hOZlBIZkRWQmFVX3ZXVEl0Z0JfMGNFQmx6M1NYa2R6YUcxV0tURGh6TGktd3RxeUgySF81TWRfWkhkTy14eUdIVmI2NGg4SERB?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T00:00:00-04:00",
       "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
       "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
@@ -75,19 +65,19 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "published_at": "2026-08-31T21:10:00+00:00",
+      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
+      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
       "auto": true
     },
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
-      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - spectrumlocalnews.com",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says spectrumlocalnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
@@ -95,12 +85,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T14:05:52+00:00",
-      "title": "One injection could keep osteoarthritis drugs working for weeks - Science Daily",
-      "text": "One injection could keep osteoarthritis drugs working for weeks Science Daily",
+      "published_at": "2026-08-31T20:10:50+00:00",
+      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
+      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZUJBZFBzZHdYRTJGSHBWLWJ6MVJGR0Y4M0tYX3FiVEhRcjhDTE4tUy1XelpNWDJhTWQ4bWo5RklGRnpNQ2ZYcS1aOEhqY0c1NXlFdzdmb1k0c2VPWUhGMWxuZ05pczhIRThCT0dzWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
       "auto": true
     },
     {
@@ -111,6 +101,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T09:03:03+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -141,16 +141,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
-      "published_at": "2026-08-30T10:30:29+00:00",
-      "title": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in - CNN",
-      "text": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in CNN",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zeVZFcGJ2SWk3eFdYcG1VWUJkY19xN0ZVUG0xOU40YXU5NzhzcnNKZTQ5ZnZ2THlHUmh2Nzc1Ukt2X0JtUk5yUG91TWxNaWl3ZExic053MGo4ZVhXQmZPaXBMRjBfTGJNMThvV2ZkLUdqYk0?oc=5",
       "auto": true
     },
     {
@@ -211,16 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
-      "auto": true
-    },
-    {
-      "date": "27.08.2026",
-      "published_at": "2026-08-27T09:02:46+00:00",
-      "title": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug - The New York Times",
-      "text": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9ONlptWEF3UElFcW9mUXNwd29WT1c5aE1XSVNJeDdRaFZEODFnb0Q1czlheGNTNkRUbVdEbDRHbXlYaEtrM0dVM1VNcHk2T08wLWZOOGZmTTdXQk9CMS1oc1UydXpFQkp0RUFxb0xHMnFuc1V1MTlSWjBiUllhWjdEbm1jc0pINHc?oc=5",
       "auto": true
     },
     {
@@ -304,6 +284,16 @@
       "auto": true
     },
     {
+      "date": "23.08.2026",
+      "published_at": "2026-08-23T07:00:00+00:00",
+      "title": "Pharmacy student sets own course at NASA - unc.edu",
+      "text": "Pharmacy student sets own course at NASA unc.edu",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
+      "auto": true
+    },
+    {
       "date": "22.08.2026",
       "published_at": "2026-08-22T06:34:22-04:00",
       "title": "This yeast supplement may boost cancer-fighting immunity",
@@ -341,6 +331,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+      "auto": true
+    },
+    {
+      "date": "18.08.2026",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "title": "Trump is taking credit for sharply declining drug prices. The reality is more complex - PBS",
+      "text": "Trump is taking credit for sharply declining drug prices. The reality is more complex PBS",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3BaQTEtUnVycERKRGFKNnlmdm05N0hLdmJuaHNkTi1JUDJTZTBUUDdZV0pMWWRoZFZLMVVhWHNvUzVSYXZ5b09GTHpzS2Vld1RkajVCRjFPWDk3c1VXYkZyRDdyX25SQm1Uc1dhemd1WnNra29iT1hVU3VlNmowazBxdXR5ODI2N3FXaUpBcUtFLUlYaklUMGY5aWdEQWpkUERhM0VwcGJUbG5neVFDbVNfOVpJeE9YdWpIMA?oc=5",
       "auto": true
     },
     {
