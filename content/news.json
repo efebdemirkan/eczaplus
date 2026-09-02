@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T03:25:38.590795+00:00",
+  "updated_at": "2026-09-02T04:27:58.278344+00:00",
   "items": [
     {
       "date": "01.09.2026",
@@ -25,22 +25,22 @@
     },
     {
       "date": "01.09.2026",
+      "published_at": "2026-09-01T16:10:00+00:00",
+      "title": "New method based on human blood simplifies mRNA drug development - news-medical.net",
+      "text": "New method based on human blood simplifies mRNA drug development news-medical.net",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbVk1TG1fX1FtbUNwa3NGU0Rja2c4T04xT0gxNk5fV3NJeEhoM0ktSEJPbUtpWUp3ZkYzbXJmaUtWYUc4QVFremdvbXpCSFpGQkVDNTJWaURnRGNxOXl4Y2VUTzhxTUxwM2VqelVFeGZ6eC1QdXVxVkUxaW4tcGVmcU91MUlsMW5ObzFFX0JONjlJTW1ZVVpMZHIxU2Ywb25zN29lcVQtblA2U0RaV2xXUHV3?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
       "text": "EMA has launched a new voluntary data submission (VDS) pilot to facilitate the sharing of data generated using New Approach Methodologies (NAMs). These innovative methods have…",
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
       "auto": true
     },
     {
@@ -65,26 +65,6 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - fiercepharma.com",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers fiercepharma.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
       "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
       "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
@@ -105,12 +85,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T19:43:00+00:00",
-      "title": "Donald Trump announces pharma deal: List of drugs getting prices reduced - Newsweek",
-      "text": "Donald Trump announces pharma deal: List of drugs getting prices reduced Newsweek",
+      "published_at": "2026-08-31T16:09:00+00:00",
+      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
+      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0pGV1BGWVZ4S3ljaFgxajFoSjQwcGk3aWJGSVhlUjc2QVRtbVBYM2hONzRwd0hFV0VNaE04V3BYNFpOT2YydnQ1dUNIRWRuSElGN1d6TW9kVXZSbFFoM0JjUURMa0NqRS1yNV9oc3BvQjF5T2x5YVUzQXpERVBRcGduSHdqNWVVRDhUTGl4LUY3QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
       "auto": true
     },
     {
@@ -186,21 +166,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:43:21+00:00",
-      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - pennmedicine.org",
-      "text": "Researchers uncover how a leading class of heart failure drug powers the heart pennmedicine.org",
+      "title": "Researchers uncover how a leading class of heart failure drug powers the heart - Penn Medicine",
+      "text": "Researchers uncover how a leading class of heart failure drug powers the heart Penn Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE5OZ1h1ZTlNOVJkVUtYMFZqaVM3bk95VUtTLXQ5YlR0TmxMczc1cFZYQ0VYZVZyaWRaMGs2eUlOVzhDbWhNMTVZZmF1cEUwZzRYY2pycXlxYXhlS2gtTGxySkw0TmxrMlctNU5lS1docFFRSzFSQW9Ta2ExMk9LRXFzREpKZlExMHA5Sm42M2EzdGVjYll3?oc=5",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -221,6 +191,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -345,12 +325,32 @@
     },
     {
       "date": "21.08.2026",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
+      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "21.08.2026",
       "published_at": "2026-08-20T20:10:15-04:00",
       "title": "Scientists discover how gut bacteria “train” the intestine to fight inflammation",
       "text": "A compound made when gut bacteria break down dietary fiber may do more than briefly calm inflammation—it could leave a lasting protective “memory” in the gut. Northwestern Medicine researchers found that butyrate can reprogram intestinal lining cells so they c",
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+      "auto": true
+    },
+    {
+      "date": "13.08.2026",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
+      "text": "Nonprescription Drug Product with an ACNU fda.gov",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
