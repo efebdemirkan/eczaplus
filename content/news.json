@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T06:35:36.019290+00:00",
+  "updated_at": "2026-09-02T07:26:03.438892+00:00",
   "items": [
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T20:22:40+00:00",
-      "title": "Hawler Medical University Sends Five Pharmacy Students to UK for Advanced Training - Kurdistan24",
-      "text": "Hawler Medical University Sends Five Pharmacy Students to UK for Advanced Training Kurdistan24",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVlVwVzFMZ2FtTDVvVjVCSlVPZlotRExvTXRfS2NoY3B5LUx0eTd2eXJVSW9HbExtZS14TkstUUU4QUZUUmxMSWQwT0FGekc4ZlpKUlozRjNSdUpXTHJEV1dfSnNvcG9BdTl1c25VcVNtS1RaS1p5b1ZOTlJqOTdJMm90bGtNbEQ5SVRBNzhZWk5IdGxnZzh5ZjBtdmI5VERjSF9hdXZ5ODBWemtaMTA1alBOa0thZ0N3ajZuQ0t5UkdHczFF?oc=5",
-      "auto": true
-    },
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T16:40:11+00:00",
@@ -51,6 +41,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUZ6NVR2OEM0eS10Y01sQzc3eHRhZmxKM1hwQnRCVjdsRGJjUHdQZk13YVBaeXc0MlotMFV4c1FxUkx6RU8wUTR2dWl0T2JETDAtemwxUlhrN2p1Y3h5YkFSeDBBTDIxVFFGSlFET3g2cWtDOExTNmlYR1ZCX2Nud014ZFp1dlVMM2VzeEVkTTdZY1VVaEE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T03:42:54+00:00",
+      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
+      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
       "auto": true
     },
     {
@@ -176,6 +176,16 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
       "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
@@ -191,16 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
