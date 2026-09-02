@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T13:27:50.168841+00:00",
+  "updated_at": "2026-09-02T14:26:45.555619+00:00",
   "items": [
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T16:40:11+00:00",
-      "title": "Experimental drug may disrupt immune circuits in pneumonia - Medical Xpress",
-      "text": "Experimental drug may disrupt immune circuits in pneumonia Medical Xpress",
+      "title": "Experimental drug may disrupt immune circuits in pneumonia - medicalxpress.com",
+      "text": "Experimental drug may disrupt immune circuits in pneumonia medicalxpress.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUp0TmdZWDRMNjMtaHRtQWhXWkEyT3VNSnlwRHNONUhkVUFsN1Znd2RwdzZfUkdNd2pEb0F0dkt0ZGM2YV9JSENLSVBYXzdfS1F3ZVJGY3hHbWlScFdBaUd1WHJfUVlyUHM1Ym1UV1UtVlk3N0g1MkFwUkxxLXhXV3ptRXJhbGRaX3daWXpR?oc=5",
@@ -45,12 +45,42 @@
     },
     {
       "date": "01.09.2026",
+      "published_at": "2026-09-01T12:09:16+00:00",
+      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
+      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
       "published_at": "2026-09-01T06:27:38+00:00",
       "title": "UTA uses AI to advance precision medicine - uta.edu",
       "text": "UTA uses AI to advance precision medicine uta.edu",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZUZ6NVR2OEM0eS10Y01sQzc3eHRhZmxKM1hwQnRCVjdsRGJjUHdQZk13YVBaeXc0MlotMFV4c1FxUkx6RU8wUTR2dWl0T2JETDAtemwxUlhrN2p1Y3h5YkFSeDBBTDIxVFFGSlFET3g2cWtDOExTNmlYR1ZCX2Nud014ZFp1dlVMM2VzeEVkTTdZY1VVaEE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T01:18:00+00:00",
+      "title": "Sherman Medical Center hosts event to raise awareness about overdoses - KXII",
+      "text": "Sherman Medical Center hosts event to raise awareness about overdoses KXII",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVE0LXVxaVVTRUtRVjEyeWFSN1FiTHgyb1hIaEgzNkQ4QlpIQ2poZG5nYTljODB6V1lhMTI2ZGtYY0txemRQNnAzVGpIZEpnV1RPWGZZXzNDanJRSFBwSG5tQkw4YkNfX0lDVVliQTRGdkMzaEd6OVNWU1d4bm1RRktVcEpqV2FjZ1QtbzY5T0NTNm9MYmNmQ2tENXhiT3FV0gG0AUFVX3lxTE5zVlBRS3JmRmxNMms1aUlpMURNSzlqdFNEcHJXUmEzQjRIQ3JoWkNROXhNYkhlSUItVFd2RkZUdFNKOWpNVWNWbWxZQ3IzUDJEaS1ZU0RZME85a1BVQ0xoeDNqZk9HWjUwOWRuTDJyVTBQNjBEeWpGTm01Ml9zUFIxM0g5QkpRQzBiaXJyNnBGMVZNYnNOc0UtREhVU3ZmWTRYS25lSEVQYXFiZGNLY3BYWEZIMw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T00:50:25+00:00",
+      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - foxbaltimore.com",
+      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion foxbaltimore.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONUM1Y2dvak5LNnRwem83MkFNLTVsQTI1Ym5TLS1GQzBVUnRQTGRVYjBYdGFWUmJveU9KX0VDSjIyVWFrTnhJem04SjZ2cDZnSUlyNE8yQjhJaUI1ZVgxRTlkTTZqOXA1bzhxeXBWZ1JjVnU3TGFlSWE2cG1mdVpxNHdJUW4tVEFuOGV0a0p1d29jNGdGR0RoRTEydm0wUnI0MmQtNi1BVGUwMVUzLUNkU1l1Vm12V0ZRbVZqM0l0eEZZUkNUREhfX0JVbV83OFYzalZZdEhVS0hUMllUNDBHalQ1Y2ZfNFQwVjM2Wkx6OE84N1d5MzV0UllJYmZOb3Vfa2kxaDRBR2pBUV9VRTN0ak1jOWFXVnh4bll2Y2lwYnFiYllZenQtd3JmdGtPRnNTeWEtZ1lWbXRFZUlaTjEyY1c1ekxmS3lacGNVMjNUTHNPUHJCMk9OWkNVYzZiX0FPaFk2OU1EeTdzQlhxNDhscG1lWXNqdTlOak9UYWpESTlNUkk1NHc?oc=5",
       "auto": true
     },
     {
@@ -65,32 +95,22 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T21:04:00+00:00",
       "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
       "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T20:10:50+00:00",
+      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
+      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
       "auto": true
     },
     {
@@ -135,16 +155,6 @@
     },
     {
       "date": "29.08.2026",
-      "published_at": "2026-08-29T15:11:00+00:00",
-      "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
-      "text": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "29.08.2026",
       "published_at": "2026-08-29T06:52:20-04:00",
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "text": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions",
@@ -165,12 +175,12 @@
     },
     {
       "date": "28.08.2026",
-      "published_at": "2026-08-28T00:43:21+00:00",
-      "title": "Researchers uncover how a leading class of heart failure drugs powers the heart - Penn Medicine",
-      "text": "Researchers uncover how a leading class of heart failure drugs powers the heart Penn Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVE5OZ1h1ZTlNOVJkVUtYMFZqaVM3bk95VUtTLXQ5YlR0TmxMczc1cFZYQ0VYZVZyaWRaMGs2eUlOVzhDbWhNMTVZZmF1cEUwZzRYY2pycXlxYXhlS2gtTGxySkw0TmxrMlctNU5lS1docFFRSzFSQW9Ta2ExMk9LRXFzREpKZlExMHA5Sm42M2EzdGVjYll3?oc=5",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -191,16 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -326,8 +326,8 @@
     {
       "date": "21.08.2026",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - uchicagomedicine.org",
-      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients uchicagomedicine.org",
+      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
+      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
