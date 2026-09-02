@@ -1,13 +1,23 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T01:23:07.705037+00:00",
+  "updated_at": "2026-09-02T02:38:29.764619+00:00",
   "items": [
     {
       "date": "01.09.2026",
+      "published_at": "2026-09-01T20:22:40+00:00",
+      "title": "Hawler Medical University Sends Five Pharmacy Students to UK for Advanced Training - Kurdistan24",
+      "text": "Hawler Medical University Sends Five Pharmacy Students to UK for Advanced Training Kurdistan24",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVlVwVzFMZ2FtTDVvVjVCSlVPZlotRExvTXRfS2NoY3B5LUx0eTd2eXJVSW9HbExtZS14TkstUUU4QUZUUmxMSWQwT0FGekc4ZlpKUlozRjNSdUpXTHJEV1dfSnNvcG9BdTl1c25VcVNtS1RaS1p5b1ZOTlJqOTdJMm90bGtNbEQ5SVRBNzhZWk5IdGxnZzh5ZjBtdmI5VERjSF9hdXZ5ODBWemtaMTA1alBOa0thZ0N3ajZuQ0t5UkdHczFF?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
       "published_at": "2026-09-01T16:40:11+00:00",
-      "title": "Experimental drug may disrupt immune circuits in pneumonia - Medical Xpress",
-      "text": "Experimental drug may disrupt immune circuits in pneumonia Medical Xpress",
+      "title": "Experimental drug may disrupt immune circuits in pneumonia - medicalxpress.com",
+      "text": "Experimental drug may disrupt immune circuits in pneumonia medicalxpress.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUp0TmdZWDRMNjMtaHRtQWhXWkEyT3VNSnlwRHNONUhkVUFsN1Znd2RwdzZfUkdNd2pEb0F0dkt0ZGM2YV9JSENLSVBYXzdfS1F3ZVJGY3hHbWlScFdBaUd1WHJfUVlyUHM1Ym1UV1UtVlk3N0g1MkFwUkxxLXhXV3ptRXJhbGRaX3daWXpR?oc=5",
@@ -35,16 +45,6 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T00:48:31+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T00:00:00-04:00",
       "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
       "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
@@ -55,22 +55,22 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:27:38+00:00",
-      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
-      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
+      "published_at": "2026-08-31T21:04:00+00:00",
+      "title": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says - Spectrum News",
+      "text": "90% of pre­scription drugs now covered by 'most favored nation' pricing agree­ments, Trump says Spectrum News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
       "auto": true
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
+      "published_at": "2026-08-31T20:04:52+00:00",
+      "title": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say - ScienceAlert",
+      "text": "'Wonder Drug': Common Diabetes Pill Could Transform How We Age, Scientists Say ScienceAlert",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
       "auto": true
     },
     {
@@ -85,12 +85,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T14:05:52+00:00",
-      "title": "One injection could keep osteoarthritis drugs working for weeks - Science Daily",
-      "text": "One injection could keep osteoarthritis drugs working for weeks Science Daily",
+      "published_at": "2026-08-31T16:09:00+00:00",
+      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
+      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZUJBZFBzZHdYRTJGSHBWLWJ6MVJGR0Y4M0tYX3FiVEhRcjhDTE4tUy1XelpNWDJhTWQ4bWo5RklGRnpNQ2ZYcS1aOEhqY0c1NXlFdzdmb1k0c2VPWUhGMWxuZ05pczhIRThCT0dzWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
       "auto": true
     },
     {
@@ -176,6 +176,16 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
       "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
@@ -191,16 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
