@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T10:27:05.782691+00:00",
+  "updated_at": "2026-09-03T11:24:15.671641+00:00",
   "items": [
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T10:39:04+00:00",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
+      "auto": true
+    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T19:54:26+00:00",
@@ -35,32 +45,22 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T17:49:00+00:00",
-      "title": "High-cost drugs push MassHealth pharmacy tab up $350 million - The Boston Globe",
-      "text": "High-cost drugs push MassHealth pharmacy tab up $350 million The Boston Globe",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "title": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple - Fierce Biotech",
+      "text": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple Fierce Biotech",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFdYRnVLU1pkYXQxS2pNM0JiTTQ1Vk0tbXd2dDlMa0d1bUdJYmFIUHpTeDFvSmRJMF9haVdIM3duN3c3X2FUV1F4bzBOU3REZjJrMkNfZ183Zmg3bXluUHZzWEFYU19XbmxhamY3aVV4UEtuRDJCb3g4ay1BdDIyWHBNZUxwX2pWOGxTVQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T15:00:06+00:00",
-      "title": "Genetic tests may miss reaction risk from drug prescribed to millions - Medical Xpress",
-      "text": "Genetic tests may miss reaction risk from drug prescribed to millions Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYTZDLVRSUXg2ZUJTcjA0RHNVSF9yeUI5Q1ZicGRhTGxrZ20zVGY3UTdBMzY2VkNVWEVYVlJUV2JiUU81Z0ItaUpib3UtcXotd2FNaU11eXFzMzZFcHFETWc2NmdkY29mZEpDeWRPRFNwdmFxdlBvN0l1UmU3YjQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXd0ejlxWXJVSU5Dc2xMNUFkLTNXbmkwcVI5TnBOaktUWF83SkZvS0JYbUxXdWVseGItak50MzZWRjI5VXUxd1UzZ25CNUlPLWJGYVcyLWViVElKc0xRaFBhdGJmTmJZalg1ZTNZLVYwc2VyS1JRcVYyY0p3ZXB0NzFJQ25hVXdsNkZRRXJ4NlFpdUlUaVVfbUdZWGpLd09HSS13V2tCQ1hnVVQ4ekxENVdWM1Ata2wwMWh6Sm0tbw?oc=5",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -76,11 +76,11 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
       "auto": true
     },
     {
@@ -101,6 +101,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T12:09:16+00:00",
+      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
+      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
       "auto": true
     },
     {
@@ -165,16 +175,6 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T00:00:00-04:00",
       "title": "Ana Salazar Modela Tu Cuerpo Inc. Issues Nationwide Voluntary Recall of Lipofit Extreme Fat Burner 2.0 Due to Presence of Undeclared Fluoxetine and 2,4-Dinitrophenol (DNP)",
       "text": "FOR IMMEDIATE RELEASE - August 27, 2026 - Davie, Florida – Ana Salazar Modela Tu Cuerpo Inc. is recalling Lipofit Extreme Fat Burner 2.0, Lot 25M12F, expiration date 09/2027, to the consumer level. The Food and Drug Administration (FDA) laboratory analysis has",
@@ -226,6 +226,16 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
+      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
       "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
       "source": "FDA MedWatch",
@@ -241,16 +251,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
-      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
       "auto": true
     },
     {
