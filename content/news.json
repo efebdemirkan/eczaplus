@@ -1,38 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T16:27:05.366102+00:00",
+  "updated_at": "2026-09-03T17:25:24.378510+00:00",
   "items": [
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T14:00:00+00:00",
-      "title": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery - PR Newswire",
-      "text": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery PR Newswire",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcmFoOXhVZFNlUkJnVE4tWmxFYkxuSXlYSWZWUVpGTnlmYWswanRVWFRzNHR5UkdGRk9fVGQxTlk1VzBoeEdBTjlicHQ3NmhibUNOaW1Fd3J3RVp2ZktBWGtGSWJmVlZ2STFHRm1zV1pBcWN6QXR1TldGZTBsSTdlN1Ixdnl0TlFncUxsYno3WDRXb19vaHZQc1ktYmI2SE1aWHk5TGx0RjFSZkhoa0x0VUxVeFNhNU5ET3M5QVRsblpGT1kwVGVUR1lQUm13alhKd2FBY3ItWUk0X0VXWmRIWEVKWEd0Y2JGZFl4NFQ1bk53bVF3ei0wR25jUFY4dw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T12:30:26+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
-      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T10:39:04+00:00",
-      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
-      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
-      "auto": true
-    },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T06:29:04-04:00",
@@ -46,61 +16,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Early Alert: Breathing Circuit Issue from Draeger",
       "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T21:51:06+00:00",
-      "title": "High-cost drugs push MassHealth pharmacy tab up $350 million - The Boston Globe",
-      "text": "High-cost drugs push MassHealth pharmacy tab up $350 million The Boston Globe",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFdYRnVLU1pkYXQxS2pNM0JiTTQ1Vk0tbXd2dDlMa0d1bUdJYmFIUHpTeDFvSmRJMF9haVdIM3duN3c3X2FUV1F4bzBOU3REZjJrMkNfZ183Zmg3bXluUHZzWEFYU19XbmxhamY3aVV4UEtuRDJCb3g4ay1BdDIyWHBNZUxwX2pWOGxTVQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T19:54:26+00:00",
-      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
-      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T18:25:00+00:00",
-      "title": "Insilico Medicine releases frontier AI models for drug discovery - News-Medical",
-      "text": "Insilico Medicine releases frontier AI models for drug discovery News-Medical",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlRZcHFoRGR5N0R6dklCT3ZzVHN2TFVtMmY3My1XTU4zQllsZjNCY2NQZGdvVFVFeEV1aU56V2czeEp0elRrT0VCQUd4dUtTWGlIQkJNb00xZjd1aF9fVXZSYzdacTJFZVlZcVV0S2twMFJoS3VIZnhQZVVEYmFNSU5faUJ3MVo2TC03aWFYV3UwLUJqLTEzMF9JdHBDVDVLd3R6ZXlBQ2NrSnNoajJkQUFR?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T15:00:06+00:00",
-      "title": "Genetic tests may miss reaction risk from drug prescribed to millions - Medical Xpress",
-      "text": "Genetic tests may miss reaction risk from drug prescribed to millions Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEYTZDLVRSUXg2ZUJTcjA0RHNVSF9yeUI5Q1ZicGRhTGxrZ20zVGY3UTdBMzY2VkNVWEVYVlJUV2JiUU81Z0ItaUpib3UtcXotd2FNaU11eXFzMzZFcHFETWc2NmdkY29mZEpDeWRPRFNwdmFxdlBvN0l1UmU3YjQ?oc=5",
       "auto": true
     },
     {
@@ -116,21 +36,21 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
       "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -145,52 +65,12 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T00:50:25+00:00",
-      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - WBFF",
-      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion WBFF",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONUM1Y2dvak5LNnRwem83MkFNLTVsQTI1Ym5TLS1GQzBVUnRQTGRVYjBYdGFWUmJveU9KX0VDSjIyVWFrTnhJem04SjZ2cDZnSUlyNE8yQjhJaUI1ZVgxRTlkTTZqOXA1bzhxeXBWZ1JjVnU3TGFlSWE2cG1mdVpxNHdJUW4tVEFuOGV0a0p1d29jNGdGR0RoRTEydm0wUnI0MmQtNi1BVGUwMVUzLUNkU1l1Vm12V0ZRbVZqM0l0eEZZUkNUREhfX0JVbV83OFYzalZZdEhVS0hUMllUNDBHalQ1Y2ZfNFQwVjM2Wkx6OE84N1d5MzV0UllJYmZOb3Vfa2kxaDRBR2pBUV9VRTN0ak1jOWFXVnh4bll2Y2lwYnFiYllZenQtd3JmdGtPRnNTeWEtZ1lWbXRFZUlaTjEyY1c1ekxmS3lacGNVMjNUTHNPUHJCMk9OWkNVYzZiX0FPaFk2OU1EeTdzQlhxNDhscG1lWXNqdTlOak9UYWpESTlNUkk1NHc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T00:00:00-04:00",
       "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
       "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T16:09:00+00:00",
-      "title": "Trump administration announces drug pricing deals with CSL, Astellas and others - Reuters",
-      "text": "Trump administration announces drug pricing deals with CSL, Astellas and others Reuters",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalIwNDMyd05oMlg2cE1WSmNwRkpMdjhaWDJSdm9kZnVSUUF2R3hWWmE3RTU3eUhmTkNhenFEcExadkphQ0hFcFh5NFBPOW9pZ0NwV21SSU8tYmZ4cVc0N2NlMzJyOXNaakxRUVNRZFhiQjBJUDBtUjhWVzY2TnhCWVQzZGFNSnlGX0NvdUxnMlFiZlJ2aXZqS1RScGVrQm5ZZDNJ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T14:05:52+00:00",
-      "title": "One injection could keep osteoarthritis drugs working for weeks - Science Daily",
-      "text": "One injection could keep osteoarthritis drugs working for weeks Science Daily",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZUJBZFBzZHdYRTJGSHBWLWJ6MVJGR0Y4M0tYX3FiVEhRcjhDTE4tUy1XelpNWDJhTWQ4bWo5RklGRnpNQ2ZYcS1aOEhqY0c1NXlFdzdmb1k0c2VPWUhGMWxuZ05pczhIRThCT0dzWQ?oc=5",
       "auto": true
     },
     {
@@ -256,11 +136,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
-      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -276,11 +156,11 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
+      "title": "Early Alert: Angiographic Catheter Issue from Boston Scientific",
+      "text": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-angiographic-catheter-issue-boston-scientific",
       "auto": true
     },
     {
@@ -301,6 +181,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260826055442.htm",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T00:00:00-04:00",
+      "title": "Early Alert: Esophageal pH Monitoring Capsule Delivery Device Issue from Medtronic and Given Imaging",
+      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-esophageal-ph-monitoring-capsule-delivery-device-issue-medtronic-and-given-imaging",
       "auto": true
     },
     {
@@ -341,16 +231,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
-      "auto": true
-    },
-    {
-      "date": "21.08.2026",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
-      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
       "auto": true
     },
     {
