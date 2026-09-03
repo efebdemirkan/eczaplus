@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-02T23:23:07.526497+00:00",
+  "updated_at": "2026-09-03T00:35:55.762235+00:00",
   "items": [
     {
       "date": "02.09.2026",
@@ -16,21 +16,11 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T19:54:26+00:00",
-      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - thewellnews.com",
-      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. thewellnews.com",
+      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
+      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T19:12:01+00:00",
-      "title": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production - Fierce Pharma",
-      "text": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXdJNlBkdjY4SjJVaFY5ZGNiY3I3bERaMEs5OENXZnRlVmJLSGRZc1ZZOTgxc1NneVBEb1FUb0tIcDREajluSElQNUduZzJHa3RPQUZvc0NsWWFQQU1TYjd2V3BLSGdRUG9YQXdoRmh6eEc0VHNEeC1mUXlYd3FwYlh0TEVrYVdzcWJNQ01IQU84U25EWUlGbWZfSVhwWEplNVE?oc=5",
       "auto": true
     },
     {
@@ -86,8 +76,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T14:23:35+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
@@ -115,6 +105,16 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T21:10:00+00:00",
+      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
+      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T20:10:50+00:00",
       "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
       "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
@@ -125,22 +125,22 @@
     },
     {
       "date": "31.08.2026",
+      "published_at": "2026-08-31T14:05:52+00:00",
+      "title": "One injection could keep osteoarthritis drugs working for weeks - Science Daily",
+      "text": "One injection could keep osteoarthritis drugs working for weeks Science Daily",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZUJBZFBzZHdYRTJGSHBWLWJ6MVJGR0Y4M0tYX3FiVEhRcjhDTE4tUy1XelpNWDJhTWQ4bWo5RklGRnpNQ2ZYcS1aOEhqY0c1NXlFdzdmb1k0c2VPWUhGMWxuZ05pczhIRThCT0dzWQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
       "published_at": "2026-08-31T09:52:45-04:00",
       "title": "One injection could keep osteoarthritis drugs working for weeks",
       "text": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying drugs directly where they are needed while",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -165,22 +165,22 @@
     },
     {
       "date": "30.08.2026",
+      "published_at": "2026-08-30T10:30:29+00:00",
+      "title": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in - CNN",
+      "text": "Brazil’s black market for weight-loss drugs is booming. Smugglers are cashing in CNN",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zeVZFcGJ2SWk3eFdYcG1VWUJkY19xN0ZVUG0xOU40YXU5NzhzcnNKZTQ5ZnZ2THlHUmh2Nzc1Ukt2X0JtUk5yUG91TWxNaWl3ZExic053MGo4ZVhXQmZPaXBMRjBfTGJNMThvV2ZkLUdqYk0?oc=5",
+      "auto": true
+    },
+    {
+      "date": "30.08.2026",
       "published_at": "2026-08-29T21:28:13-04:00",
       "title": "A cancer therapy put severe rheumatoid arthritis into remission",
       "text": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectiv",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
-      "auto": true
-    },
-    {
-      "date": "29.08.2026",
-      "published_at": "2026-08-29T15:11:00+00:00",
-      "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
-      "text": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
       "auto": true
     },
     {
@@ -306,8 +306,8 @@
     {
       "date": "23.08.2026",
       "published_at": "2026-08-23T07:00:00+00:00",
-      "title": "Pharmacy student sets own course at NASA - unc.edu",
-      "text": "Pharmacy student sets own course at NASA unc.edu",
+      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
+      "text": "Pharmacy student sets own course at NASA The University of North Carolina at Chapel Hill",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
