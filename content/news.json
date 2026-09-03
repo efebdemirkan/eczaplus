@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T00:35:55.762235+00:00",
+  "updated_at": "2026-09-03T01:29:04.644306+00:00",
   "items": [
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T21:17:50+00:00",
-      "title": "Newly approved pancreatic cancer drug shows promise in lung cancer - NBC News",
-      "text": "Newly approved pancreatic cancer drug shows promise in lung cancer NBC News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2NFTTVlek43SDhxVm1zTHR4U1Y2WlJMTS1rT3hoR2pUTGUwUHlEMHdNY3pXTzlkWTdMeThzWHNId2VjXzdqREczdXVSczRWLVBNYjVIcTRqdzRVWW9rektfdmtqZUR4NW5BdFRwTEw3b2g0NktMSkExNzBnVHpReHhsZ0FKMjA0LVRqM2J1Zzd0OU9mVjJUNjdjTlg5QmxWdzc1UVBMYzhLOFdWTjhVSjhXOS15MVpo?oc=5",
-      "auto": true
-    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T19:54:26+00:00",
@@ -75,22 +65,32 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T14:23:35+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
       "text": "EMA has launched a new voluntary data submission (VDS) pilot to facilitate the sharing of data generated using New Approach Methodologies (NAMs). These innovative methods have…",
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T12:09:16+00:00",
+      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - time.com",
+      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices time.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T00:50:25+00:00",
+      "title": "Trump announces more prescription drug savings, projected to save Americans $600 billion - WBFF",
+      "text": "Trump announces more prescription drug savings, projected to save Americans $600 billion WBFF",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxONUM1Y2dvak5LNnRwem83MkFNLTVsQTI1Ym5TLS1GQzBVUnRQTGRVYjBYdGFWUmJveU9KX0VDSjIyVWFrTnhJem04SjZ2cDZnSUlyNE8yQjhJaUI1ZVgxRTlkTTZqOXA1bzhxeXBWZ1JjVnU3TGFlSWE2cG1mdVpxNHdJUW4tVEFuOGV0a0p1d29jNGdGR0RoRTEydm0wUnI0MmQtNi1BVGUwMVUzLUNkU1l1Vm12V0ZRbVZqM0l0eEZZUkNUREhfX0JVbV83OFYzalZZdEhVS0hUMllUNDBHalQ1Y2ZfNFQwVjM2Wkx6OE84N1d5MzV0UllJYmZOb3Vfa2kxaDRBR2pBUV9VRTN0ak1jOWFXVnh4bll2Y2lwYnFiYllZenQtd3JmdGtPRnNTeWEtZ1lWbXRFZUlaTjEyY1c1ekxmS3lacGNVMjNUTHNPUHJCMk9OWkNVYzZiX0FPaFk2OU1EeTdzQlhxNDhscG1lWXNqdTlOak9UYWpESTlNUkk1NHc?oc=5",
       "auto": true
     },
     {
@@ -105,22 +105,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:10:00+00:00",
-      "title": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers - Fierce Pharma",
-      "text": "White House unveils next round of MFN pricing deals with 9 midsized drugmakers Fierce Pharma",
+      "published_at": "2026-08-31T21:27:38+00:00",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVg3LTQ0RkRRUzQyYktwci1ObHRrUUFsQ1kwdTV6dnJydFZSSHVBV1I1Y01zUlloRGk2ZGEwV005RWtsejVOU3BoNm9HWkl5QXJHRkwybDVtNEJPdTJ6S1pDSTdYUlUyTDlkdjhXY3lreVpzWDVpODNMTExuNDRqNGI5WktkcnZ1NUQ3OVJDM2dsOUdQMFV6aXRUMmJwbEUzMFVmTmo5M3d5UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T20:10:50+00:00",
-      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
-      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
       "auto": true
     },
     {
@@ -141,6 +131,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T09:03:03+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -304,16 +304,6 @@
       "auto": true
     },
     {
-      "date": "23.08.2026",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
-      "text": "Pharmacy student sets own course at NASA The University of North Carolina at Chapel Hill",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
-      "auto": true
-    },
-    {
       "date": "22.08.2026",
       "published_at": "2026-08-22T06:34:22-04:00",
       "title": "This yeast supplement may boost cancer-fighting immunity",
@@ -351,6 +341,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+      "auto": true
+    },
+    {
+      "date": "13.08.2026",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
+      "text": "Nonprescription Drug Product with an ACNU fda.gov",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
