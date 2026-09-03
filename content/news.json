@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T05:07:43.062802+00:00",
+  "updated_at": "2026-09-03T05:44:16.449505+00:00",
   "items": [
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T21:51:06+00:00",
+      "title": "High-cost drugs push MassHealth pharmacy tab up $350 million - The Boston Globe",
+      "text": "High-cost drugs push MassHealth pharmacy tab up $350 million The Boston Globe",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFdYRnVLU1pkYXQxS2pNM0JiTTQ1Vk0tbXd2dDlMa0d1bUdJYmFIUHpTeDFvSmRJMF9haVdIM3duN3c3X2FUV1F4bzBOU3REZjJrMkNfZ183Zmg3bXluUHZzWEFYU19XbmxhamY3aVV4UEtuRDJCb3g4ay1BdDIyWHBNZUxwX2pWOGxTVQ?oc=5",
+      "auto": true
+    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T21:17:50+00:00",
@@ -131,16 +141,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T20:04:52+00:00",
-      "title": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging - ScienceAlert",
-      "text": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging ScienceAlert",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
       "auto": true
     },
     {
