@@ -1,26 +1,26 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T09:26:57.399249+00:00",
+  "updated_at": "2026-09-03T10:27:05.782691+00:00",
   "items": [
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T21:17:50+00:00",
-      "title": "Newly approved pancreatic cancer drug shows promise in lung cancer - NBC News",
-      "text": "Newly approved pancreatic cancer drug shows promise in lung cancer NBC News",
+      "published_at": "2026-09-02T19:54:26+00:00",
+      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
+      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2NFTTVlek43SDhxVm1zTHR4U1Y2WlJMTS1rT3hoR2pUTGUwUHlEMHdNY3pXTzlkWTdMeThzWHNId2VjXzdqREczdXVSczRWLVBNYjVIcTRqdzRVWW9rektfdmtqZUR4NW5BdFRwTEw3b2g0NktMSkExNzBnVHpReHhsZ0FKMjA0LVRqM2J1Zzd0OU9mVjJUNjdjTlg5QmxWdzc1UVBMYzhLOFdWTjhVSjhXOS15MVpo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
       "auto": true
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T19:54:26+00:00",
-      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - thewellnews.com",
-      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. thewellnews.com",
+      "published_at": "2026-09-02T19:12:01+00:00",
+      "title": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production - Fierce Pharma",
+      "text": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production Fierce Pharma",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXdJNlBkdjY4SjJVaFY5ZGNiY3I3bERaMEs5OENXZnRlVmJLSGRZc1ZZOTgxc1NneVBEb1FUb0tIcDREajluSElQNUduZzJHa3RPQUZvc0NsWWFQQU1TYjd2V3BLSGdRUG9YQXdoRmh6eEc0VHNEeC1mUXlYd3FwYlh0TEVrYVdzcWJNQ01IQU84U25EWUlGbWZfSVhwWEplNVE?oc=5",
       "auto": true
     },
     {
@@ -74,6 +74,16 @@
       "auto": true
     },
     {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "auto": true
+    },
+    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T14:23:35+00:00",
       "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
@@ -91,16 +101,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T12:45:00+00:00",
-      "title": "Jim Cramer: This Little-Talked-About Drug Could Target the “Biggest Market of All Time” Aside From Eli Lilly’s GLP-1 Drugs - 24/7 Wall St.",
-      "text": "Jim Cramer: This Little-Talked-About Drug Could Target the “Biggest Market of All Time” Aside From Eli Lilly’s GLP-1 Drugs 24/7 Wall St.",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeThtYjRJc19LNVJIbnJialdwY3BGRVBmdkxkY2hqWWlHdGxaV0xIWEV0QWlYbGdTZFJBUVBXWThWQ0JLRm41c2gzREFEU2Rhblo4d1RqT0xIMWNUWHhfTVBwRHh5b0FYSlNBTkZhdlU4WkpsWDFxUDB3d0hDUWEza1VPQjZ0dHFCcDB3c2dOcDd5RzQtbmxEV3RSbGQ0aC05QnVZc0NRZ3lyR2VubXpKMVBDUl9ERDMzYzUtX25XVWp6dmhRME9yQU5lTHl6VXBfM1g0eURuSEs1dkxVUl9aOGVRR1VfNmpKc2k0Q1I2TmpuVDFk?oc=5",
       "auto": true
     },
     {
@@ -125,12 +125,32 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T20:10:50+00:00",
-      "title": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER - Medical Daily",
-      "text": "Rural Patients Get Addiction Medicine at the Pharmacy, While Urban Patients Increasingly Get It in the ER Medical Daily",
+      "published_at": "2026-08-31T21:27:38+00:00",
+      "title": "Trump announces new drug-pricing deals with 9 pharma companies - NBC News",
+      "text": "Trump announces new drug-pricing deals with 9 pharma companies NBC News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWU0N3d6dXlscEJBcjRVRzdxRkExdWtTanQ4MGhmTHFsUURXWGJERGg4TXNPaks1Ujg3cll0amJxaGVLOWdkckVPU1F4bGV6cDNqc1ZUWHFHZ194aEZDSTI0QV81YXd1bjYzcVZPNGZxTnc4SVRXTXlPX1owclFVbmRCMU5ZNC04N3o5YUdrMVdubXlJRTVsemxySjhRYnlGVUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkpWVzk2NkZVZ1BrOVVHVE53cEdLeUV5UkZCU25fZV9DWG53N2RRdEVzSDNKVDY5VXlmbFVOdnFWeGcySmNra1g4bWk1R0VhLWQyTHVNdEk0TXM3Rm5TTEdyQWtzWkZBOFJybEJ0Z0VEMVZSWmh4N3RhMTFtSFNvUnJYbXZRRlhRaGpuVkZHV0FaT0hoX0o5RHNjTElJZGpzeFNrc0U4azJNQnFsQV9Zcw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T20:04:52+00:00",
+      "title": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging - ScienceAlert",
+      "text": "This 70-Year-Old Diabetes Pill Might Also Slow Down Aging ScienceAlert",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0JETVBfYjcySURKdm14TENqRkZTSUdlUnFhcHI5RUxEZGpOUW9SV1k4Z2N3RTZNa0I1cnJVZ2ZaTXptck53RnFqSnFkZV9yTWh0RkdQakcwQW9EbW9DZGVVT3hHOEFRNXFDWlJxLU1iYVN4eFVPc1dCY1Ytb0lxYnRNT3NTSlZOVkg0OXpqcUZTVG9BcmZzVWVkc0QtYkVDai02Uld3?oc=5",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T14:05:52+00:00",
+      "title": "One injection could keep osteoarthritis drugs working for weeks - Science Daily",
+      "text": "One injection could keep osteoarthritis drugs working for weeks Science Daily",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pZUJBZFBzZHdYRTJGSHBWLWJ6MVJGR0Y4M0tYX3FiVEhRcjhDTE4tUy1XelpNWDJhTWQ4bWo5RklGRnpNQ2ZYcS1aOEhqY0c1NXlFdzdmb1k0c2VPWUhGMWxuZ05pczhIRThCT0dzWQ?oc=5",
       "auto": true
     },
     {
@@ -141,6 +161,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T09:03:03+00:00",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
@@ -196,21 +226,21 @@
     {
       "date": "28.08.2026",
       "published_at": "2026-08-28T00:00:00-04:00",
-      "title": "Early Alert: IV Start Kit Issue from Avid Medical",
-      "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
-      "auto": true
-    },
-    {
-      "date": "28.08.2026",
-      "published_at": "2026-08-28T00:00:00-04:00",
       "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
       "text": "FOR IMMEDIATE RELEASE – August 19, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to pre",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "28.08.2026",
+      "published_at": "2026-08-28T00:00:00-04:00",
+      "title": "Early Alert: IV Start Kit Issue from Avid Medical",
+      "text": "Avid Medical is removing certain convenience kits affected by the BD ChloraPrep Applicator Recall that may be contaminated with Aspergillus penicillioides.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-iv-start-kit-issue-avid-medical",
       "auto": true
     },
     {
@@ -264,16 +294,6 @@
       "auto": true
     },
     {
-      "date": "26.08.2026",
-      "published_at": "2026-08-26T00:00:00-04:00",
-      "title": "Percutaneous Catheter Recall: Boston Scientific Removes ENROUTE Transcarotid Neuroprotection System",
-      "text": "ENROUTE Transcarotid Neuroprotection Systems may have arterial sheath tip separation or partial tip separation during use.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/percutaneous-catheter-recall-boston-scientific-removes-enroute-transcarotid-neuroprotection-system",
-      "auto": true
-    },
-    {
       "date": "24.08.2026",
       "published_at": "2026-08-24T09:14:50-04:00",
       "title": "Common medications may change your gut for years",
@@ -291,16 +311,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-      "auto": true
-    },
-    {
-      "date": "23.08.2026",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
-      "text": "Pharmacy student sets own course at NASA The University of North Carolina at Chapel Hill",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
       "auto": true
     },
     {
@@ -341,16 +351,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "12.08.2026",
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "title": "Igniting Drug Discovery - The University of Alabama at Birmingham",
-      "text": "Igniting Drug Discovery The University of Alabama at Birmingham",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkhyclB4MmJNTi0tRHhwSnpaYzV1T0pIU1ctX2FsQnFzN3NqZWtiN25XYTVIc0U4d3FGcmNnbnN6djRCMVQ5TlNFZUYwWW9XbzE2anhoTDF1eUlLOXk1ZWpacmp2TFQ3b0ZnY3VTSkxKSV9oRVQ1WC1kRndldnpHTnJibkpxbzlQa01fMA?oc=5",
       "auto": true
     }
   ]
