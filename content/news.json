@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-03T12:32:24.196543+00:00",
+  "updated_at": "2026-09-03T13:27:17.756069+00:00",
   "items": [
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T06:29:04-04:00",
+      "title": "One immune switch may help drive aging across the body",
+      "text": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles, and memory remain re",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "auto": true
+    },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
@@ -189,7 +199,7 @@
       "title": "Common medications may change your gut for years",
       "text": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing dru",
       "source": "ScienceDaily",
-      "category": "Farmakoloji",
+      "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
       "auto": true
     },
