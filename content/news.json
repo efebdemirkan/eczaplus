@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T14:25:35.873286+00:00",
+  "updated_at": "2026-09-04T15:26:40.235462+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -81,6 +81,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T03:58:32+00:00",
+      "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - Drexel",
+      "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting Drexel",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW8wakhBMUxNbl84TzlOcWJRbEMyS0hzUHI1d0FXc29BbTZRNlJtNklKUUxoYjZwN29iVWRid1l6UDJxVlRpTHJ0VGFuUXZVbXRwNlFQNUh0LW9JaWxoRTE3YWprRzNNY0FlU3QyQ0V1MHZtRjMxaGlzTFNrUW5kVG9zbm9BWU1IUG1HRUs3VGVVeDdiWTdpeGlxVmZXUC1BOERWeDIyYmw?oc=5",
       "auto": true
     },
     {
@@ -186,8 +196,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T15:06:10+00:00",
-      "title": "Prescription Drug Announcement Trump - Rev",
-      "text": "Prescription Drug Announcement Trump Rev",
+      "title": "Prescription Drug Announcement Trump - rev.com",
+      "text": "Prescription Drug Announcement Trump rev.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMWVzNThHZDdtcjJtbEh6OENGMmRtRTFfQ21rQ3F5c0pXQlA2d29vd1BBNVZnQjVMUEhHMTBWcV9LNy1maXBoLXV5VTZ2NWcwSGFUc3pocUZYemhJMklMRi1ZR3VuajBIdkY3WmlEOA?oc=5",
@@ -205,19 +215,9 @@
     },
     {
       "date": "01.09.2026",
-      "published_at": "2026-09-01T12:09:16+00:00",
-      "title": "What Trump's Most-Favored-Nation Deal Means for Drug Prices - Time Magazine",
-      "text": "What Trump's Most-Favored-Nation Deal Means for Drug Prices Time Magazine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkszRUpBUnoteWJwTjBCZjNpY2ZSTGstRFFBc052bVd0V2w4ZndlWW1CNzBSQkh1LUpRQlZZOHNRdTNWMFRlbW80Q1FHR3VmVmhFLVhsTW5Ucjc4Vk9ORDJ2djVlT2RpeVF4Z1FFWkRmQ1dvbTgzYW1WdjNuUkpVQ05xVmJEOHYxdFVKdkE5UHFGN3MzQklLMUlR?oc=5",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
@@ -235,12 +235,12 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T21:04:00+00:00",
-      "title": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals - Spectrum News",
-      "text": "Trump: 90% of prescription drugs covered by 'most favored nation' price deals Spectrum News",
+      "published_at": "2026-08-31T19:50:18+00:00",
+      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
+      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkxrTHFaUG1fWDdNMGhrQ2VPeGxsc2NDZTMxOUdiSVZGaDh3T2dNd3ZzX3BQVXpzcGstMVdaTVJtUWFtbVdpY0pXWURRYTJjX09va0tZeC1xWGRib0NNRkJUOWF5dDJnYkdCQTBVdEcyUjhjN3RuVGpaaW5sQlY4VFAzUHFKRjY3Zno5YzM5bw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
       "auto": true
     },
     {
