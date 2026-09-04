@@ -1,8 +1,28 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T08:28:03.863215+00:00",
+  "updated_at": "2026-09-04T09:26:33.109450+00:00",
   "items": [
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T11:00:00+02:00",
+      "title": "New EU supply chain to end Visudyne shortage",
+      "text": "A new supply chain for Visudyne (verteporfin) has been put in place in the European Union (EU), marking an important step towards resolving a long-standing shortage of the…, This situation shows the complexity of shortages and how coordination between the Euro",
+      "source": "EMA",
+      "category": "İlaç / Regülasyon",
+      "url": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
+      "auto": true
+    },
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T07:28:17+00:00",
+      "title": "Pasco family fights for cancer drug access after FDA approval - Nonstop Local News",
+      "text": "Pasco family fights for cancer drug access after FDA approval Nonstop Local News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWd6ZFQ3MjNoOXYtTjduckhNQmp1NFBCZFFwbW5YN1B6SkRGNGxpTG9zS2FZSTJBdURkVXlYQWdXRDA1VmpLeWVLcGU5MWxEVEI5ZEM4RnNNU3h6OHU5bVhaSjUwUnVUWW5jYXh4ZkZxVXUxZ2c2TVU0LWVhZldXNWZzQW0wdlBHSzZCN2M1OXI0R25OenNXR0NjXzFvdGxPRDdVbUgySFcyU2t3WEpYY2N2OW10czVPTHdoSy1oekFsdW9XUDYxMldUWGFMNGEyNDNjZ2dHRk40aXRn?oc=5",
+      "auto": true
+    },
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T04:25:00+00:00",
@@ -21,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmdpQTcycDVFT0FtcUFJLWRtQlpNaThZN1A2QVN2N3g3T3Z2YVJ5bWlIR3pPMmVZTzRqTDA2cUVOSGRLaWVRQ0FldVY2TzlxTUFPdWpEcnhZM2h6RTF0V05DcjhnNkl1MGRfZlVFSzA1eVdZajBZenpWRGZvUG5Fd2RNVkplYWYtRVI1czJaWndGMHJBS2VCcklIWG9TTmQzVFZfTWR3?oc=5",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T00:41:00+00:00",
-      "title": "Pasco family fights for cancer drug access following FDA approval - nbcrightnow.com",
-      "text": "Pasco family fights for cancer drug access following FDA approval nbcrightnow.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM1NaM2FlLVhEdTZDMjJQY1VTcDJLaDdSaUpIZFMxVGNlZXcxeW42YWc3WmY3bWZldmUwSlJIR2ZURFFCUVVlZzVpNmppbHY4emNVNnlkTWZ4bWtzMEJDOF9EZHZUU0tHSnJkYWNRTm5mUzBLVnQ2RU90aUFvSW13YWFsQ2hZTlRPUjlkSEdzdWFwRE5SNkRRU3ppTko2WWxua1RmS3laTTB0TmFROFRxZGpUMnNNVjZ3RjJKTzF4OWRTLU9wRjNZclhVNFhVeVNWREtVRVVlb3hEazJjLV80dGZR?oc=5",
       "auto": true
     },
     {
@@ -56,8 +66,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T13:17:09+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
-      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
+      "title": "What Will Drug Development Look Like in 2036? - themedicinemaker.com",
+      "text": "What Will Drug Development Look Like in 2036? themedicinemaker.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
@@ -76,11 +86,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -96,21 +106,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
       "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -136,16 +146,6 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
       "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
       "source": "FDA MedWatch",
@@ -161,6 +161,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
