@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T16:26:50.324835+00:00",
+  "updated_at": "2026-09-04T17:23:18.684889+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -44,13 +44,13 @@
       "auto": true
     },
     {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T20:40:00+00:00",
-      "title": "Several pounds of drugs seized near Biddeford school - WMTW",
-      "text": "Several pounds of drugs seized near Biddeford school WMTW",
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T01:01:00+00:00",
+      "title": "UNC probe turns to Steve Belichick over potential drug use in investigation twist - New York Post",
+      "text": "UNC probe turns to Steve Belichick over potential drug use in investigation twist New York Post",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2FYTjhIeHIzSW5MSzJhSE9BUVZZblpMTFhybHdBMmxSUldYOWwzX1pWY2RFWGJ6N0RaVlpuekRIdjNadU5SS1ZYdmZ3d1NaMllDaHQ3VVFacHZ0RWhMblJaQ1lxVE5wVzhYUDBVT3gwV01sWWp4OUhWY3pNMGRjblNJU0szSExoZXctYm5yUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmdpQTcycDVFT0FtcUFJLWRtQlpNaThZN1A2QVN2N3g3T3Z2YVJ5bWlIR3pPMmVZTzRqTDA2cUVOSGRLaWVRQ0FldVY2TzlxTUFPdWpEcnhZM2h6RTF0V05DcjhnNkl1MGRfZlVFSzA1eVdZajBZenpWRGZvUG5Fd2RNVkplYWYtRVI1czJaWndGMHJBS2VCcklIWG9TTmQzVFZfTWR3?oc=5",
       "auto": true
     },
     {
@@ -71,6 +71,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T10:39:04+00:00",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - iranintl.com",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple iranintl.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
       "auto": true
     },
     {
@@ -96,11 +106,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -116,21 +126,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -145,12 +155,12 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T21:17:50+00:00",
-      "title": "Newly approved pancreatic cancer drug shows promise in lung cancer - NBC News",
-      "text": "Newly approved pancreatic cancer drug shows promise in lung cancer NBC News",
+      "published_at": "2026-09-02T21:00:01+00:00",
+      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - medicalxpress.com",
+      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds medicalxpress.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2NFTTVlek43SDhxVm1zTHR4U1Y2WlJMTS1rT3hoR2pUTGUwUHlEMHdNY3pXTzlkWTdMeThzWHNId2VjXzdqREczdXVSczRWLVBNYjVIcTRqdzRVWW9rektfdmtqZUR4NW5BdFRwTEw3b2g0NktMSkExNzBnVHpReHhsZ0FKMjA0LVRqM2J1Zzd0OU9mVjJUNjdjTlg5QmxWdzc1UVBMYzhLOFdWTjhVSjhXOS15MVpo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
       "auto": true
     },
     {
@@ -161,6 +171,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXd0ejlxWXJVSU5Dc2xMNUFkLTNXbmkwcVI5TnBOaktUWF83SkZvS0JYbUxXdWVseGItak50MzZWRjI5VXUxd1UzZ25CNUlPLWJGYVcyLWViVElKc0xRaFBhdGJmTmJZalg1ZTNZLVYwc2VyS1JRcVYyY0p3ZXB0NzFJQ25hVXdsNkZRRXJ4NlFpdUlUaVVfbUdZWGpLd09HSS13V2tCQ1hnVVQ4ekxENVdWM1Ata2wwMWh6Sm0tbw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -181,26 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T15:06:10+00:00",
-      "title": "Prescription Drug Announcement Trump - Rev",
-      "text": "Prescription Drug Announcement Trump Rev",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zMWVzNThHZDdtcjJtbEh6OENGMmRtRTFfQ21rQ3F5c0pXQlA2d29vd1BBNVZnQjVMUEhHMTBWcV9LNy1maXBoLXV5VTZ2NWcwSGFUc3pocUZYemhJMklMRi1ZR3VuajBIdkY3WmlEOA?oc=5",
       "auto": true
     },
     {
@@ -256,8 +256,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs nytimes.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
