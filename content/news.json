@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T13:26:42.062109+00:00",
+  "updated_at": "2026-09-04T14:25:35.873286+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -25,6 +25,16 @@
     },
     {
       "date": "04.09.2026",
+      "published_at": "2026-09-04T07:32:07+00:00",
+      "title": "Pasco family fights for cancer drug access after FDA approval - Nonstop Local News",
+      "text": "Pasco family fights for cancer drug access after FDA approval Nonstop Local News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWd6ZFQ3MjNoOXYtTjduckhNQmp1NFBCZFFwbW5YN1B6SkRGNGxpTG9zS2FZSTJBdURkVXlYQWdXRDA1VmpLeWVLcGU5MWxEVEI5ZEM4RnNNU3h6OHU5bVhaSjUwUnVUWW5jYXh4ZkZxVXUxZ2c2TVU0LWVhZldXNWZzQW0wdlBHSzZCN2M1OXI0R25OenNXR0NjXzFvdGxPRDdVbUgySFcyU2t3WEpYY2N2OW10czVPTHdoSy1oekFsdW9XUDYxMldUWGFMNGEyNDNjZ2dHRk40aXRn?oc=5",
+      "auto": true
+    },
+    {
+      "date": "04.09.2026",
       "published_at": "2026-09-04T04:25:00+00:00",
       "title": "Oral drug offers promising advance for children with achondroplasia - News-Medical",
       "text": "Oral drug offers promising advance for children with achondroplasia News-Medical",
@@ -44,20 +54,10 @@
       "auto": true
     },
     {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T00:43:00+00:00",
-      "title": "Pasco family fights for cancer drug access after FDA approval - Nonstop Local News",
-      "text": "Pasco family fights for cancer drug access after FDA approval Nonstop Local News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWd6ZFQ3MjNoOXYtTjduckhNQmp1NFBCZFFwbW5YN1B6SkRGNGxpTG9zS2FZSTJBdURkVXlYQWdXRDA1VmpLeWVLcGU5MWxEVEI5ZEM4RnNNU3h6OHU5bVhaSjUwUnVUWW5jYXh4ZkZxVXUxZ2c2TVU0LWVhZldXNWZzQW0wdlBHSzZCN2M1OXI0R25OenNXR0NjXzFvdGxPRDdVbUgySFcyU2t3WEpYY2N2OW10czVPTHdoSy1oekFsdW9XUDYxMldUWGFMNGEyNDNjZ2dHRk40aXRn?oc=5",
-      "auto": true
-    },
-    {
       "date": "03.09.2026",
       "published_at": "2026-09-03T15:16:44+00:00",
-      "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - ABC News - Breaking News, Latest News and Videos",
-      "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests ABC News - Breaking News, Latest News and Videos",
+      "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - abcnews.com",
+      "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests abcnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWE0QmhnY0pXT3EtcDU3RmFqZ2JFYnpmUVNWTTRrT0FOYWtQQnl0RUZ0VWVyaWVRMDF5aVdUQ1dTNEJsS2dmYlNGeFNuck9HVVk5RnVuUGFBS1Z4bjNvVkxnbDNDSEJFN0NQYTNIYkx5T2w3Y3I4eldfaDNHOEpuYnhDbGtjZnZMUmI0OGJTS0Q5NjRITDROTktDekhJVzJV0gGmAUFVX3lxTFBvSDNlYWFCUkpGOGFNNjBjZkhVQkdwV1paWmV4eUstbm9tbXlKc3NZZ191OGRoNldrZG5iaU9JVTN3X28wUl8xdV9BTEp6aElEbXJVNXhyaVdnaWNtbk5KZnJaRWFwclNCVW1VcFhveGZjSFc3eno1UE9PY2dRQ25MSG9wZnhpY1puZ0xkTHd0Q2xTZVl5b3hPUWtFM09nVGx4MzJxd0E?oc=5",
@@ -66,8 +66,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T13:17:09+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - themedicinemaker.com",
-      "text": "What Will Drug Development Look Like in 2036? themedicinemaker.com",
+      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
+      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
@@ -135,19 +135,19 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T19:12:01+00:00",
-      "title": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production - fiercepharma.com",
-      "text": "ARPA-H puts up $125M to bankroll personalized RNA-based drug production fiercepharma.com",
+      "published_at": "2026-09-02T21:00:01+00:00",
+      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - Medical Xpress",
+      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVXdJNlBkdjY4SjJVaFY5ZGNiY3I3bERaMEs5OENXZnRlVmJLSGRZc1ZZOTgxc1NneVBEb1FUb0tIcDREajluSElQNUduZzJHa3RPQUZvc0NsWWFQQU1TYjd2V3BLSGdRUG9YQXdoRmh6eEc0VHNEeC1mUXlYd3FwYlh0TEVrYVdzcWJNQ01IQU84U25EWUlGbWZfSVhwWEplNVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "title": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple - Fierce Biotech",
-      "text": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple Fierce Biotech",
+      "title": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple - fiercebiotech.com",
+      "text": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple fiercebiotech.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXd0ejlxWXJVSU5Dc2xMNUFkLTNXbmkwcVI5TnBOaktUWF83SkZvS0JYbUxXdWVseGItak50MzZWRjI5VXUxd1UzZ25CNUlPLWJGYVcyLWViVElKc0xRaFBhdGJmTmJZalg1ZTNZLVYwc2VyS1JRcVYyY0p3ZXB0NzFJQ25hVXdsNkZRRXJ4NlFpdUlUaVVfbUdZWGpLd09HSS13V2tCQ1hnVVQ4ekxENVdWM1Ata2wwMWh6Sm0tbw?oc=5",
@@ -216,8 +216,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
