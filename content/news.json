@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T09:26:33.109450+00:00",
+  "updated_at": "2026-09-04T10:26:42.654863+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -55,6 +55,16 @@
     },
     {
       "date": "03.09.2026",
+      "published_at": "2026-09-03T15:14:22+00:00",
+      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - africa.businessinsider.com",
+      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival africa.businessinsider.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDczQXptZGRWZmpMMHFJNnFxbjdGWUJkNE84Ry10X0w2UnZ6b29NQ3FhOHpTdm5qeGNZbXBoaVl0NEo0TkxLUU1mZmdhYy1zYjlEdVJFRG1XY19Cc3NLdTBlWDVvQlhEY1drOTA3TXowYTBXMWE2VHFkTDJYMlltd1FUWXdvMTctaHdpdG1obUdsWk1ObExwRUdMNTlxMnp2WV9QRG04U1FVcDRneTJUWFlXcXlqTG5sQUg1djduampyVThuVXpDdmd1UHh3Vzg?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
       "published_at": "2026-09-03T14:00:00+00:00",
       "title": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery - PR Newswire",
       "text": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery PR Newswire",
@@ -66,8 +76,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T13:17:09+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - themedicinemaker.com",
-      "text": "What Will Drug Development Look Like in 2036? themedicinemaker.com",
+      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
+      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
@@ -225,16 +235,6 @@
     },
     {
       "date": "31.08.2026",
-      "published_at": "2026-08-31T19:50:18+00:00",
-      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
-      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
       "published_at": "2026-08-31T09:52:45-04:00",
       "title": "One injection could keep osteoarthritis drugs working for weeks",
       "text": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying drugs directly where they are needed while",
@@ -246,8 +246,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs nytimes.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
