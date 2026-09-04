@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T19:21:05.674738+00:00",
+  "updated_at": "2026-09-04T20:25:00.904676+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -11,16 +11,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-31-august-3-september-2026",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T11:02:00+00:00",
-      "title": "Weight-Loss Drug Prescriptions Soar Among U.S. Children, Study Finds - Newsweek",
-      "text": "Weight-Loss Drug Prescriptions Soar Among U.S. Children, Study Finds Newsweek",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUZxZDB4eWJmb2FJNGFPYjlzZTNJSklIQm16eWI1NTREM0Y4Y1ZYNTdhUTQ1bEM5Zm5sMWY5T3h1ZHJXbnl2Tm0zaTlydjk2Ulg1TnhBYlNoS0ROM1hDMTl5SGRFQndCTDZDNVlNTi1aS2ZWNVFYX044Y1c4ckFHRDhPNWxtMEpDdDM2SW9fc0ZGQ3Y1NGtZV01WRDc?oc=5",
       "auto": true
     },
     {
@@ -105,32 +95,22 @@
     },
     {
       "date": "03.09.2026",
+      "published_at": "2026-09-03T04:23:27+00:00",
+      "title": "Being ‘first’ in drug discovery can be a nebulous honor - American Council on Science and Health",
+      "text": "Being ‘first’ in drug discovery can be a nebulous honor American Council on Science and Health",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
       "published_at": "2026-09-03T03:58:32+00:00",
       "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - Drexel",
       "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting Drexel",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW8wakhBMUxNbl84TzlOcWJRbEMyS0hzUHI1d0FXc29BbTZRNlJtNklKUUxoYjZwN29iVWRid1l6UDJxVlRpTHJ0VGFuUXZVbXRwNlFQNUh0LW9JaWxoRTE3YWprRzNNY0FlU3QyQ0V1MHZtRjMxaGlzTFNrUW5kVG9zbm9BWU1IUG1HRUs3VGVVeDdiWTdpeGlxVmZXUC1BOERWeDIyYmw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -146,11 +126,31 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
       "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -175,12 +175,12 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "published_at": "2026-09-02T17:55:01+00:00",
+      "title": "Mini-tumors reveal new drug combinations for liver cancer - EurekAlert!",
+      "text": "Mini-tumors reveal new drug combinations for liver cancer EurekAlert!",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lREJLYi1tTlBoWjNOVHlzR3ZlUDBGaDY5eS12ZVhhYUhNR2ZvNDZXcTV5TGY1elE3WlhLSmRSdkxjZlZ1QTlyN0hhZV9fa1FmSWVBUlBqelVPUDNT?oc=5",
       "auto": true
     },
     {
@@ -201,6 +201,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -251,16 +261,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
       "auto": true
     },
     {
