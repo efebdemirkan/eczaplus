@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T18:26:34.867980+00:00",
+  "updated_at": "2026-09-04T19:21:05.674738+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -11,6 +11,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-31-august-3-september-2026",
+      "auto": true
+    },
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T11:02:00+00:00",
+      "title": "Weight-Loss Drug Prescriptions Soar Among U.S. Children, Study Finds - Newsweek",
+      "text": "Weight-Loss Drug Prescriptions Soar Among U.S. Children, Study Finds Newsweek",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUZxZDB4eWJmb2FJNGFPYjlzZTNJSklIQm16eWI1NTREM0Y4Y1ZYNTdhUTQ1bEM5Zm5sMWY5T3h1ZHJXbnl2Tm0zaTlydjk2Ulg1TnhBYlNoS0ROM1hDMTl5SGRFQndCTDZDNVlNTi1aS2ZWNVFYX044Y1c4ckFHRDhPNWxtMEpDdDM2SW9fc0ZGQ3Y1NGtZV01WRDc?oc=5",
       "auto": true
     },
     {
@@ -45,22 +55,22 @@
     },
     {
       "date": "03.09.2026",
+      "published_at": "2026-09-03T20:44:46+00:00",
+      "title": "Several pounds of drugs seized near Biddeford school - WMTW",
+      "text": "Several pounds of drugs seized near Biddeford school WMTW",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2FYTjhIeHIzSW5MSzJhSE9BUVZZblpMTFhybHdBMmxSUldYOWwzX1pWY2RFWGJ6N0RaVlpuekRIdjNadU5SS1ZYdmZ3d1NaMllDaHQ3VVFacHZ0RWhMblJaQ1lxVE5wVzhYUDBVT3gwV01sWWp4OUhWY3pNMGRjblNJU0szSExoZXctYm5yUQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
       "published_at": "2026-09-03T15:16:44+00:00",
       "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - ABC News - Breaking News, Latest News and Videos",
       "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests ABC News - Breaking News, Latest News and Videos",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWE0QmhnY0pXT3EtcDU3RmFqZ2JFYnpmUVNWTTRrT0FOYWtQQnl0RUZ0VWVyaWVRMDF5aVdUQ1dTNEJsS2dmYlNGeFNuck9HVVk5RnVuUGFBS1Z4bjNvVkxnbDNDSEJFN0NQYTNIYkx5T2w3Y3I4eldfaDNHOEpuYnhDbGtjZnZMUmI0OGJTS0Q5NjRITDROTktDekhJVzJV0gGmAUFVX3lxTFBvSDNlYWFCUkpGOGFNNjBjZkhVQkdwV1paWmV4eUstbm9tbXlKc3NZZ191OGRoNldrZG5iaU9JVTN3X28wUl8xdV9BTEp6aElEbXJVNXhyaVdnaWNtbk5KZnJaRWFwclNCVW1VcFhveGZjSFc3eno1UE9PY2dRQ25MSG9wZnhpY1puZ0xkTHd0Q2xTZVl5b3hPUWtFM09nVGx4MzJxd0E?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T15:14:22+00:00",
-      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - Business Insider Africa",
-      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival Business Insider Africa",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDczQXptZGRWZmpMMHFJNnFxbjdGWUJkNE84Ry10X0w2UnZ6b29NQ3FhOHpTdm5qeGNZbXBoaVl0NEo0TkxLUU1mZmdhYy1zYjlEdVJFRG1XY19Cc3NLdTBlWDVvQlhEY1drOTA3TXowYTBXMWE2VHFkTDJYMlltd1FUWXdvMTctaHdpdG1obUdsWk1ObExwRUdMNTlxMnp2WV9QRG04U1FVcDRneTJUWFlXcXlqTG5sQUg1djduampyVThuVXpDdmd1UHh3Vzg?oc=5",
       "auto": true
     },
     {
@@ -91,16 +101,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T04:23:27+00:00",
-      "title": "Being ‘first’ in drug discovery can be a nebulous honor - American Council on Science and Health",
-      "text": "Being ‘first’ in drug discovery can be a nebulous honor American Council on Science and Health",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
       "auto": true
     },
     {
