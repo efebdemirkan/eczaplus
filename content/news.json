@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T17:23:18.684889+00:00",
+  "updated_at": "2026-09-04T18:26:34.867980+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -44,16 +44,6 @@
       "auto": true
     },
     {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T01:01:00+00:00",
-      "title": "UNC probe turns to Steve Belichick over potential drug use in investigation twist - New York Post",
-      "text": "UNC probe turns to Steve Belichick over potential drug use in investigation twist New York Post",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmdpQTcycDVFT0FtcUFJLWRtQlpNaThZN1A2QVN2N3g3T3Z2YVJ5bWlIR3pPMmVZTzRqTDA2cUVOSGRLaWVRQ0FldVY2TzlxTUFPdWpEcnhZM2h6RTF0V05DcjhnNkl1MGRfZlVFSzA1eVdZajBZenpWRGZvUG5Fd2RNVkplYWYtRVI1czJaWndGMHJBS2VCcklIWG9TTmQzVFZfTWR3?oc=5",
-      "auto": true
-    },
-    {
       "date": "03.09.2026",
       "published_at": "2026-09-03T15:16:44+00:00",
       "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - ABC News - Breaking News, Latest News and Videos",
@@ -61,6 +51,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWE0QmhnY0pXT3EtcDU3RmFqZ2JFYnpmUVNWTTRrT0FOYWtQQnl0RUZ0VWVyaWVRMDF5aVdUQ1dTNEJsS2dmYlNGeFNuck9HVVk5RnVuUGFBS1Z4bjNvVkxnbDNDSEJFN0NQYTNIYkx5T2w3Y3I4eldfaDNHOEpuYnhDbGtjZnZMUmI0OGJTS0Q5NjRITDROTktDekhJVzJV0gGmAUFVX3lxTFBvSDNlYWFCUkpGOGFNNjBjZkhVQkdwV1paWmV4eUstbm9tbXlKc3NZZ191OGRoNldrZG5iaU9JVTN3X28wUl8xdV9BTEp6aElEbXJVNXhyaVdnaWNtbk5KZnJaRWFwclNCVW1VcFhveGZjSFc3eno1UE9PY2dRQ25MSG9wZnhpY1puZ0xkTHd0Q2xTZVl5b3hPUWtFM09nVGx4MzJxd0E?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T15:14:22+00:00",
+      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - Business Insider Africa",
+      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival Business Insider Africa",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDczQXptZGRWZmpMMHFJNnFxbjdGWUJkNE84Ry10X0w2UnZ6b29NQ3FhOHpTdm5qeGNZbXBoaVl0NEo0TkxLUU1mZmdhYy1zYjlEdVJFRG1XY19Cc3NLdTBlWDVvQlhEY1drOTA3TXowYTBXMWE2VHFkTDJYMlltd1FUWXdvMTctaHdpdG1obUdsWk1ObExwRUdMNTlxMnp2WV9QRG04U1FVcDRneTJUWFlXcXlqTG5sQUg1djduampyVThuVXpDdmd1UHh3Vzg?oc=5",
       "auto": true
     },
     {
@@ -76,8 +76,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T10:39:04+00:00",
-      "title": "Iran drug shortages hit 800 medicines as costs could triple - iranintl.com",
-      "text": "Iran drug shortages hit 800 medicines as costs could triple iranintl.com",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
@@ -91,6 +91,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T04:23:27+00:00",
+      "title": "Being ‘first’ in drug discovery can be a nebulous honor - American Council on Science and Health",
+      "text": "Being ‘first’ in drug discovery can be a nebulous honor American Council on Science and Health",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
       "auto": true
     },
     {
@@ -156,21 +166,11 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T21:00:01+00:00",
-      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - medicalxpress.com",
-      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds medicalxpress.com",
+      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - Medical Xpress",
+      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T07:00:00+00:00",
-      "title": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple - Fierce Biotech",
-      "text": "From his parents’ basement to your medicine cabinet: Absci CEO endeavors to create biotech’s Apple Fierce Biotech",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXd0ejlxWXJVSU5Dc2xMNUFkLTNXbmkwcVI5TnBOaktUWF83SkZvS0JYbUxXdWVseGItak50MzZWRjI5VXUxd1UzZ25CNUlPLWJGYVcyLWViVElKc0xRaFBhdGJmTmJZalg1ZTNZLVYwc2VyS1JRcVYyY0p3ZXB0NzFJQ25hVXdsNkZRRXJ4NlFpdUlUaVVfbUdZWGpLd09HSS13V2tCQ1hnVVQ4ekxENVdWM1Ata2wwMWh6Sm0tbw?oc=5",
       "auto": true
     },
     {
@@ -256,8 +256,8 @@
     {
       "date": "31.08.2026",
       "published_at": "2026-08-31T09:03:03+00:00",
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - nytimes.com",
-      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs nytimes.com",
+      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
+      "text": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
