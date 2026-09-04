@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T11:25:12.082696+00:00",
+  "updated_at": "2026-09-04T12:31:44.692720+00:00",
   "items": [
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T14:00:00+02:00",
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 31 August - 3 September 2026",
+      "text": "Review will assess risk of low blood phosphate levels and related bone problems with injectable iron medicinesEMA’s safety committee, PRAC, has started a review of injectable…, Agenda Agenda of the PRAC meeting 31 August - 3 September 2026Draft Reference Numbe",
+      "source": "EMA",
+      "category": "İlaç / Regülasyon",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-31-august-3-september-2026",
+      "auto": true
+    },
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T11:00:00+02:00",
@@ -11,16 +21,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T07:28:17+00:00",
-      "title": "Pasco family fights for cancer drug access after FDA approval - Nonstop Local News",
-      "text": "Pasco family fights for cancer drug access after FDA approval Nonstop Local News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWd6ZFQ3MjNoOXYtTjduckhNQmp1NFBCZFFwbW5YN1B6SkRGNGxpTG9zS2FZSTJBdURkVXlYQWdXRDA1VmpLeWVLcGU5MWxEVEI5ZEM4RnNNU3h6OHU5bVhaSjUwUnVUWW5jYXh4ZkZxVXUxZ2c2TVU0LWVhZldXNWZzQW0wdlBHSzZCN2M1OXI0R25OenNXR0NjXzFvdGxPRDdVbUgySFcyU2t3WEpYY2N2OW10czVPTHdoSy1oekFsdW9XUDYxMldUWGFMNGEyNDNjZ2dHRk40aXRn?oc=5",
       "auto": true
     },
     {
@@ -36,18 +36,28 @@
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T01:01:00+00:00",
-      "title": "UNC probe turns to Steve Belichick over potential drug use in investigation twist - New York Post",
-      "text": "UNC probe turns to Steve Belichick over potential drug use in investigation twist New York Post",
+      "title": "UNC probe turns to Steve Belichick over potential drug use in investigation twist - nypost.com",
+      "text": "UNC probe turns to Steve Belichick over potential drug use in investigation twist nypost.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmdpQTcycDVFT0FtcUFJLWRtQlpNaThZN1A2QVN2N3g3T3Z2YVJ5bWlIR3pPMmVZTzRqTDA2cUVOSGRLaWVRQ0FldVY2TzlxTUFPdWpEcnhZM2h6RTF0V05DcjhnNkl1MGRfZlVFSzA1eVdZajBZenpWRGZvUG5Fd2RNVkplYWYtRVI1czJaWndGMHJBS2VCcklIWG9TTmQzVFZfTWR3?oc=5",
       "auto": true
     },
     {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T00:43:00+00:00",
+      "title": "Pasco family fights for cancer drug access after FDA approval - Nonstop Local News",
+      "text": "Pasco family fights for cancer drug access after FDA approval Nonstop Local News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWd6ZFQ3MjNoOXYtTjduckhNQmp1NFBCZFFwbW5YN1B6SkRGNGxpTG9zS2FZSTJBdURkVXlYQWdXRDA1VmpLeWVLcGU5MWxEVEI5ZEM4RnNNU3h6OHU5bVhaSjUwUnVUWW5jYXh4ZkZxVXUxZ2c2TVU0LWVhZldXNWZzQW0wdlBHSzZCN2M1OXI0R25OenNXR0NjXzFvdGxPRDdVbUgySFcyU2t3WEpYY2N2OW10czVPTHdoSy1oekFsdW9XUDYxMldUWGFMNGEyNDNjZ2dHRk40aXRn?oc=5",
+      "auto": true
+    },
+    {
       "date": "03.09.2026",
       "published_at": "2026-09-03T15:16:44+00:00",
-      "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - ABC News - Breaking News, Latest News and Videos",
-      "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests ABC News - Breaking News, Latest News and Videos",
+      "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - abcnews.com",
+      "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests abcnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWE0QmhnY0pXT3EtcDU3RmFqZ2JFYnpmUVNWTTRrT0FOYWtQQnl0RUZ0VWVyaWVRMDF5aVdUQ1dTNEJsS2dmYlNGeFNuck9HVVk5RnVuUGFBS1Z4bjNvVkxnbDNDSEJFN0NQYTNIYkx5T2w3Y3I4eldfaDNHOEpuYnhDbGtjZnZMUmI0OGJTS0Q5NjRITDROTktDekhJVzJV0gGmAUFVX3lxTFBvSDNlYWFCUkpGOGFNNjBjZkhVQkdwV1paWmV4eUstbm9tbXlKc3NZZ191OGRoNldrZG5iaU9JVTN3X28wUl8xdV9BTEp6aElEbXJVNXhyaVdnaWNtbk5KZnJaRWFwclNCVW1VcFhveGZjSFc3eno1UE9PY2dRQ25MSG9wZnhpY1puZ0xkTHd0Q2xTZVl5b3hPUWtFM09nVGx4MzJxd0E?oc=5",
@@ -56,8 +66,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T15:14:22+00:00",
-      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - Business Insider Africa",
-      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival Business Insider Africa",
+      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - africa.businessinsider.com",
+      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival africa.businessinsider.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDczQXptZGRWZmpMMHFJNnFxbjdGWUJkNE84Ry10X0w2UnZ6b29NQ3FhOHpTdm5qeGNZbXBoaVl0NEo0TkxLUU1mZmdhYy1zYjlEdVJFRG1XY19Cc3NLdTBlWDVvQlhEY1drOTA3TXowYTBXMWE2VHFkTDJYMlltd1FUWXdvMTctaHdpdG1obUdsWk1ObExwRUdMNTlxMnp2WV9QRG04U1FVcDRneTJUWFlXcXlqTG5sQUg1djduampyVThuVXpDdmd1UHh3Vzg?oc=5",
@@ -206,8 +216,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
