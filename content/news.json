@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T22:23:45.983400+00:00",
+  "updated_at": "2026-09-04T23:22:11.004503+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -41,16 +41,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/new-eu-supply-chain-end-visudyne-shortage",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T09:00:11+00:00",
-      "title": "Opinion | The Search for New Cures Is Broken - The New York Times",
-      "text": "Opinion | The Search for New Cures Is Broken The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDd3a2NFak1nS0piTC1TaFlSUnJiMHZBNVQ1QS01TmN5Y3NILVE1VDJXc2N0bTBNVTFKLXBLY0dHVFBfakJYWDB5Ui1WR2swTFlPUjVfZTRfdURRazNUZTFQR3lTUUFteHprV21NQ0ZCLUhSSnU2WjNtaU5ZejlZcHY2OA?oc=5",
       "auto": true
     },
     {
@@ -96,11 +86,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T13:17:09+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
-      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
+      "title": "What Will Drug Development Look Like in 2036? - themedicinemaker.com",
+      "text": "What Will Drug Development Look Like in 2036? themedicinemaker.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T10:39:04+00:00",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
       "auto": true
     },
     {
