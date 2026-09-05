@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-04T23:22:11.004503+00:00",
+  "updated_at": "2026-09-05T00:34:35.315223+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -11,16 +11,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQVI1RVBLVGFXRHdBMEo4MHR3b3U4Z2FBRzM2SWJBZWtObHRnZGNXbF9EX3BIdWNfT1pUQUNSOE14VkJBZTAtM0pLNGVOb0NDbnVpVnowVV9CcVVrUWlJTXlhR0dRWlhnSERYR25waU5jUlNJUW4xTTRaekoxQ2hWZ2wtV0Z1cTJQdE1WNktDNHRld0h0YmNRQ0VzNWxpUGdEQldjMDE0ZExVY21YUjBuTDZ1aTU4bmk2VlJMc3UzdG1DTEJQb1ZJX0FxOWlsWG1ta2NmSC1BR2FrSFBfdlhrQ0thS0ZsS3p4M2pwYmdBLVlhUU9fU2FhbjhuTlREZzFEdWc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T15:39:00+00:00",
-      "title": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial - The Telegraph",
-      "text": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial The Telegraph",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2dMSGtoekhxT2lSanhvUXhkMW5CTlM0bHY1N3NzREVmTW93czJJWlpET19MREoyRzRjM3lhenJyc1pEcDZPYVJLc0JoWVB6ZkVncUt3ZGpMOWNVWngxVlBLdTluTU1zdEJIUjh5R0dfSUdpY2VYXzJUdVZVQldMSkFodXVDbHpaSjd1eTJFOXlLNGFObEJaaHdsQQ?oc=5",
       "auto": true
     },
     {
@@ -56,8 +46,8 @@
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T04:25:00+00:00",
-      "title": "Oral drug offers promising advance for children with achondroplasia - News-Medical",
-      "text": "Oral drug offers promising advance for children with achondroplasia News-Medical",
+      "title": "Oral drug offers promising advance for children with achondroplasia - news-medical.net",
+      "text": "Oral drug offers promising advance for children with achondroplasia news-medical.net",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTRSVHE4R0l3cWRlY1NYWVRuaHFJTkJ1ZVdYNEZuOFlkRndaaFY5M1d6bEx5Qzc1VHY2bnl4OW5YV2NRRWtQUWFtZmR4RWhmbmFnSDhLQXVWb0FjU0EtMUMyOFRPTXVsSFJqNDVuSHhWTy1FYzQ5dGdfejRRX1ZVUlJ2bVMwYmlGa0xQSmVPUElXMVVCU3BYN0VXajVmdDZVVENiVFlEUDE5aUxVbmhKMjBDa0V0QQ?oc=5",
@@ -86,8 +76,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T13:17:09+00:00",
-      "title": "What Will Drug Development Look Like in 2036? - themedicinemaker.com",
-      "text": "What Will Drug Development Look Like in 2036? themedicinemaker.com",
+      "title": "What Will Drug Development Look Like in 2036? - The Medicine Maker",
+      "text": "What Will Drug Development Look Like in 2036? The Medicine Maker",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbElTR3c1YzI4SE40ZldQel9hS1YtUVNEalM4VG9ackNsSmpQdWF3eXlhMkJldXktRnh5a3ZZSXFsZG1iYjNFZVBNd2FjSWZsc19PZld6Um9TQXBRWGUyelJzejktai1sQWNXNjQxWWFaZFVEWk5HYk1BSjNhVmVFNHlqMXVKaUpHbjMxZEJNaWo0XzEwdm9WeHktRW9IN19NUGY0T2lVZXI?oc=5",
@@ -111,6 +101,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T04:23:27+00:00",
+      "title": "Being ‘first’ in drug discovery can be a nebulous honor - American Council on Science and Health",
+      "text": "Being ‘first’ in drug discovery can be a nebulous honor American Council on Science and Health",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
       "auto": true
     },
     {
