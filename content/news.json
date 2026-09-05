@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-05T05:23:48.298375+00:00",
+  "updated_at": "2026-09-05T06:28:39.972962+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -11,16 +11,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQVI1RVBLVGFXRHdBMEo4MHR3b3U4Z2FBRzM2SWJBZWtObHRnZGNXbF9EX3BIdWNfT1pUQUNSOE14VkJBZTAtM0pLNGVOb0NDbnVpVnowVV9CcVVrUWlJTXlhR0dRWlhnSERYR25waU5jUlNJUW4xTTRaekoxQ2hWZ2wtV0Z1cTJQdE1WNktDNHRld0h0YmNRQ0VzNWxpUGdEQldjMDE0ZExVY21YUjBuTDZ1aTU4bmk2VlJMc3UzdG1DTEJQb1ZJX0FxOWlsWG1ta2NmSC1BR2FrSFBfdlhrQ0thS0ZsS3p4M2pwYmdBLVlhUU9fU2FhbjhuTlREZzFEdWc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T15:39:00+00:00",
-      "title": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial - The Telegraph",
-      "text": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial The Telegraph",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2dMSGtoekhxT2lSanhvUXhkMW5CTlM0bHY1N3NzREVmTW93czJJWlpET19MREoyRzRjM3lhenJyc1pEcDZPYVJLc0JoWVB6ZkVncUt3ZGpMOWNVWngxVlBLdTluTU1zdEJIUjh5R0dfSUdpY2VYXzJUdVZVQldMSkFodXVDbHpaSjd1eTJFOXlLNGFObEJaaHdsQQ?oc=5",
       "auto": true
     },
     {
@@ -56,8 +46,8 @@
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T04:25:00+00:00",
-      "title": "Oral drug offers promising advance for children with achondroplasia - News-Medical",
-      "text": "Oral drug offers promising advance for children with achondroplasia News-Medical",
+      "title": "Oral drug offers promising advance for children with achondroplasia - news-medical.net",
+      "text": "Oral drug offers promising advance for children with achondroplasia news-medical.net",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTRSVHE4R0l3cWRlY1NYWVRuaHFJTkJ1ZVdYNEZuOFlkRndaaFY5M1d6bEx5Qzc1VHY2bnl4OW5YV2NRRWtQUWFtZmR4RWhmbmFnSDhLQXVWb0FjU0EtMUMyOFRPTXVsSFJqNDVuSHhWTy1FYzQ5dGdfejRRX1ZVUlJ2bVMwYmlGa0xQSmVPUElXMVVCU3BYN0VXajVmdDZVVENiVFlEUDE5aUxVbmhKMjBDa0V0QQ?oc=5",
@@ -176,8 +166,8 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T17:55:01+00:00",
-      "title": "Mini-tumors reveal new drug combinations for liver cancer - EurekAlert!",
-      "text": "Mini-tumors reveal new drug combinations for liver cancer EurekAlert!",
+      "title": "Mini-tumors reveal new drug combinations for liver cancer - eurekalert.org",
+      "text": "Mini-tumors reveal new drug combinations for liver cancer eurekalert.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lREJLYi1tTlBoWjNOVHlzR3ZlUDBGaDY5eS12ZVhhYUhNR2ZvNDZXcTV5TGY1elE3WlhLSmRSdkxjZlZ1QTlyN0hhZV9fa1FmSWVBUlBqelVPUDNT?oc=5",
@@ -311,6 +301,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm",
+      "auto": true
+    },
+    {
+      "date": "27.08.2026",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "title": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug - The New York Times",
+      "text": "The Race to Develop More Medicines Like the New Pancreatic Cancer Drug The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTW9ONlptWEF3UElFcW9mUXNwd29WT1c5aE1XSVNJeDdRaFZEODFnb0Q1czlheGNTNkRUbVdEbDRHbXlYaEtrM0dVM1VNcHk2T08wLWZOOGZmTTdXQk9CMS1oc1UydXpFQkp0RUFxb0xHMnFuc1V1MTlSWjBiUllhWjdEbm1jc0pINHc?oc=5",
       "auto": true
     },
     {
