@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-05T12:28:25.322169+00:00",
+  "updated_at": "2026-09-05T13:23:01.404569+00:00",
   "items": [
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T22:44:25+00:00",
+      "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists - The New York Times",
+      "text": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMU84YmlGWG5DMGlWQURBTjRwTEdwRXFYV1FWYllWcm04bGt3N09La0pIdE50X2hRaDMzRWVyUEt0MUxZMG5TWUE3YVlSUFdSWFR0ZjVoTUswMVdtekhQWUNSQUNvei1nR1BSQS00MnBGSGMzejdwR1Q4VS1qbDc2RHVJRlNLTlp3M055aQ?oc=5",
+      "auto": true
+    },
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T20:58:30+00:00",
@@ -171,16 +181,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T17:55:01+00:00",
-      "title": "Mini-tumors reveal new drug combinations for liver cancer - eurekalert.org",
-      "text": "Mini-tumors reveal new drug combinations for liver cancer eurekalert.org",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lREJLYi1tTlBoWjNOVHlzR3ZlUDBGaDY5eS12ZVhhYUhNR2ZvNDZXcTV5TGY1elE3WlhLSmRSdkxjZlZ1QTlyN0hhZV9fa1FmSWVBUlBqelVPUDNT?oc=5",
       "auto": true
     },
     {
