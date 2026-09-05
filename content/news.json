@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-05T22:23:13.569476+00:00",
+  "updated_at": "2026-09-05T23:22:22.428594+00:00",
   "items": [
     {
       "date": "05.09.2026",
       "published_at": "2026-09-05T09:02:29+00:00",
-      "title": "3 Common Drugs Older Adults May Be Overusing - The New York Times",
-      "text": "3 Common Drugs Older Adults May Be Overusing The New York Times",
+      "title": "3 Drugs Older People May Be Overusing - The New York Times",
+      "text": "3 Drugs Older People May Be Overusing The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
@@ -86,11 +86,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T04:23:27+00:00",
-      "title": "Being ‘first’ in drug discovery can be a nebulous honor - American Council on Science and Health",
-      "text": "Being ‘first’ in drug discovery can be a nebulous honor American Council on Science and Health",
+      "title": "Being ‘first’ in drug discovery can be a nebulous honor - acsh.org",
+      "text": "Being ‘first’ in drug discovery can be a nebulous honor acsh.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T04:00:01+00:00",
+      "title": "Some hair loss in men is linked to weight loss drug use - Medical Xpress",
+      "text": "Some hair loss in men is linked to weight loss drug use Medical Xpress",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBeUM0NHpjLUlneUx4LWtkc2tjMVQ2TmVBaEpfN1A0dG5tNXhnM3dEcDJPZ2hsZVQxRGFTWDZndEJlOUR6dE9QNnhXLWxrWjRXenB5aG11Wm1JRUVteXMtVS1wYjF5TDJTMHBSYTlPUnZWc285MHFxNVFoMA?oc=5",
       "auto": true
     },
     {
@@ -106,11 +116,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -126,21 +136,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -155,12 +165,12 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T21:00:01+00:00",
-      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - Medical Xpress",
-      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -181,16 +191,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
