@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-05T21:23:00.885994+00:00",
+  "updated_at": "2026-09-05T22:23:13.569476+00:00",
   "items": [
+    {
+      "date": "05.09.2026",
+      "published_at": "2026-09-05T09:02:29+00:00",
+      "title": "3 Common Drugs Older Adults May Be Overusing - The New York Times",
+      "text": "3 Common Drugs Older Adults May Be Overusing The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
+      "auto": true
+    },
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T14:00:00+02:00",
@@ -36,8 +46,8 @@
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T04:25:00+00:00",
-      "title": "Oral drug offers promising advance for children with achondroplasia - news-medical.net",
-      "text": "Oral drug offers promising advance for children with achondroplasia news-medical.net",
+      "title": "Oral drug offers promising advance for children with achondroplasia - News-Medical",
+      "text": "Oral drug offers promising advance for children with achondroplasia News-Medical",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTRSVHE4R0l3cWRlY1NYWVRuaHFJTkJ1ZVdYNEZuOFlkRndaaFY5M1d6bEx5Qzc1VHY2bnl4OW5YV2NRRWtQUWFtZmR4RWhmbmFnSDhLQXVWb0FjU0EtMUMyOFRPTXVsSFJqNDVuSHhWTy1FYzQ5dGdfejRRX1ZVUlJ2bVMwYmlGa0xQSmVPUElXMVVCU3BYN0VXajVmdDZVVENiVFlEUDE5aUxVbmhKMjBDa0V0QQ?oc=5",
@@ -96,11 +106,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -116,21 +126,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
       "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -155,26 +165,6 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T19:54:26+00:00",
-      "title": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. - The Well News",
-      "text": "A Melanoma Drug Went From Two Rejections to Approval. The FDA’s Reason Should Be Easier to Find. The Well News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNEVBenBTODRWbTBicnNOMXd1YWNxTjV1RHQ1Sl91TE1rVzJyTGdFSXBYVjZMdldWaTZpcGJrb2xKMXBLdm0td2xEU1FUcGxFM0llTTlZU1VPS01hQk42ckJwdEx2TGdyUHFyU2tXMFI2NmRnQjRDT2RhVGhiUER3aXFKOEJCY0xJeXNubXlFQnV2ZnJKR09CUkExbTJIVTV1ekJxcU5UR0hNUVc5SFV1U21PSzVKTHRwYmwtNWlBRjZrbFlkZklSRGdYRQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
       "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
@@ -191,6 +181,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
