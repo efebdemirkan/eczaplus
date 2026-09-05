@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-05T02:24:49.184250+00:00",
+  "updated_at": "2026-09-05T03:24:45.485870+00:00",
   "items": [
     {
       "date": "04.09.2026",
@@ -11,6 +11,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQVI1RVBLVGFXRHdBMEo4MHR3b3U4Z2FBRzM2SWJBZWtObHRnZGNXbF9EX3BIdWNfT1pUQUNSOE14VkJBZTAtM0pLNGVOb0NDbnVpVnowVV9CcVVrUWlJTXlhR0dRWlhnSERYR25waU5jUlNJUW4xTTRaekoxQ2hWZ2wtV0Z1cTJQdE1WNktDNHRld0h0YmNRQ0VzNWxpUGdEQldjMDE0ZExVY21YUjBuTDZ1aTU4bmk2VlJMc3UzdG1DTEJQb1ZJX0FxOWlsWG1ta2NmSC1BR2FrSFBfdlhrQ0thS0ZsS3p4M2pwYmdBLVlhUU9fU2FhbjhuTlREZzFEdWc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "04.09.2026",
+      "published_at": "2026-09-04T15:39:00+00:00",
+      "title": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial - The Telegraph",
+      "text": "Healthy middle-aged people offered Alzheimer’s drug in world-first trial The Telegraph",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2dMSGtoekhxT2lSanhvUXhkMW5CTlM0bHY1N3NzREVmTW93czJJWlpET19MREoyRzRjM3lhenJyc1pEcDZPYVJLc0JoWVB6ZkVncUt3ZGpMOWNVWngxVlBLdTluTU1zdEJIUjh5R0dfSUdpY2VYXzJUdVZVQldMSkFodXVDbHpaSjd1eTJFOXlLNGFObEJaaHdsQQ?oc=5",
       "auto": true
     },
     {
@@ -66,8 +76,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T15:14:22+00:00",
-      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - africa.businessinsider.com",
-      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival africa.businessinsider.com",
+      "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - Business Insider Africa",
+      "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival Business Insider Africa",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDczQXptZGRWZmpMMHFJNnFxbjdGWUJkNE84Ry10X0w2UnZ6b29NQ3FhOHpTdm5qeGNZbXBoaVl0NEo0TkxLUU1mZmdhYy1zYjlEdVJFRG1XY19Cc3NLdTBlWDVvQlhEY1drOTA3TXowYTBXMWE2VHFkTDJYMlltd1FUWXdvMTctaHdpdG1obUdsWk1ObExwRUdMNTlxMnp2WV9QRG04U1FVcDRneTJUWFlXcXlqTG5sQUg1djduampyVThuVXpDdmd1UHh3Vzg?oc=5",
@@ -175,16 +185,6 @@
     },
     {
       "date": "02.09.2026",
-      "published_at": "2026-09-02T17:55:01+00:00",
-      "title": "Mini-tumors reveal new drug combinations for liver cancer - EurekAlert!",
-      "text": "Mini-tumors reveal new drug combinations for liver cancer EurekAlert!",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lREJLYi1tTlBoWjNOVHlzR3ZlUDBGaDY5eS12ZVhhYUhNR2ZvNDZXcTV5TGY1elE3WlhLSmRSdkxjZlZ1QTlyN0hhZV9fa1FmSWVBUlBqelVPUDNT?oc=5",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
       "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
@@ -226,8 +226,8 @@
     {
       "date": "01.09.2026",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - Reuters",
-      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements Reuters",
+      "title": "Global pharma companies that have publicly announced Trump drug pricing agreements - reuters.com",
+      "text": "Global pharma companies that have publicly announced Trump drug pricing agreements reuters.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdFZLeGNpQl9SVjN2TUk2bXlndUZrQXRaNm5kaHp1ZURDTUZsYVVMWUI4dkw3Y2dveC1hN2tVVTRnajFKZk5RLUZ2UlVMZUczR3pCX3F2d1FxWEdzX3dWVTY1WHJqcEt4MURyRllpXzhmeFNMSTI0NTlGSE5PUEJYRUM1QTJISUFqRUxZQW1icnhqLWh0c0Y3VTd1U0h3cW80T1lkVFNiMERxSHdXd1FvX1dGYnZyendNLXM5M2NNckhFTWdDcmx5Q1pEeGVVVWRmMFRjVEZGem9fdTQ?oc=5",
