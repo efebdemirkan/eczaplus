@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-06T05:24:00.289760+00:00",
+  "updated_at": "2026-09-06T06:29:31.000369+00:00",
   "items": [
+    {
+      "date": "05.09.2026",
+      "published_at": "2026-09-05T17:12:57+00:00",
+      "title": "Former car dealership manager arrested on new drug charges - KTVN",
+      "text": "Former car dealership manager arrested on new drug charges KTVN",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1ZPenZvSmhBaGtOaXhjUDE4bVJBdUNLS0R0ZVphajRQMVEyNnR4aEhPNUV0RzItY1FESTc1blEwTWtleW02ZjMxUVh2dDhId0taRjlIbEFUUWFickxUeDRmcEFJY2tlM3BFYW8tYy1sR3k1STc1Mi1LRVA3QUZlX29CQXB6c2M3cGhWQkE5eU5Ba1ZMVWJGVzNsWnJIQ0wxVlBSbmlpU2o3bTVrUnIxbnpsY1lmamhJRDlEM19ncXJReEJuTnhleGJYdG9pZk02U1lSTTV1T3c?oc=5",
+      "auto": true
+    },
     {
       "date": "05.09.2026",
       "published_at": "2026-09-05T15:30:40-04:00",
@@ -16,8 +26,8 @@
     {
       "date": "05.09.2026",
       "published_at": "2026-09-05T09:02:29+00:00",
-      "title": "3 Drugs Older People May Be Overusing - nytimes.com",
-      "text": "3 Drugs Older People May Be Overusing nytimes.com",
+      "title": "3 Drugs Older People May Be Overusing - The New York Times",
+      "text": "3 Drugs Older People May Be Overusing The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
@@ -76,8 +86,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T10:39:04+00:00",
-      "title": "Iran drug shortages hit 800 medicines as costs could triple - iranintl.com",
-      "text": "Iran drug shortages hit 800 medicines as costs could triple iranintl.com",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
@@ -105,52 +115,12 @@
     },
     {
       "date": "03.09.2026",
-      "published_at": "2026-09-03T04:00:01+00:00",
-      "title": "Some hair loss in men is linked to weight loss drug use - Medical Xpress",
-      "text": "Some hair loss in men is linked to weight loss drug use Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBeUM0NHpjLUlneUx4LWtkc2tjMVQ2TmVBaEpfN1A0dG5tNXhnM3dEcDJPZ2hsZVQxRGFTWDZndEJlOUR6dE9QNnhXLWxrWjRXenB5aG11Wm1JRUVteXMtVS1wYjF5TDJTMHBSYTlPUnZWc285MHFxNVFoMA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
       "published_at": "2026-09-03T03:58:32+00:00",
       "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - Drexel University",
       "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting Drexel University",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW8wakhBMUxNbl84TzlOcWJRbEMyS0hzUHI1d0FXc29BbTZRNlJtNklKUUxoYjZwN29iVWRid1l6UDJxVlRpTHJ0VGFuUXZVbXRwNlFQNUh0LW9JaWxoRTE3YWprRzNNY0FlU3QyQ0V1MHZtRjMxaGlzTFNrUW5kVG9zbm9BWU1IUG1HRUs3VGVVeDdiWTdpeGlxVmZXUC1BOERWeDIyYmw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -166,11 +136,51 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -191,16 +201,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
