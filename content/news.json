@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-06T01:22:56.144871+00:00",
+  "updated_at": "2026-09-06T02:25:20.350218+00:00",
   "items": [
     {
       "date": "05.09.2026",
@@ -65,9 +65,19 @@
     },
     {
       "date": "03.09.2026",
+      "published_at": "2026-09-03T14:00:00+00:00",
+      "title": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery - PR Newswire",
+      "text": "Nuffield Department of Medicine at the University of Oxford and 2U Launch New Program in AI-Driven Drug Discovery PR Newswire",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcmFoOXhVZFNlUkJnVE4tWmxFYkxuSXlYSWZWUVpGTnlmYWswanRVWFRzNHR5UkdGRk9fVGQxTlk1VzBoeEdBTjlicHQ3NmhibUNOaW1Fd3J3RVp2ZktBWGtGSWJmVlZ2STFHRm1zV1pBcWN6QXR1TldGZTBsSTdlN1Ixdnl0TlFncUxsYno3WDRXb19vaHZQc1ktYmI2SE1aWHk5TGx0RjFSZkhoa0x0VUxVeFNhNU5ET3M5QVRsblpGT1kwVGVUR1lQUm13alhKd2FBY3ItWUk0X0VXWmRIWEVKWEd0Y2JGZFl4NFQ1bk53bVF3ei0wR25jUFY4dw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
       "published_at": "2026-09-03T10:39:04+00:00",
-      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
-      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - iranintl.com",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple iranintl.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
@@ -371,16 +381,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.08.2026",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
-      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
       "auto": true
     }
   ]
