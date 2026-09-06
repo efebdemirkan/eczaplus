@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-06T03:25:28.940668+00:00",
+  "updated_at": "2026-09-06T04:25:22.208664+00:00",
   "items": [
     {
       "date": "05.09.2026",
@@ -11,6 +11,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
+      "auto": true
+    },
+    {
+      "date": "05.09.2026",
+      "published_at": "2026-09-05T09:02:29+00:00",
+      "title": "3 Drugs Older People May Be Overusing - The New York Times",
+      "text": "3 Drugs Older People May Be Overusing The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
       "auto": true
     },
     {
@@ -55,16 +65,6 @@
     },
     {
       "date": "03.09.2026",
-      "published_at": "2026-09-03T15:16:44+00:00",
-      "title": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests - ABC News - Breaking News, Latest News and Videos",
-      "text": "Pancreatic cancer drug may hold promise for lung cancer as well, early study suggests ABC News - Breaking News, Latest News and Videos",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWE0QmhnY0pXT3EtcDU3RmFqZ2JFYnpmUVNWTTRrT0FOYWtQQnl0RUZ0VWVyaWVRMDF5aVdUQ1dTNEJsS2dmYlNGeFNuck9HVVk5RnVuUGFBS1Z4bjNvVkxnbDNDSEJFN0NQYTNIYkx5T2w3Y3I4eldfaDNHOEpuYnhDbGtjZnZMUmI0OGJTS0Q5NjRITDROTktDekhJVzJV0gGmAUFVX3lxTFBvSDNlYWFCUkpGOGFNNjBjZkhVQkdwV1paWmV4eUstbm9tbXlKc3NZZ191OGRoNldrZG5iaU9JVTN3X28wUl8xdV9BTEp6aElEbXJVNXhyaVdnaWNtbk5KZnJaRWFwclNCVW1VcFhveGZjSFc3eno1UE9PY2dRQ25MSG9wZnhpY1puZ0xkTHd0Q2xTZVl5b3hPUWtFM09nVGx4MzJxd0E?oc=5",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
       "published_at": "2026-09-03T15:14:22+00:00",
       "title": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival - Business Insider Africa",
       "text": "Mounjaro leads South Africa’s $187 million weight-loss drug boom as Aspen prepares Ozempic rival Business Insider Africa",
@@ -101,6 +101,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcF9salFiYUZ0WEJubG9pZEY1VEdDVjc2Z2VGcDdhMFNZWXJjbmNNZC1uTk1qUHdtekhyRzRHLVVZdzJ5Q09pYWdSQXpILVFvaC1DakVySHhaemV5TDdyYWhzVUdCOXJaOHBIbmxlS25jU2xnV2JFUk03THRxN1E5V2lYR3hjTGxQVU4zR0VmcXRtRG1iMnc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T04:00:01+00:00",
+      "title": "Some hair loss in men is linked to weight loss drug use - Medical Xpress",
+      "text": "Some hair loss in men is linked to weight loss drug use Medical Xpress",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBeUM0NHpjLUlneUx4LWtkc2tjMVQ2TmVBaEpfN1A0dG5tNXhnM3dEcDJPZ2hsZVQxRGFTWDZndEJlOUR6dE9QNnhXLWxrWjRXenB5aG11Wm1JRUVteXMtVS1wYjF5TDJTMHBSYTlPUnZWc285MHFxNVFoMA?oc=5",
       "auto": true
     },
     {
@@ -161,16 +171,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T21:00:01+00:00",
-      "title": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds - Medical Xpress",
-      "text": "Less-intensive drug combination is more effective in treating acute myeloid leukemia, clinical trial finds Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREFlYW0yVEIxT29LS3ZrWllSTXRpNEowTGlvMk5McUJfZGFtS0l2X3prZkFZV0hnV09WQTdQN0dQVHJmbGJCWXNxcXNMWnV1NDc1eGZ1MEtsSGwzS3dPSkplNi1wc3RYbE5jeHN5em5YS0JHZ2FwX2JfZW5NWWtnRVV5RmZZcUVORjd2UW56dw?oc=5",
       "auto": true
     },
     {
