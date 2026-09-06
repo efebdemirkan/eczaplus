@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-06T18:26:15.824838+00:00",
+  "updated_at": "2026-09-06T19:22:33.212465+00:00",
   "items": [
+    {
+      "date": "06.09.2026",
+      "published_at": "2026-09-06T08:00:00+00:00",
+      "title": "Breast cancer drug approved by FDA - Northwest Arkansas Democrat-Gazette",
+      "text": "Breast cancer drug approved by FDA Northwest Arkansas Democrat-Gazette",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUd6Y1RadFVMS1FLM3NaYmEyMjZmNVk5VjFLSU84b2FILXp5bkoyS3dhQVg0Wmh5WnExcldCZVJjS0dQYnNSUHFOcjJNQ29nUnhWRFJncU5heFRqTGdhZE4zVHdRb2hrNDF3OTRrYWlJaDdPS0dJaURmdUtQRmZROFRoN0c?oc=5",
+      "auto": true
+    },
     {
       "date": "05.09.2026",
       "published_at": "2026-09-05T19:41:04+00:00",
@@ -31,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUDVLY0pHT1BkSmpzSjlEQ2t0NFBZY2owU3RjRktUd2k5VHhmVjFZTDN5SENKVjFTNm1hNVJ6dWliR3IzTnlQYVVVR0xqdzVFWUNDSGVIZVhDUGlCYThtdlA3elNJQkpubV9sN0VWekFoSHpXMnhWblZrcw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T15:39:31+00:00",
-      "title": "After failure of Angelman syndrome drug, experts see hope in other experimental therapies - STAT",
-      "text": "After failure of Angelman syndrome drug, experts see hope in other experimental therapies STAT",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUplWEhZd0RRWHJQNHQwQXBNNzNpeWVZdHJTM25DcWVhM2Q3Vm5VeHFXaU1oaHZBSkhDdnZJbEVnMkJWa2dBWEtWeFRZejluNzgyUi1KcktjRENaRmRDSFY4Mmh2ZXAtRTRJOXY2MkI5bkdhejBGVjZBaU9VOTh2NWctekpqOUk3VVpvZ1BB?oc=5",
       "auto": true
     },
     {
@@ -96,8 +96,8 @@
     {
       "date": "04.09.2026",
       "published_at": "2026-09-04T01:49:00+00:00",
-      "title": "$elling $kinny: How a weight-loss startup kept shipping risky diet drugs while patients landed in the hospital - king5.com",
-      "text": "$elling $kinny: How a weight-loss startup kept shipping risky diet drugs while patients landed in the hospital king5.com",
+      "title": "$elling $kinny: How a weight-loss startup kept shipping risky diet drugs while patients landed in the hospital - KING5.com",
+      "text": "$elling $kinny: How a weight-loss startup kept shipping risky diet drugs while patients landed in the hospital KING5.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPazFCM3dVbkVoRDhMWlpQajlwTl8tT1Z6ZHFjYW1FSV9COUMwQnpMMkZzLXZCODBYbmhTbWZkd2UtMGk0RGpQYkxxTzRpR2Q4V2YxdU4tbHhHcVZvZE12N3NVTmdHYlhzcXJ3d2hlV3V0X0JreUdfS1BoNWNfVUJBUkhsSDhTMkJ1b2JOYVB4ZWN5Sko1b0tsVU1nZjZaTHJtUEpPMnlEWWpoZ2xSODRPSVJqWS16SHk0VGE1T0hrbEU0YWNKT3ZfNzk5RXlxNEJiTlJ6eWRrdzZ6SUs0eXdscV9KcUMwUG9pU20tNFp5WlBSZGVEMy1fOFhCLU9qUHVyMTFQbTZYR0REbUxSelBiWEQ5NlFEcThxR29SLVBDWVBLVXM?oc=5",
@@ -116,8 +116,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T10:39:04+00:00",
-      "title": "Iran drug shortages hit 800 medicines as costs could triple - iranintl.com",
-      "text": "Iran drug shortages hit 800 medicines as costs could triple iranintl.com",
+      "title": "Iran drug shortages hit 800 medicines as costs could triple - Iran International",
+      "text": "Iran drug shortages hit 800 medicines as costs could triple Iran International",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTGQ4elJVbTdWSFZmc1Q5UFFHX3haNS1KSUVsam1feUdUNmlWZ29tYkw0NVdUaEdSZUdqbGtZdG8tSkFHVklqT0VUYTFhZlpoNGc?oc=5",
@@ -136,8 +136,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T03:58:32+00:00",
-      "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - drexel.edu",
-      "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting drexel.edu",
+      "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - Drexel University",
+      "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting Drexel University",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW8wakhBMUxNbl84TzlOcWJRbEMyS0hzUHI1d0FXc29BbTZRNlJtNklKUUxoYjZwN29iVWRid1l6UDJxVlRpTHJ0VGFuUXZVbXRwNlFQNUh0LW9JaWxoRTE3YWprRzNNY0FlU3QyQ0V1MHZtRjMxaGlzTFNrUW5kVG9zbm9BWU1IUG1HRUs3VGVVeDdiWTdpeGlxVmZXUC1BOERWeDIyYmw?oc=5",
