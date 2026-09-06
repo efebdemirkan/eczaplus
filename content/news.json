@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-06T22:24:05.684470+00:00",
+  "updated_at": "2026-09-06T23:23:38.754620+00:00",
   "items": [
     {
       "date": "06.09.2026",
@@ -195,6 +195,16 @@
     },
     {
       "date": "02.09.2026",
+      "published_at": "2026-09-02T21:20:54+00:00",
+      "title": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML - Harvard Medical School",
+      "text": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML Harvard Medical School",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0VyOC1OTmJsNXpTY0tvalFNMFhLN1BWaFlhbUJmd2hwMm10YkFZOWtMZlZ6M0p0RW4zaUpHcW9Uc0VkWDNsRXFmcWdHdlZ6ZGFkYm4wc05adXNpRWpONzNOa3Z2NjBsQ1JYclhnNjF5aGlCbGtZb04tcFhUS2pUbTFxTUtjSVFmLUE1NWNwcjdqQWdDeTBtNEJvWlpMT0tJVHRwcVJLcVlpcURYdmFDSnZteXc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
       "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
@@ -371,16 +381,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
-      "auto": true
-    },
-    {
-      "date": "13.08.2026",
-      "published_at": "2026-08-13T07:00:00+00:00",
-      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
-      "text": "Nonprescription Drug Product with an ACNU fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
