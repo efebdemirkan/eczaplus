@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-07T07:28:23.041316+00:00",
+  "updated_at": "2026-09-07T08:30:44.936321+00:00",
   "items": [
     {
       "date": "07.09.2026",
@@ -21,6 +21,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+      "auto": true
+    },
+    {
+      "date": "06.09.2026",
+      "published_at": "2026-09-06T02:27:30+00:00",
+      "title": "Former car dealership manager arrested on new drug charges - KTVN",
+      "text": "Former car dealership manager arrested on new drug charges KTVN",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1ZPenZvSmhBaGtOaXhjUDE4bVJBdUNLS0R0ZVphajRQMVEyNnR4aEhPNUV0RzItY1FESTc1blEwTWtleW02ZjMxUVh2dDhId0taRjlIbEFUUWFickxUeDRmcEFJY2tlM3BFYW8tYy1sR3k1STc1Mi1LRVA3QUZlX29CQXB6c2M3cGhWQkE5eU5Ba1ZMVWJGVzNsWnJIQ0wxVlBSbmlpU2o3bTVrUnIxbnpsY1lmamhJRDlEM19ncXJReEJuTnhleGJYdG9pZk02U1lSTTV1T3c?oc=5",
       "auto": true
     },
     {
@@ -45,19 +55,9 @@
     },
     {
       "date": "04.09.2026",
-      "published_at": "2026-09-04T22:44:25+00:00",
-      "title": "Another Heart Drug Fails, Shocking Cardiologists - The New York Times",
-      "text": "Another Heart Drug Fails, Shocking Cardiologists The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMU84YmlGWG5DMGlWQURBTjRwTEdwRXFYV1FWYllWcm04bGt3N09La0pIdE50X2hRaDMzRWVyUEt0MUxZMG5TWUE3YVlSUFdSWFR0ZjVoTUswMVdtekhQWUNSQUNvei1nR1BSQS00MnBGSGMzejdwR1Q4VS1qbDc2RHVJRlNLTlp3M055aQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "04.09.2026",
       "published_at": "2026-09-04T14:20:05+00:00",
-      "title": "Cancer drug tames atherosclerosis inflammation and plaque in animal models - medicalxpress.com",
-      "text": "Cancer drug tames atherosclerosis inflammation and plaque in animal models medicalxpress.com",
+      "title": "Cancer drug tames atherosclerosis inflammation and plaque in animal models - Medical Xpress",
+      "text": "Cancer drug tames atherosclerosis inflammation and plaque in animal models Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGV3OWMzR1lHVkhjNkR0NjR5NmZpR0lTUUhVdmVFRlFPLXZodDZPTGhGTkpQSWU3R1RKb1IwV051X2NMR3ZpeHpOeXJydkxXanNaRXl1enJMemUzZnZiM3czeDhOVEZLemE3bjAwc25zX0FtUld1dGQ5Y3BkM19DbWdnMC1KNzVCcVBvWWl6VWNPREdaQ1E?oc=5",
@@ -136,11 +136,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -156,21 +156,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -196,6 +196,16 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
       "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
       "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
       "source": "FDA MedWatch",
@@ -211,16 +221,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -376,8 +376,8 @@
     {
       "date": "03.08.2026",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - wvumedicine.org",
-      "text": "New WVU Medicine Community Pharmacy opens in Morgantown wvumedicine.org",
+      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
+      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
