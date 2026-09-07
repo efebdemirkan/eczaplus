@@ -1,13 +1,33 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-07T14:27:03.363921+00:00",
+  "updated_at": "2026-09-07T15:26:34.149762+00:00",
   "items": [
     {
       "date": "07.09.2026",
+      "published_at": "2026-09-07T15:13:00+00:00",
+      "title": "AI-designed drug candidate reverses biological age in clinical study - News-Medical",
+      "text": "AI-designed drug candidate reverses biological age in clinical study News-Medical",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T15:12:14+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
       "published_at": "2026-09-07T13:00:00+00:00",
-      "title": "Bad medicine: Why New York’s drug fix is the wrong prescription - Washington Examiner",
-      "text": "Bad medicine: Why New York’s drug fix is the wrong prescription Washington Examiner",
+      "title": "Bad medicine: Why New York’s drug fix is the wrong prescription - washingtonexaminer.com",
+      "text": "Bad medicine: Why New York’s drug fix is the wrong prescription washingtonexaminer.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0dlb29BQXY1dElKTEFrbW55Z0Y1aTh3N0d5Q3FEZ29BXzRVNFBFZlJGeHA0Q0lpbUYyWWcxN2tySFE5X3JtZHJZYlM4RHVvUzFySVRYWnBCQWw2U3ZJUWZZZDliZ2xXVWNnNGY4R0V1OWU3LUZsZkdmUGg4MEx1Y1cyNGR2WXZjZWItTmpB?oc=5",
@@ -21,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcUxKNW83YTZocExBZmNpenBjdl9aZ1JMZDBUalpOa2FMZEhOV2t2eWp1NnF0MFpReWRtc19hTjRsY0dCcm9JOW5yX2tzZW10Zm9UYk03M1VtVmhpbEZ5SVdGMkFPZUtudnRkZktYRzVRVEY1RUxZRlZXWQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
-      "published_at": "2026-09-07T09:04:03+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -114,16 +124,6 @@
       "auto": true
     },
     {
-      "date": "04.09.2026",
-      "published_at": "2026-09-04T04:25:00+00:00",
-      "title": "Oral drug offers promising advance for children with achondroplasia - News-Medical",
-      "text": "Oral drug offers promising advance for children with achondroplasia News-Medical",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTRSVHE4R0l3cWRlY1NYWVRuaHFJTkJ1ZVdYNEZuOFlkRndaaFY5M1d6bEx5Qzc1VHY2bnl4OW5YV2NRRWtQUWFtZmR4RWhmbmFnSDhLQXVWb0FjU0EtMUMyOFRPTXVsSFJqNDVuSHhWTy1FYzQ5dGdfejRRX1ZVUlJ2bVMwYmlGa0xQSmVPUElXMVVCU3BYN0VXajVmdDZVVENiVFlEUDE5aUxVbmhKMjBDa0V0QQ?oc=5",
-      "auto": true
-    },
-    {
       "date": "03.09.2026",
       "published_at": "2026-09-03T06:29:04-04:00",
       "title": "One immune switch may help drive aging across the body",
@@ -136,8 +136,8 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T03:58:32+00:00",
-      "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - drexel.edu",
-      "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting drexel.edu",
+      "title": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting - Drexel",
+      "text": "Mid-Atlantic Pharmacology Society (MAPS) Annual Meeting Drexel",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbW8wakhBMUxNbl84TzlOcWJRbEMyS0hzUHI1d0FXc29BbTZRNlJtNklKUUxoYjZwN29iVWRid1l6UDJxVlRpTHJ0VGFuUXZVbXRwNlFQNUh0LW9JaWxoRTE3YWprRzNNY0FlU3QyQ0V1MHZtRjMxaGlzTFNrUW5kVG9zbm9BWU1IUG1HRUs3VGVVeDdiWTdpeGlxVmZXUC1BOERWeDIyYmw?oc=5",
@@ -196,8 +196,8 @@
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T21:20:54+00:00",
-      "title": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML - Harvard Medical School",
-      "text": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML Harvard Medical School",
+      "title": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML - hms.harvard.edu",
+      "text": "Clinical Trial Finds Less-Intensive Drug Combination Is More Effective Than Standard of Care for AML hms.harvard.edu",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0VyOC1OTmJsNXpTY0tvalFNMFhLN1BWaFlhbUJmd2hwMm10YkFZOWtMZlZ6M0p0RW4zaUpHcW9Uc0VkWDNsRXFmcWdHdlZ6ZGFkYm4wc05adXNpRWpONzNOa3Z2NjBsQ1JYclhnNjF5aGlCbGtZb04tcFhUS2pUbTFxTUtjSVFmLUE1NWNwcjdqQWdDeTBtNEJvWlpMT0tJVHRwcVJLcVlpcURYdmFDSnZteXc?oc=5",
