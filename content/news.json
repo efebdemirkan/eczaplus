@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-07T20:26:09.083236+00:00",
+  "updated_at": "2026-09-07T21:25:36.246125+00:00",
   "items": [
     {
       "date": "07.09.2026",
@@ -11,6 +11,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T15:12:14+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - nytimes.com",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging nytimes.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -26,8 +36,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T13:00:00+00:00",
-      "title": "Bad medicine: Why New York’s drug fix is the wrong prescription - washingtonexaminer.com",
-      "text": "Bad medicine: Why New York’s drug fix is the wrong prescription washingtonexaminer.com",
+      "title": "Bad medicine: Why New York’s drug fix is the wrong prescription - Washington Examiner",
+      "text": "Bad medicine: Why New York’s drug fix is the wrong prescription Washington Examiner",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0dlb29BQXY1dElKTEFrbW55Z0Y1aTh3N0d5Q3FEZ29BXzRVNFBFZlJGeHA0Q0lpbUYyWWcxN2tySFE5X3JtZHJZYlM4RHVvUzFySVRYWnBCQWw2U3ZJUWZZZDliZ2xXVWNnNGY4R0V1OWU3LUZsZkdmUGg4MEx1Y1cyNGR2WXZjZWItTmpB?oc=5",
@@ -55,16 +65,6 @@
     },
     {
       "date": "07.09.2026",
-      "published_at": "2026-09-07T09:04:03+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
       "published_at": "2026-09-07T09:00:04+00:00",
       "title": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain - Medical Xpress",
       "text": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain Medical Xpress",
@@ -86,8 +86,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T07:45:33+00:00",
-      "title": "Semiconductor Contract Departments' Cutoff Tops Pharmacy, Matches Korean Medicine - chosun.com",
-      "text": "Semiconductor Contract Departments' Cutoff Tops Pharmacy, Matches Korean Medicine chosun.com",
+      "title": "Semiconductor Contract Departments' Cutoff Tops Pharmacy, Matches Korean Medicine - 조선일보",
+      "text": "Semiconductor Contract Departments' Cutoff Tops Pharmacy, Matches Korean Medicine 조선일보",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZndhQVBIVFRsTnpkVnZMRXFqVTNLS0lrbGxKUXhWZ1hqQlF0Um90RV9NdTNOUFZHRWFiMms0dlQyMHFTbS1SeGJfRXVtU3dpZEY0VlVwa2hmSnZBZkVSMHRBQWFMbjdMWlZiYmctR1BibTFYTmF5b3hmYk1fWXdBM3RLMmV2dHF6?oc=5",
