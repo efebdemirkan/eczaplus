@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-08T02:26:41.606386+00:00",
+  "updated_at": "2026-09-08T03:27:34.296321+00:00",
   "items": [
-    {
-      "date": "07.09.2026",
-      "published_at": "2026-09-07T18:55:00+00:00",
-      "title": "Another Heart Drug Fails, Shocking Cardiologists - The New York Times",
-      "text": "Another Heart Drug Fails, Shocking Cardiologists The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMU84YmlGWG5DMGlWQURBTjRwTEdwRXFYV1FWYllWcm04bGt3N09La0pIdE50X2hRaDMzRWVyUEt0MUxZMG5TWUE3YVlSUFdSWFR0ZjVoTUswMVdtekhQWUNSQUNvei1nR1BSQS00MnBGSGMzejdwR1Q4VS1qbDc2RHVJRlNLTlp3M055aQ?oc=5",
-      "auto": true
-    },
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T15:13:00+00:00",
@@ -56,8 +46,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T12:14:40+00:00",
-      "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial - The Next Web",
-      "text": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial The Next Web",
+      "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial - thenextweb.com",
+      "text": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial thenextweb.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcUxKNW83YTZocExBZmNpenBjdl9aZ1JMZDBUalpOa2FMZEhOV2t2eWp1NnF0MFpReWRtc19hTjRsY0dCcm9JOW5yX2tzZW10Zm9UYk03M1VtVmhpbEZ5SVdGMkFPZUtudnRkZktYRzVRVEY1RUxZRlZXWQ?oc=5",
@@ -86,8 +76,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T09:00:00+00:00",
-      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - Bloomberg.com",
-      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says Bloomberg.com",
+      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - bloomberg.com",
+      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says bloomberg.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
@@ -381,6 +371,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002439.htm",
+      "auto": true
+    },
+    {
+      "date": "13.08.2026",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
+      "text": "Nonprescription Drug Product with an ACNU fda.gov",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
       "auto": true
     }
   ]
