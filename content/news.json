@@ -1,8 +1,58 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-08T22:25:32.082975+00:00",
+  "updated_at": "2026-09-08T23:24:08.289609+00:00",
   "items": [
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T22:51:00+00:00",
+      "title": "Delaware County medical spa fined $25K over prescription drug violations - 10TV",
+      "text": "Delaware County medical spa fined $25K over prescription drug violations 10TV",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMVRxMjZEcEc5cGkzanp4T0RPLVlUdlEwbHB6d1IzYVFUX0g5a19YMGtkbTUyOWZfMnU4VHlCa1RiNy1XRWlsYi1NUHZOMVppM0ljVU41bmVuUXFBVHZMMUR4bVdfRnFTUkVFT2NhRkFaUGNQUDRyVmhyamRPM3lidEZaTU5US1B0VjZSUDdQZHk5X19wc3otNGQ2bzZMVmVUVEFsQXRfZVpURElUSkNUQURXRGZxU0RIT2FPQ1hyVU5hZmxQald1SHhleW5mNHNoU1d4ZjFTLW9UV1pLcldyUmNXX1RkSHNaZ3lTMEZSUVdlMjNvTFhlbExZQjA0SkhGaTk2aEg5LXczdw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T16:47:15+00:00",
+      "title": "New drug shows promise in reducing COPD symptoms in former and current smokers, clinical trials show - ABC News - Breaking News, Latest News and Videos",
+      "text": "New drug shows promise in reducing COPD symptoms in former and current smokers, clinical trials show ABC News - Breaking News, Latest News and Videos",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHlLX1Q1Wm9HTU14RW0ydklaT29VV0lVLTBVTjA0V2wxeVQ4RmxMRC16ZFBvZzBYUS1WZmc5UU81bDVzSTdXTExWUzMxZ3VvREtrNW9MRjVlZzZCUERLcl9HYWR6dFB3bjV5UEdIenh5dVR5QWh2WGFfdDhoTTYxQkZGUUtIV0l3dFUwZmdrd3Jlc3kwZmdQMlVnQkJFbmZJ0gGmAUFVX3lxTE0zQzl4bmlyMkp4VGxlalBfbkRPck5Jb2MyOXpSMEdDdmM3ZmtlNXhiNGVNdUJFbmE4Q1R1S3NLdy1YdFJKcE44OVRaLXZpWWFEbEl1MGVQd1BKcHpkR3dnZVhiNDBHbzk4Z1JRaXh3TWxpUk5NeTlnRjgzM0s1R3dCOUJwMHRvenVEU2JITFJ6Ql85YlREb28wS0hEWnNzY1M0TWlsaFE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T13:30:33+00:00",
+      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat - CNBC",
+      "text": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat CNBC",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjVoY2RCNTJBWm95YWtsT240VXFZeGU0dzF3Tk4wQ2l3a0FLbGFLZ21XTUl5N01CUzRSYjFTNEx2bno0LUhzYnplamFTSXBWYlZ6S05JUWRLQm15RVB5RTZWQ29JNlBCSWUtcGF3dVh0UVJhTU5sZlpubDh6WW43bi1NTTF0bEdsT01RNXZMRWtFd9IBlwFBVV95cUxNUzkxZXFiRFhKNHFwaWQzdDNjNGtvQWtUc1NoSjZwRW9EbTRjak5fNXJUM2NabWlvSTRrWkZVcWROdnNjb0d1cmtGLUhMTmpmQ2ZEOVpNNGMtdHY4Vzc3RWU2RHlkSFdUQWJ2Wjd0a0JhQjRWNk1pQ3NDSnh2VThZa2RLMXJuSlZFNGw0QkhtUXk2R2ZXcEk4?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T13:18:00+00:00",
+      "title": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines - Ukrinform",
+      "text": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines Ukrinform",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjR6LXpMOHIxSFFVc09ScWV0alN2Y0lhN0xxNXZFUHhoQkk2c0gzWWVSdjgzbkxjdHpUV1F1d0hCQzhZTmEzU25CUzJiRDdGenBfX21rQS1kV2E4dGdFUGQ3VHc1Q1VWTndZRzJNV21YeHZYTmxvZ214YzBTWEE4YU1RQkQtc2tWMy16UGJiWTNjY0Z6QVdUdTNudVdxdHViWnEtcmhPU2FOWnRRX1pkVTlJMndINE16anA5cDl3cWlXeUpuQmNfM9IBzgFBVV95cUxOVllqR2RNU3JFZ01ES1MyeGJJLVVoQmJwQTlZRmRDNUlJSHh0TWVIWmRzMTRZN0VRMVhKYmdYcE1mbjltOUw4U0JsX2NaYm80alcwZkFyUlZiSnpzWlhCX1YzRE1BRlNTdndGR0FHdGdRQjBpVldjd083aDhWaDFxRG9VUkp1UU5LdkVNQXJ3RmM3OW1ZY3p4XzBKWGtFN1pCU1Q0V0tQTzJrcDlPUV9BcHR5aG1GdTA1NEN3LVd6RkhQY2JhWTRUNTNxdnJvZw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T10:03:06+00:00",
+      "title": "Roivant lung disease drug hits mid-stage study goals - STAT",
+      "text": "Roivant lung disease drug hits mid-stage study goals STAT",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRV9QdU9Jbl94Z2lUMnRJRk4tTWZMS3RlRkRPdDRDbGphMTB2LXlyejBHSG16bVdyTE96SzljdmF6N0lfV2RKY1NyN25PMi1nSkFVQXVqVF9OdEtRRlVER0Z0amhuSnRsbWpYQ2R0enBOMEtZUzQ0MmtZWkdZOVlqOElGREhwNURDU0IzQXZRQUxkTFR1QW95TzF4WFZsZ3FpVmVYVmZlLTJkSmxzUU1ITF9tVQ?oc=5",
+      "auto": true
+    },
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T09:54:56-04:00",
@@ -11,6 +61,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T09:43:00+00:00",
+      "title": "AI-discovered lung drug reverses aging markers in study - The Japan Times",
+      "text": "AI-discovered lung drug reverses aging markers in study The Japan Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEV5aDViWDBpb0hid2Rhdms4eXRBaElubWtXWHp0N2V0Mk9XQVlGOU85MVFoVkdiWVlLd21aeVRkSHBlRWtLZG52WGZjSmZiVGtYSEJCemU2VDg4VHhHaFF6eUQzWUxjLUMtQlVOcjAzanFYMkwtYXRXZzNMUTZLSG04b2JaZEt1dU5scEhR?oc=5",
       "auto": true
     },
     {
@@ -35,12 +95,62 @@
     },
     {
       "date": "08.09.2026",
+      "published_at": "2026-09-08T02:52:00+00:00",
+      "title": "AI-Discovered Lung Drug Reverses Aging Markers in Study - Bloomberg.com",
+      "text": "AI-Discovered Lung Drug Reverses Aging Markers in Study Bloomberg.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
       "published_at": "2026-09-08T00:00:00-04:00",
       "title": "BMC Medical Co., Ltd. Recalls Luna G3 APAP (Model LG3600) with Firmware G3-2.00.76 Due to Firmware Defect",
       "text": "On July 15, 2026, BMC Medical Co., Ltd. (BMC), Beijing, China, retrospectively reported to the US Food and Drug Administration (FDA) a recall of 20,160 Luna G3 APAP (Model LG3600) devices distributed in the United States due to firmware defect. This corrective",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/bmc-medical-co-ltd-recalls-luna-g3-apap-model-lg3600-firmware-g3-20076-due-firmware-defect",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T15:13:00+00:00",
+      "title": "AI-designed drug candidate reverses biological age in clinical study - News-Medical",
+      "text": "AI-designed drug candidate reverses biological age in clinical study News-Medical",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T14:51:53+00:00",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T09:08:00+00:00",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
+      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T09:04:03+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -71,6 +181,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
+      "auto": true
+    },
+    {
+      "date": "05.09.2026",
+      "published_at": "2026-09-05T19:41:04+00:00",
+      "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines - biopharmadive.com",
+      "text": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines biopharmadive.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeERnY3JuVDRwWVFwRmNQQkNPWW15Zm5lWlZEdVVBRmVMMmdyLXpmcjFsOW44XzBjVFVWdEtDWjE3Vm9rMDZGMVZIMzVRYUIxZFQtek56MnItcjFwZjFjQVZCcWZsWmZUUno2NnA5Y0lXOVZ3eGYwb2k4bDBhR1lMSjBoaTEyWVVURzFDXzQwQVgxS2JOalFhOHdfemFxZjh0?oc=5",
       "auto": true
     },
     {
@@ -116,11 +236,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -131,16 +251,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -164,13 +274,13 @@
       "auto": true
     },
     {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -191,6 +301,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
