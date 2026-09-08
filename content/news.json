@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-07T23:24:03.909278+00:00",
+  "updated_at": "2026-09-08T00:36:59.131320+00:00",
   "items": [
     {
       "date": "07.09.2026",
@@ -21,6 +21,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T15:12:14+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -65,16 +75,6 @@
     },
     {
       "date": "07.09.2026",
-      "published_at": "2026-09-07T09:04:03+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
       "published_at": "2026-09-07T09:00:04+00:00",
       "title": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain - Medical Xpress",
       "text": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain Medical Xpress",
@@ -86,8 +86,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T09:00:00+00:00",
-      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - Bloomberg.com",
-      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says Bloomberg.com",
+      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - bloomberg.com",
+      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says bloomberg.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
