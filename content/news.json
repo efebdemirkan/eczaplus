@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-08T14:29:07.243276+00:00",
+  "updated_at": "2026-09-08T15:29:10.570962+00:00",
   "items": [
-    {
-      "date": "08.09.2026",
-      "published_at": "2026-09-08T14:06:20+00:00",
-      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
-      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
-      "auto": true
-    },
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T13:30:33+00:00",
@@ -26,8 +16,8 @@
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T13:18:00+00:00",
-      "title": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines - ukrinform.net",
-      "text": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines ukrinform.net",
+      "title": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines - Ukrinform",
+      "text": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines Ukrinform",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjR6LXpMOHIxSFFVc09ScWV0alN2Y0lhN0xxNXZFUHhoQkk2c0gzWWVSdjgzbkxjdHpUV1F1d0hCQzhZTmEzU25CUzJiRDdGenBfX21rQS1kV2E4dGdFUGQ3VHc1Q1VWTndZRzJNV21YeHZYTmxvZ214YzBTWEE4YU1RQkQtc2tWMy16UGJiWTNjY0Z6QVdUdTNudVdxdHViWnEtcmhPU2FOWnRRX1pkVTlJMndINE16anA5cDl3cWlXeUpuQmNfM9IBzgFBVV95cUxOVllqR2RNU3JFZ01ES1MyeGJJLVVoQmJwQTlZRmRDNUlJSHh0TWVIWmRzMTRZN0VRMVhKYmdYcE1mbjltOUw4U0JsX2NaYm80alcwZkFyUlZiSnpzWlhCX1YzRE1BRlNTdndGR0FHdGdRQjBpVldjd083aDhWaDFxRG9VUkp1UU5LdkVNQXJ3RmM3OW1ZY3p4XzBKWGtFN1pCU1Q0V0tQTzJrcDlPUV9BcHR5aG1GdTA1NEN3LVd6RkhQY2JhWTRUNTNxdnJvZw?oc=5",
@@ -135,6 +125,16 @@
     },
     {
       "date": "07.09.2026",
+      "published_at": "2026-09-07T09:08:00+00:00",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
+      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
       "published_at": "2026-09-07T09:04:03+00:00",
       "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
       "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
@@ -176,8 +176,8 @@
     {
       "date": "05.09.2026",
       "published_at": "2026-09-05T19:41:04+00:00",
-      "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines - biopharmadive.com",
-      "text": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines biopharmadive.com",
+      "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines - BioPharma Dive",
+      "text": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines BioPharma Dive",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeERnY3JuVDRwWVFwRmNQQkNPWW15Zm5lWlZEdVVBRmVMMmdyLXpmcjFsOW44XzBjVFVWdEtDWjE3Vm9rMDZGMVZIMzVRYUIxZFQtek56MnItcjFwZjFjQVZCcWZsWmZUUno2NnA5Y0lXOVZ3eGYwb2k4bDBhR1lMSjBoaTEyWVVURzFDXzQwQVgxS2JOalFhOHdfemFxZjh0?oc=5",
@@ -226,11 +226,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -246,6 +246,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
       "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
@@ -256,21 +266,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -291,16 +301,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
