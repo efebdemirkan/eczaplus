@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-08T03:27:34.296321+00:00",
+  "updated_at": "2026-09-08T04:27:01.265842+00:00",
   "items": [
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T02:52:00+00:00",
+      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - Bloomberg.com",
+      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says Bloomberg.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
+      "auto": true
+    },
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T15:13:00+00:00",
@@ -11,16 +21,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
-      "published_at": "2026-09-07T15:12:14+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -46,8 +46,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T12:14:40+00:00",
-      "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial - thenextweb.com",
-      "text": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial thenextweb.com",
+      "title": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial - The Next Web",
+      "text": "Insilico says its AI-designed lung drug lowered biological age markers in a 42-patient trial The Next Web",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OcUxKNW83YTZocExBZmNpenBjdl9aZ1JMZDBUalpOa2FMZEhOV2t2eWp1NnF0MFpReWRtc19hTjRsY0dCcm9JOW5yX2tzZW10Zm9UYk03M1VtVmhpbEZ5SVdGMkFPZUtudnRkZktYRzVRVEY1RUxZRlZXWQ?oc=5",
@@ -65,22 +65,22 @@
     },
     {
       "date": "07.09.2026",
+      "published_at": "2026-09-07T09:04:03+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
       "published_at": "2026-09-07T09:00:04+00:00",
       "title": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain - Medical Xpress",
       "text": "Experimental cancer drug could help millions of women battling osteoporosis and midlife weight gain Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWlwZnp3ZU1ROEtzdzhBMUctVGtPTWJvUWNQY0ZSZFhMTU9mWFdxR3hneU5IM040MGotSjM4ZG1lMmV1dm1WbmI0WDdBQndOc1kzM00wNXp2TWFtelNJU1gtdFQ5c1d1M2ViV0NpZGlDbEZ0M3ZZUTJlSlo4NmZBYkR6bDc1NEJENDZv?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
-      "published_at": "2026-09-07T09:00:00+00:00",
-      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - bloomberg.com",
-      "text": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says bloomberg.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
       "auto": true
     },
     {
@@ -156,11 +156,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -176,16 +176,6 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
       "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
@@ -196,21 +186,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -231,6 +221,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
