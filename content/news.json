@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-09T05:26:09.282370+00:00",
+  "updated_at": "2026-09-09T06:32:44.408756+00:00",
   "items": [
     {
       "date": "09.09.2026",
@@ -11,16 +11,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWh5UGVKeE1PUE5id01xX01aYVQwT29TY0NvbUs2aWQ2RUdlcTl4dVBIWXlfR2kwa3hkZ05wOGRzdHlJUVh1Yk1sbDlvZkZ4NFVlbFBJNmRXNlFFLVBmNHF6SGNvbWpQZHh5cmlpUnJsYnFieUZhZ2ZpbTdXdEtXMDB2NDlrUVJFTFdYNkVIUEtmMURWQlcwMU90X2FNZlp1OFNEbVBrUFhpMEJsbjQ0UXNHMFd1QVQtV2QtemxVY0UyUmVuNXpzTG9QaEgzb3Q2OE5TR2F2X3RSazhiMWhj?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
-      "published_at": "2026-09-09T04:40:05+00:00",
-      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
-      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
       "auto": true
     },
     {
@@ -56,8 +46,8 @@
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T14:39:37+00:00",
-      "title": "Pharmacy must protect its scientific identity - The Pharmaceutical Journal",
-      "text": "Pharmacy must protect its scientific identity The Pharmaceutical Journal",
+      "title": "Pharmacy must protect its scientific identity - pharmaceutical-journal.com",
+      "text": "Pharmacy must protect its scientific identity pharmaceutical-journal.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEVUaUlLY1NybldmQ0dhZktfOEdTbWhNNUdtVHZVdkVYOGQyR1RXZmxzTXVGZGN5ZUE0aW8wWjB3alh1T2VfcXJjWGJFeU9VcFAyalM0R1N6cVB0UzU4b0dPV3VPX1dvRFpRdURacjZNb0ttZjhmdVhNWUZXamNXMXotV2hOa1B0WkJwQnIzdmxsLVVFVFlYeERuZG4?oc=5",
@@ -86,8 +76,8 @@
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T10:03:06+00:00",
-      "title": "Roivant lung disease drug hits mid-stage study goals - STAT",
-      "text": "Roivant lung disease drug hits mid-stage study goals STAT",
+      "title": "Roivant lung disease drug hits mid-stage study goals - statnews.com",
+      "text": "Roivant lung disease drug hits mid-stage study goals statnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRV9QdU9Jbl94Z2lUMnRJRk4tTWZMS3RlRkRPdDRDbGphMTB2LXlyejBHSG16bVdyTE96SzljdmF6N0lfV2RKY1NyN25PMi1nSkFVQXVqVF9OdEtRRlVER0Z0amhuSnRsbWpYQ2R0enBOMEtZUzQ0MmtZWkdZOVlqOElGREhwNURDU0IzQXZRQUxkTFR1QW95TzF4WFZsZ3FpVmVYVmZlLTJkSmxzUU1ITF9tVQ?oc=5",
@@ -136,8 +126,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T15:13:00+00:00",
-      "title": "AI-designed drug candidate reverses biological age in clinical study - News-Medical",
-      "text": "AI-designed drug candidate reverses biological age in clinical study News-Medical",
+      "title": "AI-designed drug candidate reverses biological age in clinical study - news-medical.net",
+      "text": "AI-designed drug candidate reverses biological age in clinical study news-medical.net",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3Zib1lEX2NVUEcwdEd4UWtOUnZScU5TS1REaUk4YmJKQnNtbGZERTZSRjVxTWljZkdhZk1TQUZCVmt2SXJTT1hQT0JybHc3UGk5WUZqQVNwUEJVWXFjaHNORjB5MWktR3pMaGd6UU52RTdtZGlqb0duaGV0VzBSNTFOU0pCZ3FxcVJXT2QtdE9ENjNYU2JuU1ZNNVV2MERNNms3TFlZcElud2gyb0F1WS1OZndhckU?oc=5",
@@ -146,11 +136,21 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T14:51:53+00:00",
-      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
-      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - WCM Newsroom",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis WCM Newsroom",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T09:08:00+00:00",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
+      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
       "auto": true
     },
     {
@@ -236,11 +236,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -251,16 +251,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -284,13 +274,13 @@
       "auto": true
     },
     {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -311,6 +301,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
