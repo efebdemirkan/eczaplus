@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-09T01:26:49.455945+00:00",
+  "updated_at": "2026-09-09T02:27:01.459187+00:00",
   "items": [
+    {
+      "date": "09.09.2026",
+      "published_at": "2026-09-09T01:40:05+00:00",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
+      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
+      "auto": true
+    },
     {
       "date": "08.09.2026",
       "published_at": "2026-09-08T22:51:00+00:00",
@@ -31,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjVoY2RCNTJBWm95YWtsT240VXFZeGU0dzF3Tk4wQ2l3a0FLbGFLZ21XTUl5N01CUzRSYjFTNEx2bno0LUhzYnplamFTSXBWYlZ6S05JUWRLQm15RVB5RTZWQ29JNlBCSWUtcGF3dVh0UVJhTU5sZlpubDh6WW43bi1NTTF0bEdsT01RNXZMRWtFd9IBlwFBVV95cUxNUzkxZXFiRFhKNHFwaWQzdDNjNGtvQWtUc1NoSjZwRW9EbTRjak5fNXJUM2NabWlvSTRrWkZVcWROdnNjb0d1cmtGLUhMTmpmQ2ZEOVpNNGMtdHY4Vzc3RWU2RHlkSFdUQWJ2Wjd0a0JhQjRWNk1pQ3NDSnh2VThZa2RLMXJuSlZFNGw0QkhtUXk2R2ZXcEk4?oc=5",
-      "auto": true
-    },
-    {
-      "date": "08.09.2026",
-      "published_at": "2026-09-08T13:18:00+00:00",
-      "title": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines - Ukrinform",
-      "text": "Russian forces destroy pharmacy warehouse storing hundreds of tons of medicines Ukrinform",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjR6LXpMOHIxSFFVc09ScWV0alN2Y0lhN0xxNXZFUHhoQkk2c0gzWWVSdjgzbkxjdHpUV1F1d0hCQzhZTmEzU25CUzJiRDdGenBfX21rQS1kV2E4dGdFUGQ3VHc1Q1VWTndZRzJNV21YeHZYTmxvZ214YzBTWEE4YU1RQkQtc2tWMy16UGJiWTNjY0Z6QVdUdTNudVdxdHViWnEtcmhPU2FOWnRRX1pkVTlJMndINE16anA5cDl3cWlXeUpuQmNfM9IBzgFBVV95cUxOVllqR2RNU3JFZ01ES1MyeGJJLVVoQmJwQTlZRmRDNUlJSHh0TWVIWmRzMTRZN0VRMVhKYmdYcE1mbjltOUw4U0JsX2NaYm80alcwZkFyUlZiSnpzWlhCX1YzRE1BRlNTdndGR0FHdGdRQjBpVldjd083aDhWaDFxRG9VUkp1UU5LdkVNQXJ3RmM3OW1ZY3p4XzBKWGtFN1pCU1Q0V0tQTzJrcDlPUV9BcHR5aG1GdTA1NEN3LVd6RkhQY2JhWTRUNTNxdnJvZw?oc=5",
       "auto": true
     },
     {
@@ -135,12 +135,12 @@
     },
     {
       "date": "07.09.2026",
-      "published_at": "2026-09-07T09:08:00+00:00",
-      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
-      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
+      "published_at": "2026-09-07T11:26:32+00:00",
+      "title": "Novartis cholesterol setback tests hopes for emerging heart disease drugs - Reuters",
+      "text": "Novartis cholesterol setback tests hopes for emerging heart disease drugs Reuters",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT3JLc3pSdzFRemdkQjZYMFBtVDNCLVlLSi1qWmEzQ3ZWMldHdEZBOVpLUjJhcXBJZ3pjNWFTY0xpOFNHVVpZVjI3S1dIVHRNRk93bEtPRjc0NTdFTWlpTUJXTngxQ3lCMkxGbW5JTDhMSnhjaVQ1ckZGTm1DbnFYRDh4ck8xOEJPZGJNU0NiZi01Sk1mYnBta2M1ZmlnMV9mRGpJVnlDdkV4c3VuM2J4U0xITGthT3hzNjN0a05hQURpUV90Q1JhMVFsTQ?oc=5",
       "auto": true
     },
     {
