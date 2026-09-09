@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-09T11:26:54.817372+00:00",
+  "updated_at": "2026-09-09T12:32:53.308335+00:00",
   "items": [
     {
       "date": "09.09.2026",
-      "published_at": "2026-09-09T10:40:05+00:00",
-      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - wsj.com",
-      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too wsj.com",
+      "published_at": "2026-09-09T12:10:05+00:00",
+      "title": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too - WSJ",
+      "text": "Insilico’s Co-CEO Has Big Hopes That Fibrosis Drug Can Reverse Aging Too WSJ",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWxBODNKSzEtWmlqenlNWVlWMkE4Y01CMHE4enhpRzFzVFg5SDhYMGIwV2NIcnNZY2ZRV01KWXdOdlZnRnBvQ0dMMjIzd25hZXBTMmlKX2RIYmVUYjFxa0NPcnZ2YnpmcjdOWnVuTFQzSXZzS0Y0ei0wZEYzdmZsWjF3ZlliN0FnY0pRZjBvYXh6QkhUMTZ3ZWpiRnFmMGJKSXhPd29LWmZuc2xmS1RtY1h0MA?oc=5",
@@ -35,16 +35,6 @@
     },
     {
       "date": "09.09.2026",
-      "published_at": "2026-09-09T04:59:24+00:00",
-      "title": "AI, Naloxone and Drug Labels: Medication Safety Pearls from ASHP Meeting - Pain Medicine News",
-      "text": "AI, Naloxone and Drug Labels: Medication Safety Pearls from ASHP Meeting Pain Medicine News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWh5UGVKeE1PUE5id01xX01aYVQwT29TY0NvbUs2aWQ2RUdlcTl4dVBIWXlfR2kwa3hkZ05wOGRzdHlJUVh1Yk1sbDlvZkZ4NFVlbFBJNmRXNlFFLVBmNHF6SGNvbWpQZHh5cmlpUnJsYnFieUZhZ2ZpbTdXdEtXMDB2NDlrUVJFTFdYNkVIUEtmMURWQlcwMU90X2FNZlp1OFNEbVBrUFhpMEJsbjQ0UXNHMFd1QVQtV2QtemxVY0UyUmVuNXpzTG9QaEgzb3Q2OE5TR2F2X3RSazhiMWhj?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
       "published_at": "2026-09-09T04:00:00+00:00",
       "title": "Giving heroin to drug addicts: medicine or insanity? - American Council on Science and Health",
       "text": "Giving heroin to drug addicts: medicine or insanity? American Council on Science and Health",
@@ -61,6 +51,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMVRxMjZEcEc5cGkzanp4T0RPLVlUdlEwbHB6d1IzYVFUX0g5a19YMGtkbTUyOWZfMnU4VHlCa1RiNy1XRWlsYi1NUHZOMVppM0ljVU41bmVuUXFBVHZMMUR4bVdfRnFTUkVFT2NhRkFaUGNQUDRyVmhyamRPM3lidEZaTU5US1B0VjZSUDdQZHk5X19wc3otNGQ2bzZMVmVUVEFsQXRfZVpURElUSkNUQURXRGZxU0RIT2FPQ1hyVU5hZmxQald1SHhleW5mNHNoU1d4ZjFTLW9UV1pLcldyUmNXX1RkSHNaZ3lTMEZSUVdlMjNvTFhlbExZQjA0SkhGaTk2aEg5LXczdw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "08.09.2026",
+      "published_at": "2026-09-08T22:40:18+00:00",
+      "title": "As FDA Sets AI Principles for Drug Development, How Much Evidence Is Enough? - The Well News",
+      "text": "As FDA Sets AI Principles for Drug Development, How Much Evidence Is Enough? The Well News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1RDdTZSaEJjTXpkVmVSLWFzREg4Wm4tcTkyMWl2YTdEZklWUFozWmRzcTE2UWR3OUR0aEozUDdMMFdaMjhuSFdXcFpBZkNGVzNnVDMwZThsMGh5WGNTYk9RY2FjbVVHN3puQ1JXMG9Jak43bVVvenRkcW1vNjlSLXBvbmRtaEJqX2NwbnhxeXAwTGZtOEZCQ2lDRm9vbU9uYTVFSHI0cXBPZk84VjhwVEtB?oc=5",
       "auto": true
     },
     {
@@ -236,11 +236,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -251,6 +251,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -274,13 +284,13 @@
       "auto": true
     },
     {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -301,16 +311,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
