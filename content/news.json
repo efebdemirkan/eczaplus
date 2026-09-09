@@ -1,8 +1,28 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-09T09:28:13.074567+00:00",
+  "updated_at": "2026-09-09T10:27:43.212291+00:00",
   "items": [
+    {
+      "date": "09.09.2026",
+      "published_at": "2026-09-09T09:27:00+00:00",
+      "title": "Drug developed for lung disease may slow biological aging in surprising ‘bonus’ - New York Post",
+      "text": "Drug developed for lung disease may slow biological aging in surprising ‘bonus’ New York Post",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWjRaZV9BQ1h6QmYzYjM2NWxrSmRHRHg0X01OUThuN1VKVzN2Ump2NXdOMHZEdTQ4Q2gtc2FEUWVQdW5ic1U3VmFPZlpkSmFlTDN2OU13ZDZ1R2JOQnVJZzZ1NFlzbHM3M05PTF9wdGpub0l0U0tiUjRTUy0tZEx4dEFsX0ZxMkppbWQwa2xjUlRZYjZERk1idlRONGxlV1N6a1E4WUVIb2paV0VKeVpzc29sWmNxUQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "09.09.2026",
+      "published_at": "2026-09-09T09:10:38+00:00",
+      "title": "AI-designed drug could slow aging; chatbots abandon referral advice when patients push back; virtual reality helped anxious patients finish cardiac scans — Morning Medical Update - Medical Economics",
+      "text": "AI-designed drug could slow aging; chatbots abandon referral advice when patients push back; virtual reality helped anxious patients finish cardiac scans — Morning Medical Update Medical Economics",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNenlwVnpRX3hYYTJwN1c3T1FPY0pqeFVJMkRtVnJUYXBVQlpNZUFZSzZuT0Y4eTRJb3ozU3V0eUhkRk1IM1VwX1ZwRk14VkQwZDNVbnNINkNscHZFLUpENXJsenRGUnVZcjFqLXhVSXYtNHVtbEFvZnNhRmd6V2FKNDljQ2VCSzMtUFJ0alNIMlp5TkQ1clR6dnctY2VURGI1N09PU1FsS3E5UlFOd3h0aVdoeVRVdjNuMXlmSHVFSHhzT0pZWFhZOE9wZ0QxZlE3MW5uSGtSV3NNdlA2WnRPbS0zWlJJSDhGeUJXQlVNU29KeHpXcjRzeDVEU21qU19pazdORS1aZVBWR2dtSDNTVHhRd3gzZk0xS3RSYXdmVmRZVVlwZHJ5NEtjbGdGTDRVZFIxVDJqYw?oc=5",
+      "auto": true
+    },
     {
       "date": "09.09.2026",
       "published_at": "2026-09-09T09:10:05+00:00",
@@ -75,16 +95,6 @@
     },
     {
       "date": "08.09.2026",
-      "published_at": "2026-09-08T10:03:06+00:00",
-      "title": "Roivant lung disease drug hits mid-stage study goals - STAT",
-      "text": "Roivant lung disease drug hits mid-stage study goals STAT",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRV9QdU9Jbl94Z2lUMnRJRk4tTWZMS3RlRkRPdDRDbGphMTB2LXlyejBHSG16bVdyTE96SzljdmF6N0lfV2RKY1NyN25PMi1nSkFVQXVqVF9OdEtRRlVER0Z0amhuSnRsbWpYQ2R0enBOMEtZUzQ0MmtZWkdZOVlqOElGREhwNURDU0IzQXZRQUxkTFR1QW95TzF4WFZsZ3FpVmVYVmZlLTJkSmxzUU1ITF9tVQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "08.09.2026",
       "published_at": "2026-09-08T09:54:56-04:00",
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
       "text": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial ",
@@ -136,8 +146,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T14:51:53+00:00",
-      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
-      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - WCM Newsroom",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis WCM Newsroom",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
@@ -181,16 +191,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-      "auto": true
-    },
-    {
-      "date": "05.09.2026",
-      "published_at": "2026-09-05T19:41:04+00:00",
-      "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines - BioPharma Dive",
-      "text": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines BioPharma Dive",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeERnY3JuVDRwWVFwRmNQQkNPWW15Zm5lWlZEdVVBRmVMMmdyLXpmcjFsOW44XzBjVFVWdEtDWjE3Vm9rMDZGMVZIMzVRYUIxZFQtek56MnItcjFwZjFjQVZCcWZsWmZUUno2NnA5Y0lXOVZ3eGYwb2k4bDBhR1lMSjBoaTEyWVVURzFDXzQwQVgxS2JOalFhOHdfemFxZjh0?oc=5",
       "auto": true
     },
     {
