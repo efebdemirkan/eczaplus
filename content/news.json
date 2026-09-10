@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-10T21:23:23.818979+00:00",
+  "updated_at": "2026-09-10T22:23:54.964472+00:00",
   "items": [
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T17:16:19+00:00",
-      "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - barrons.com",
-      "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. barrons.com",
+      "published_at": "2026-09-10T18:40:00+00:00",
+      "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - Barron's",
+      "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. Barron's",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGg4ejkxdDczVUJ3bV94WWstTS15emk4UDByd2ZoMm9ZR254MFVSTld4bHZ5b0d0cFl0d1U3U1BqbHZSci0xU0J0UXIxMkZTVzh6NF9ScTJiQzg2X1pXYzFsLVpCWVNuT3BmZlZJUUlTMzhON2xaUHVIc3RkQ2d2ckRyWkgtRklLLWt4OEY2ekVJYno3YVUwSHdUUF9KZ2lfNC1z?oc=5",
@@ -45,6 +45,16 @@
     },
     {
       "date": "10.09.2026",
+      "published_at": "2026-09-10T12:58:04+00:00",
+      "title": "Disc Medicine at Wells Fargo conference: two drug bets near key tests - Investing.com",
+      "text": "Disc Medicine at Wells Fargo conference: two drug bets near key tests Investing.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGstOUpCb1lLdjRBUktYdHMxYTBRRnpHMkJwQ1BsQjJZMmVKVlE0d3BfZDhrTDlZR2pwWjhYU0dQNDFvajE4bDlJVDhiYXJhQ0w5dlV1RnVvbUJqQmFiZl9QbVFZRXU3YmV3V2ptZmRxVF9idVE0Rm9INDlxTFNlVGt1d3U5OEJwYXBUU19hVkpHV3ZBQ0pDX29JZGx3NnhUZ3g4N1dYc1BJY01PY2RValVUV3d3R0ZzaEZUYnMtNU5CUQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
       "published_at": "2026-09-10T07:35:00+00:00",
       "title": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis - News-Medical",
       "text": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis News-Medical",
@@ -64,6 +74,16 @@
       "auto": true
     },
     {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T00:00:00-04:00",
+      "title": "Epidural Kit Correction: Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
+      "text": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "auto": true
+    },
+    {
       "date": "09.09.2026",
       "published_at": "2026-09-09T16:00:00+00:00",
       "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - The Washington Post",
@@ -75,22 +95,22 @@
     },
     {
       "date": "09.09.2026",
-      "published_at": "2026-09-09T14:56:47+00:00",
-      "title": "Federal Appeals Court Hears Baseless Challenge to the Abortion Pill Mifepristone — Again - American Civil Liberties Union",
-      "text": "Federal Appeals Court Hears Baseless Challenge to the Abortion Pill Mifepristone — Again American Civil Liberties Union",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlVRdmROTENtZHpibzdaRUdJa3JNTEF4SlZtYkgySVZYZDZTMmgxQlV2bTNrTE9SV01VOWs0QUlBZEh2V1dnNnZZQ1RxSkpVWmhsWXByUkk0WHBZcUJiR2F2bUNPMjVDUzJGUEdPdUhGYzgxQTZjeG5vM3JIR01ydU4tdW5pclRIWjVRb0g3WGlpZWNGaGthYndNNUVtWmxwa0FrRnNCOGcwNi1kRFprWk9sWmc1bl95ZGM5YmZ0UQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
       "published_at": "2026-09-09T09:06:53-04:00",
       "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
       "text": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to ",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+      "auto": true
+    },
+    {
+      "date": "09.09.2026",
+      "published_at": "2026-09-09T07:20:42+00:00",
+      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade - Al Jazeera",
+      "text": "Medicine shortages grow in Iran as US tightens sanctions, blockade Al Jazeera",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXhhMzgzU2tDTWZJMjhIYV9SSVEzMmpEOGpqdTYtY2RfV3Q0dmdNSjhtMjdrSzhIZHVyek9oc0FoQkdZUHRxemk3STdVMDJ3bU1zT2lWN3hoTHlCbFpNSUdlNUI3X201VDctam80SVZseUxMdkROSHBGRXN1QzJEZ0RWLUt5TUt0a00tVnFaYVZ6LTlvX1lRd05PMEFOVE40ZE8xUy03Q2fSAa4BQVVfeXFMT2FPWW5uSzdsZ0dPOS0zWG1JSnpQTlBnUnNzc05ZNDQ0QUFxVUpKWWFqa0tNQURwcjNSNEhtb0V3a25aVWpyOWM4d3pJeEZxMjVfRXJNRVJ3N1lJMlVDN0ZrcEtCSG90dmx6THV1anNxWTBSdzl4eDAwckQxRndlQ0NPcGwyblBta1NucHdGTHFxV0x0WEdKSmE3YnJUaDV1WnhSb3FEbTA5enYyZFZ3?oc=5",
       "auto": true
     },
     {
@@ -161,16 +181,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "07.09.2026",
-      "published_at": "2026-09-07T09:04:03+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -256,11 +266,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -286,11 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -331,16 +341,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "01.09.2026",
-      "published_at": "2026-09-01T00:00:00-04:00",
-      "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
-      "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
       "auto": true
     },
     {
