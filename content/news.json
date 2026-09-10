@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-10T06:32:38.183710+00:00",
+  "updated_at": "2026-09-10T07:28:12.653890+00:00",
   "items": [
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T06:41:37+00:00",
+      "title": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - The Clinical Trial Vanguard",
+      "text": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF The Clinical Trial Vanguard",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1dOekRQM3pObndDUVhjMWFCMG0ycl9mYlg1M1YxdC1Vb1NqbEVMaDNLSGYzT3BSRW1QQlFURkZva1ltNEh4WG91MXh5bFc5NjFOQTFpU21hTVVRTkhGUGV5R0xjRjU4aFNxaDN3czJuN1lBVlVVVWg5OGh5aEt4R05FN09sTDl6RGF0NmJxc0F3WHluamxUQ3dUR2tmc2pIZ3NBSHJZSkRDakdmN2IzT1pieFVWeU1oM1o0dFZROGlERGFZ?oc=5",
+      "auto": true
+    },
     {
       "date": "10.09.2026",
       "published_at": "2026-09-10T06:20:23+00:00",
@@ -11,16 +21,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVmYtbXFyNnhlWUVXNzVJUU90Ti10ZU1lWTZpN0J4dWw1emdhMXgzLTRoQ05mRmtIc1ZQTDNxVnBUYWxEU0ZEMlJyZFU1TGtGT2UtVGdVU3Z3dFN6MDZmVTRDNlF5S29sNDMxYmtFU2ZuNGhaVUoyaG9paHpMQ1duc1JNYnZoaV9aOFJ6SzItY0N4b1BPbG1wc0gtaF82eFloS1g3ZXJ3TzJyaUdjNTJYMlJzWlJoUWVGNzl6WDZBbW5aVEdFVzAtckZsZXY0MmpYYTJxTXZfMUFNOGJzLVE?oc=5",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T04:00:13+00:00",
-      "title": "Suspected drug overdose ER visits decline in Grant and Chelan counties in 2025 - Source ONE News",
-      "text": "Suspected drug overdose ER visits decline in Grant and Chelan counties in 2025 Source ONE News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbHA5dlVXUVc0dnc2aHkzN211MnpmZ2M5OFJrYkFhVV82anpTMnZWbEpYMzRQV2V0bmJyanBvMmVCeFBsaVdkQk8xT0Z0QmszY1BVVVptR0RwRTFBeU9JbGkybGR4YzdUOVd3dVhiLTlPWFlZQ3o3Q09LWjQ0bzcxazB2WUg4V2tiZTNSVTNXYndheUt3WkpMSlVxRjFnaXc2dkhhV3VTbTlJTXY0eEowQXZrZ0lMTVhxNWowTENXd2ZPeXJza0NDUEtlckNtQnBnT1FUNXNOZjB2bUpTUFJBLTFiVnBjYnMtMHNsMGo2ekswRWRmTkUySGNsVVZQdmszN2Jn?oc=5",
       "auto": true
     },
     {
@@ -166,8 +166,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T09:04:03+00:00",
-      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - nytimes.com",
-      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging nytimes.com",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
@@ -246,11 +246,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -261,6 +261,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -284,13 +294,13 @@
       "auto": true
     },
     {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -311,16 +321,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
