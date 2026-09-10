@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-10T17:25:08.625806+00:00",
+  "updated_at": "2026-09-10T18:28:06.211803+00:00",
   "items": [
     {
       "date": "10.09.2026",
@@ -75,6 +75,16 @@
     },
     {
       "date": "09.09.2026",
+      "published_at": "2026-09-09T14:56:47+00:00",
+      "title": "Federal Appeals Court Hears Baseless Challenge to the Abortion Pill Mifepristone — Again - American Civil Liberties Union",
+      "text": "Federal Appeals Court Hears Baseless Challenge to the Abortion Pill Mifepristone — Again American Civil Liberties Union",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlVRdmROTENtZHpibzdaRUdJa3JNTEF4SlZtYkgySVZYZDZTMmgxQlV2bTNrTE9SV01VOWs0QUlBZEh2V1dnNnZZQ1RxSkpVWmhsWXByUkk0WHBZcUJiR2F2bUNPMjVDUzJGUEdPdUhGYzgxQTZjeG5vM3JIR01ydU4tdW5pclRIWjVRb0g3WGlpZWNGaGthYndNNUVtWmxwa0FrRnNCOGcwNi1kRFprWk9sWmc1bl95ZGM5YmZ0UQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "09.09.2026",
       "published_at": "2026-09-09T09:06:53-04:00",
       "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
       "text": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to ",
@@ -84,30 +94,10 @@
       "auto": true
     },
     {
-      "date": "09.09.2026",
-      "published_at": "2026-09-09T07:20:42+00:00",
-      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade - aljazeera.com",
-      "text": "Medicine shortages grow in Iran as US tightens sanctions, blockade aljazeera.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXhhMzgzU2tDTWZJMjhIYV9SSVEzMmpEOGpqdTYtY2RfV3Q0dmdNSjhtMjdrSzhIZHVyek9oc0FoQkdZUHRxemk3STdVMDJ3bU1zT2lWN3hoTHlCbFpNSUdlNUI3X201VDctam80SVZseUxMdkROSHBGRXN1QzJEZ0RWLUt5TUt0a00tVnFaYVZ6LTlvX1lRd05PMEFOVE40ZE8xUy03Q2fSAa4BQVVfeXFMT2FPWW5uSzdsZ0dPOS0zWG1JSnpQTlBnUnNzc05ZNDQ0QUFxVUpKWWFqa0tNQURwcjNSNEhtb0V3a25aVWpyOWM4d3pJeEZxMjVfRXJNRVJ3N1lJMlVDN0ZrcEtCSG90dmx6THV1anNxWTBSdzl4eDAwckQxRndlQ0NPcGwyblBta1NucHdGTHFxV0x0WEdKSmE3YnJUaDV1WnhSb3FEbTA5enYyZFZ3?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
-      "published_at": "2026-09-09T04:00:00+00:00",
-      "title": "Giving heroin to drug addicts: medicine or insanity? - American Council on Science and Health",
-      "text": "Giving heroin to drug addicts: medicine or insanity? American Council on Science and Health",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHhYaEJ2WEhXaXB1RFhRUTJwSVlCaENrM0JVYi1LRVpIcXdFWGF3Q2NpWXlrTHF6QVVvMDE1eDFuY2RBZWYxeHFyRlpYODI2WEhWTXFoM1RNc0wwYjFqb2tCYUJBdXYxYWpHTjlMM0NrbWFzNEFzb0xBY3RnX0dtMVdHSE5xdEd0YWhMRzQ1Ni0xa3pv?oc=5",
-      "auto": true
-    },
-    {
       "date": "08.09.2026",
       "published_at": "2026-09-08T13:30:33+00:00",
-      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat - CNBC",
-      "text": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat CNBC",
+      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat - cnbc.com",
+      "text": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat cnbc.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjVoY2RCNTJBWm95YWtsT240VXFZeGU0dzF3Tk4wQ2l3a0FLbGFLZ21XTUl5N01CUzRSYjFTNEx2bno0LUhzYnplamFTSXBWYlZ6S05JUWRLQm15RVB5RTZWQ29JNlBCSWUtcGF3dVh0UVJhTU5sZlpubDh6WW43bi1NTTF0bEdsT01RNXZMRWtFd9IBlwFBVV95cUxNUzkxZXFiRFhKNHFwaWQzdDNjNGtvQWtUc1NoSjZwRW9EbTRjak5fNXJUM2NabWlvSTRrWkZVcWROdnNjb0d1cmtGLUhMTmpmQ2ZEOVpNNGMtdHY4Vzc3RWU2RHlkSFdUQWJ2Wjd0a0JhQjRWNk1pQ3NDSnh2VThZa2RLMXJuSlZFNGw0QkhtUXk2R2ZXcEk4?oc=5",
@@ -171,6 +161,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T09:04:03+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
       "auto": true
     },
     {
@@ -246,11 +246,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -261,6 +261,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -284,13 +294,13 @@
       "auto": true
     },
     {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -311,16 +321,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
