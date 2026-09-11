@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-11T08:28:06.995801+00:00",
+  "updated_at": "2026-09-11T09:26:40.347842+00:00",
   "items": [
     {
       "date": "11.09.2026",
@@ -11,6 +11,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU1OX1BsUnYtM2xVX1h2bHhKRVVWNmtvOS1hbUNPM2JkU1lMN2N2YWkxa0NUb24wbGhEMmt0RVh6eXR5bjRJU0NOU2ZvZXZ3MmtRR0dqVklxQ0RpZE9ycnVMb1V2X21MMlRhLUFQMEk3Nnk0eDJoZkRuN01CcnlRNmRkXzlGV21kbDl2MnRBVXlXbVZ2ODlQZkktdGFrdEVGamlaeEFjeldnbGpMZ1lhLUFn?oc=5",
+      "auto": true
+    },
+    {
+      "date": "11.09.2026",
+      "published_at": "2026-09-11T07:03:10+00:00",
+      "title": "Seeking to make drug treatments better and safer - Karolinska Institutet",
+      "text": "Seeking to make drug treatments better and safer Karolinska Institutet",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mb3k5ekRnLVVQNGQxUzNua1RmSXhicjltaHdIeVlubXdEbmY1TkFzdG54a0VEU0J4U2ZXWk5mN3ZtSDg4SUotbW8wZk1ZMmNvSmxmazlBU0hTN2lWRXh3aGN5SHNtSWRnaVRIdUxWeUhRMGlGcVE?oc=5",
       "auto": true
     },
     {
@@ -135,16 +145,6 @@
     },
     {
       "date": "08.09.2026",
-      "published_at": "2026-09-08T13:30:33+00:00",
-      "title": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat - CNBC",
-      "text": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat CNBC",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjVoY2RCNTJBWm95YWtsT240VXFZeGU0dzF3Tk4wQ2l3a0FLbGFLZ21XTUl5N01CUzRSYjFTNEx2bno0LUhzYnplamFTSXBWYlZ6S05JUWRLQm15RVB5RTZWQ29JNlBCSWUtcGF3dVh0UVJhTU5sZlpubDh6WW43bi1NTTF0bEdsT01RNXZMRWtFd9IBlwFBVV95cUxNUzkxZXFiRFhKNHFwaWQzdDNjNGtvQWtUc1NoSjZwRW9EbTRjak5fNXJUM2NabWlvSTRrWkZVcWROdnNjb0d1cmtGLUhMTmpmQ2ZEOVpNNGMtdHY4Vzc3RWU2RHlkSFdUQWJ2Wjd0a0JhQjRWNk1pQ3NDSnh2VThZa2RLMXJuSlZFNGw0QkhtUXk2R2ZXcEk4?oc=5",
-      "auto": true
-    },
-    {
-      "date": "08.09.2026",
       "published_at": "2026-09-08T09:54:56-04:00",
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
       "text": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial ",
@@ -256,21 +256,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -286,6 +276,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -296,21 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -331,6 +321,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
