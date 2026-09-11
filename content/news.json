@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-11T03:26:40.710074+00:00",
+  "updated_at": "2026-09-11T04:27:23.592241+00:00",
   "items": [
     {
       "date": "10.09.2026",
@@ -65,19 +65,9 @@
     },
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "title": "Precision Medicine Has a Commercialization Problem - Fierce Pharma",
-      "text": "Precision Medicine Has a Commercialization Problem Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVEya1pNWG1SNFVpdXdmUmZja2tuRU51bGdwd0MtcTdQT2dRbnA0WU9sdXlsQVJENnk4SmRoTWNZZnd1VEd1dzE0VGF3SXFZQ09HWDJCSFVKUk9EX2dDNjk2a1Q0YXc4YmFLM3dNX25oVUpiZnFlMGVaSzJnQnd2SlJFQ2t3UnZsRXN3WDV0bG4?oc=5",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
       "published_at": "2026-09-10T07:35:00+00:00",
-      "title": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis - News-Medical",
-      "text": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis News-Medical",
+      "title": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis - news-medical.net",
+      "text": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis news-medical.net",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjJVeVFGYmQ4cmZSdnNsRkgtSVltb0hKNGtBNVpRYkcydlRnTkl0NFZBX0EyUUdteEJFMkRGU0pHWVRDUG1zX24wdFhJYmJjN1EzdjFBM2pCYklyLV9CWlVmTmszeGZPVGlpNDA4Vjd1Ukd5ZjlBWlZEY1kydDdQRnE0V253R0RSaTFJeGJkalpCLUVUR3RFMHpsengwbTBYcGNtckgxRWVFUFFWMUlCNHpyX29wS3lHY0Via2hIOTdoTXJHa2JDelpLeVNKai05azFMa2pBdEQtUQ?oc=5",
@@ -91,16 +81,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1dOekRQM3pObndDUVhjMWFCMG0ycl9mYlg1M1YxdC1Vb1NqbEVMaDNLSGYzT3BSRW1QQlFURkZva1ltNEh4WG91MXh5bFc5NjFOQTFpU21hTVVRTkhGUGV5R0xjRjU4aFNxaDN3czJuN1lBVlVVVWg5OGh5aEt4R05FN09sTDl6RGF0NmJxc0F3WHluamxUQ3dUR2tmc2pIZ3NBSHJZSkRDakdmN2IzT1pieFVWeU1oM1o0dFZROGlERGFZ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T00:00:00-04:00",
-      "title": "Epidural Kit Correction: Medical Action Industries Issues Correction for Epidural Kits Containing Spectra Medical Devices Lidocaine Ampules",
-      "text": "Medical Action Industries is correcting epidural kits containing recalled Huons Co. sodium chloride ampules.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
       "auto": true
     },
     {
@@ -185,6 +165,16 @@
     },
     {
       "date": "07.09.2026",
+      "published_at": "2026-09-07T09:04:03+00:00",
+      "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging - The New York Times",
+      "text": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "07.09.2026",
       "published_at": "2026-09-07T03:03:04-04:00",
       "title": "Cialis linked to higher glaucoma risk in large study",
       "text": "A large study of nearly 74,000 men suggests that long-term use of tadalafil, best known as Cialis, may be linked to a higher risk of glaucoma and other eye pressure problems. Men prescribed the drug for urinary symptoms caused by an enlarged prostate were 22% ",
@@ -256,11 +246,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -276,11 +266,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -291,16 +291,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -341,6 +331,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "01.09.2026",
+      "published_at": "2026-09-01T00:00:00-04:00",
+      "title": "Breathing Circuit Recall: Medline Removes Neonatal and Infant Heated Wire Breathing Circuits",
+      "text": "Medline is recalling certain neonatal and infant heated wire breathing circuits due to failures involving the electrical connector.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/breathing-circuit-recall-medline-removes-neonatal-and-infant-heated-wire-breathing-circuits",
       "auto": true
     },
     {
