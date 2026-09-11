@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-11T13:27:27.958327+00:00",
+  "updated_at": "2026-09-11T14:27:15.482768+00:00",
   "items": [
     {
       "date": "11.09.2026",
@@ -21,16 +21,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-      "auto": true
-    },
-    {
-      "date": "11.09.2026",
-      "published_at": "2026-09-11T07:03:10+00:00",
-      "title": "Seeking to make drug treatments better and safer - news.ki.se",
-      "text": "Seeking to make drug treatments better and safer news.ki.se",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mb3k5ekRnLVVQNGQxUzNua1RmSXhicjltaHdIeVlubXdEbmY1TkFzdG54a0VEU0J4U2ZXWk5mN3ZtSDg4SUotbW8wZk1ZMmNvSmxmazlBU0hTN2lWRXh3aGN5SHNtSWRnaVRIdUxWeUhRMGlGcVE?oc=5",
       "auto": true
     },
     {
@@ -95,12 +85,12 @@
     },
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T07:35:00+00:00",
-      "title": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis - news-medical.net",
-      "text": "Generative AI-driven drug Rentosertib enters Phase III trial for idiopathic pulmonary fibrosis news-medical.net",
+      "published_at": "2026-09-10T15:06:00+00:00",
+      "title": "Disc Medicine's Phase 2 rare blood cancer data; Frazier adds to public fund - Endpoints News",
+      "text": "Disc Medicine's Phase 2 rare blood cancer data; Frazier adds to public fund Endpoints News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjJVeVFGYmQ4cmZSdnNsRkgtSVltb0hKNGtBNVpRYkcydlRnTkl0NFZBX0EyUUdteEJFMkRGU0pHWVRDUG1zX24wdFhJYmJjN1EzdjFBM2pCYklyLV9CWlVmTmszeGZPVGlpNDA4Vjd1Ukd5ZjlBWlZEY1kydDdQRnE0V253R0RSaTFJeGJkalpCLUVUR3RFMHpsengwbTBYcGNtckgxRWVFUFFWMUlCNHpyX29wS3lHY0Via2hIOTdoTXJHa2JDelpLeVNKai05azFMa2pBdEQtUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0VPNXh5RS04U0xBNHBoRW9rV1pnZGpEbG1FVTN2bVRiMFcyV0tsNUE0OWNBMllwR3dIdGt2NUZTZzJrbEg1YlNQQmg0ZjJQVHNUeGNHMmU2SUFseWtIWDNfbUVySmF3TDVVZFVab0hUUEZxWnZCYXd4b2ZtT245UUJGMzlRc3RycEVIczlsc3VvUGFTZ0FSRHowWQ?oc=5",
       "auto": true
     },
     {
@@ -156,8 +146,8 @@
     {
       "date": "09.09.2026",
       "published_at": "2026-09-09T16:00:00+00:00",
-      "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - The Washington Post",
-      "text": "The largely hidden force helping drive America’s craze for weight-loss drugs The Washington Post",
+      "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - washingtonpost.com",
+      "text": "The largely hidden force helping drive America’s craze for weight-loss drugs washingtonpost.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmhrYnZHdlplOWVJYXNYWHlRLXg1YURabENudHFBUFR4bnctc3AtVXJDdnJXV000blVmZllFYjVXelc2MkhoczhrMDBwWWYxR2VZRTN1X005REQ5dFFMc1c2NHZtMjhka2VtSVI5NUhmQVlyOGVKV0dOWmJsWk9yQmRpVF80VnVSeUpnMG5FR3p6MXBWSzFwUTR4OTBzRTdBWnkyaGVUVVV1YlhLellXWExJZFVia2ZRc0E?oc=5",
@@ -266,21 +256,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -296,6 +276,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -306,21 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -341,6 +321,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -381,6 +371,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "auto": true
+    },
+    {
+      "date": "21.08.2026",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
+      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
       "auto": true
     }
   ]
