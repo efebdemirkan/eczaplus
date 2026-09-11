@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-11T12:32:08.448389+00:00",
+  "updated_at": "2026-09-11T13:27:27.958327+00:00",
   "items": [
     {
       "date": "11.09.2026",
@@ -11,6 +11,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU1OX1BsUnYtM2xVX1h2bHhKRVVWNmtvOS1hbUNPM2JkU1lMN2N2YWkxa0NUb24wbGhEMmt0RVh6eXR5bjRJU0NOU2ZvZXZ3MmtRR0dqVklxQ0RpZE9ycnVMb1V2X21MMlRhLUFQMEk3Nnk0eDJoZkRuN01CcnlRNmRkXzlGV21kbDl2MnRBVXlXbVZ2ODlQZkktdGFrdEVGamlaeEFjeldnbGpMZ1lhLUFn?oc=5",
+      "auto": true
+    },
+    {
+      "date": "11.09.2026",
+      "published_at": "2026-09-11T08:17:18-04:00",
+      "title": "Your next prescription could be treating a side effect from the last one",
+      "text": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could h",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
       "auto": true
     },
     {
@@ -64,23 +74,23 @@
       "auto": true
     },
     {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T18:40:00+00:00",
-      "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - barrons.com",
-      "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. barrons.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGg4ejkxdDczVUJ3bV94WWstTS15emk4UDByd2ZoMm9ZR254MFVSTld4bHZ5b0d0cFl0d1U3U1BqbHZSci0xU0J0UXIxMkZTVzh6NF9ScTJiQzg2X1pXYzFsLVpCWVNuT3BmZlZJUUlTMzhON2xaUHVIc3RkQ2d2ckRyWkgtRklLLWt4OEY2ekVJYno3YVUwSHdUUF9KZ2lfNC1z?oc=5",
+      "date": "11.09.2026",
+      "published_at": "2026-09-10T21:08:27-04:00",
+      "title": "UCLA scientists turn cord blood into powerful cancer-fighting T cells",
+      "text": "UCLA researchers developed ready-made cancer-fighting T cells from cord blood stem cells that can attack solid tumors through two separate detection systems. In mice, a single dose controlled cancer and extended survival while avoiding a dangerous complication",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
       "auto": true
     },
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "title": "Precision Medicine Has a Commercialization Problem - fiercepharma.com",
-      "text": "Precision Medicine Has a Commercialization Problem fiercepharma.com",
+      "published_at": "2026-09-10T18:40:00+00:00",
+      "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - Barron's",
+      "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. Barron's",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVEya1pNWG1SNFVpdXdmUmZja2tuRU51bGdwd0MtcTdQT2dRbnA0WU9sdXlsQVJENnk4SmRoTWNZZnd1VEd1dzE0VGF3SXFZQ09HWDJCSFVKUk9EX2dDNjk2a1Q0YXc4YmFLM3dNX25oVUpiZnFlMGVaSzJnQnd2SlJFQ2t3UnZsRXN3WDV0bG4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGg4ejkxdDczVUJ3bV94WWstTS15emk4UDByd2ZoMm9ZR254MFVSTld4bHZ5b0d0cFl0d1U3U1BqbHZSci0xU0J0UXIxMkZTVzh6NF9ScTJiQzg2X1pXYzFsLVpCWVNuT3BmZlZJUUlTMzhON2xaUHVIc3RkQ2d2ckRyWkgtRklLLWt4OEY2ekVJYno3YVUwSHdUUF9KZ2lfNC1z?oc=5",
       "auto": true
     },
     {
@@ -96,11 +106,21 @@
     {
       "date": "10.09.2026",
       "published_at": "2026-09-10T06:46:29+00:00",
-      "title": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - clinicaltrialvanguard.com",
-      "text": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF clinicaltrialvanguard.com",
+      "title": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - The Clinical Trial Vanguard",
+      "text": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF The Clinical Trial Vanguard",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1dOekRQM3pObndDUVhjMWFCMG0ycl9mYlg1M1YxdC1Vb1NqbEVMaDNLSGYzT3BSRW1QQlFURkZva1ltNEh4WG91MXh5bFc5NjFOQTFpU21hTVVRTkhGUGV5R0xjRjU4aFNxaDN3czJuN1lBVlVVVWg5OGh5aEt4R05FN09sTDl6RGF0NmJxc0F3WHluamxUQ3dUR2tmc2pIZ3NBSHJZSkRDakdmN2IzT1pieFVWeU1oM1o0dFZROGlERGFZ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T01:13:53+00:00",
+      "title": "Insilico Medicine doses first patient in GENESIS-IPF-3, the world’s first phase III trial of a generative AI-driven innovative drug - EurekAlert!",
+      "text": "Insilico Medicine doses first patient in GENESIS-IPF-3, the world’s first phase III trial of a generative AI-driven innovative drug EurekAlert!",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JNjE2emxMYXlSdTIxRlZuV3VNOWVMaGxEcXB4a2dabF9hS19TRndRcFF3OE1XbXp4eXpJTU1TRVZoLTJxbDE0NW9yR2wya3YzWXhZU1otUmtFNWMt?oc=5",
       "auto": true
     },
     {
@@ -111,6 +131,26 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-09T23:44:05-04:00",
+      "title": "DNA treatment cuts bad cholesterol by nearly 50% without statins",
+      "text": "Researchers have designed a new DNA-based treatment that targets PCSK9, a protein closely tied to high LDL cholesterol and atherosclerosis. Their most effective molecule reduced PCSK9 protein by 87% in human liver cells and lowered cholesterol by 47% in geneti",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909225602.htm",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-09T22:56:17-04:00",
+      "title": "One sugary drink a day linked to more than double the risk of stomach cancer",
+      "text": "People who drank at least one sugar-sweetened beverage a day had roughly 2.45 times the risk of gastric cancer compared with those who rarely consumed them, according to a decades-long study of more than 112,000 U.S. adults. Artificially sweetened drinks showe",
+      "source": "ScienceDaily",
+      "category": "Farmasötik Bilimler",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
       "auto": true
     },
     {
@@ -204,26 +244,6 @@
       "auto": true
     },
     {
-      "date": "06.09.2026",
-      "published_at": "2026-09-06T11:44:48-04:00",
-      "title": "Scientists discover a hidden problem with this popular sugar substitute",
-      "text": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbitol into a form of fructose in the liver, ",
-      "source": "ScienceDaily",
-      "category": "Farmakoloji",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm",
-      "auto": true
-    },
-    {
-      "date": "05.09.2026",
-      "published_at": "2026-09-05T15:30:40-04:00",
-      "title": "Compound in blueberries may help muscle cells burn excess fat",
-      "text": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat buildup in cultured mouse muscle cells by",
-      "source": "ScienceDaily",
-      "category": "Farmakoloji",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
-      "auto": true
-    },
-    {
       "date": "04.09.2026",
       "published_at": "2026-09-04T14:00:00+02:00",
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 31 August - 3 September 2026",
@@ -245,22 +265,22 @@
     },
     {
       "date": "03.09.2026",
-      "published_at": "2026-09-03T06:29:04-04:00",
-      "title": "One immune switch may help drive aging across the body",
-      "text": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping their organs, muscles, and memory remain re",
-      "source": "ScienceDaily",
-      "category": "Farmakoloji",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -276,16 +296,6 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -296,11 +306,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -321,16 +341,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -371,26 +381,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
-      "auto": true
-    },
-    {
-      "date": "24.08.2026",
-      "published_at": "2026-08-24T09:14:50-04:00",
-      "title": "Common medications may change your gut for years",
-      "text": "Common medications may reshape the gut microbiome long after the last dose is taken. In a study of more than 2,500 people, researchers found lasting microbial changes linked not only to antibiotics, but also to antidepressants, beta-blockers, acid-reducing dru",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260824065605.htm",
-      "auto": true
-    },
-    {
-      "date": "24.08.2026",
-      "published_at": "2026-08-23T22:48:52-04:00",
-      "title": "Gut bacteria may unlock a hidden benefit of vegetables",
-      "text": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better bl",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
       "auto": true
     }
   ]
