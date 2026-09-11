@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-11T22:24:57.406656+00:00",
+  "updated_at": "2026-09-11T23:23:07.563760+00:00",
   "items": [
     {
       "date": "11.09.2026",
@@ -95,9 +95,19 @@
     },
     {
       "date": "10.09.2026",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "title": "Precision Medicine Has a Commercialization Problem - fiercepharma.com",
+      "text": "Precision Medicine Has a Commercialization Problem fiercepharma.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVEya1pNWG1SNFVpdXdmUmZja2tuRU51bGdwd0MtcTdQT2dRbnA0WU9sdXlsQVJENnk4SmRoTWNZZnd1VEd1dzE0VGF3SXFZQ09HWDJCSFVKUk9EX2dDNjk2a1Q0YXc4YmFLM3dNX25oVUpiZnFlMGVaSzJnQnd2SlJFQ2t3UnZsRXN3WDV0bG4?oc=5",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
       "published_at": "2026-09-10T07:31:34+00:00",
-      "title": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug - Insilico Medicine",
-      "text": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug Insilico Medicine",
+      "title": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug - insilico.com",
+      "text": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug insilico.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZGYxaEJhdjZOSXRvMWlfbXcwM18zRnVQeEplRldFci16U2stSUpIejkxOG5MWGxyMXJMU3lZYlVYWWF1UGE4Q05pVHRoVjdUUVVrMHhqUG1ORFFXSjJmdjlNNVhIRlFhczhYa0hrOVVrSU5PbFF6MlQ1NWNMeWd6V29Ba245cTV1Rnh0c2tNRS1CZw?oc=5",
@@ -341,16 +351,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "31.08.2026",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
-      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
       "auto": true
     },
     {
