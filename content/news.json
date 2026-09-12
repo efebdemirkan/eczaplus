@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-12T09:24:41.085936+00:00",
+  "updated_at": "2026-09-12T10:24:28.333294+00:00",
   "items": [
     {
       "date": "12.09.2026",
@@ -26,8 +26,8 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T15:44:59+00:00",
-      "title": "Lung cancer: Drug approved by FDA for pancreatic cancer may help - medicalnewstoday.com",
-      "text": "Lung cancer: Drug approved by FDA for pancreatic cancer may help medicalnewstoday.com",
+      "title": "Lung cancer: Drug approved by FDA for pancreatic cancer may help - Medical News Today",
+      "text": "Lung cancer: Drug approved by FDA for pancreatic cancer may help Medical News Today",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkZPblJhMFBiT0JILUtNZXRwTU5BemFaS1R6aUJQVGVTSzlXNUJMZjl3a2phN2p1LUdzV29RbldCSmt4bDM5ZEhESmxyVXZieGppbGFMcDFPckhmNTE5eDdKcjFpWmswMlJGMlF5VUxOT3BXT3dhZDhrVTVmY1NIWWd5V21IYTNtUVBpQ1NSUkJHUE5PYTdVRUVpV3B6clhVaEZja1IwT2d6WlYyS29kRlRGRF9FY1k?oc=5",
@@ -41,6 +41,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T23:09:26+00:00",
+      "title": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks - The People's Pharmacy",
+      "text": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks The People's Pharmacy",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0pWeEI3bEVIY2ZlT1hKVm56VlM3SzhjdV9vNWdQWlZTQ0c4MVk3SmJJMEdCUjBYUTBhUjRLcm9BbUFlSDRSdExSbk5fSGFjeVo1LVgyWm0wY3BPRjlwYU9VWGNHNHJiaWdvcVRhUnpYajh5U3JycEdhRzNqQUJqRk1tcFZmd0xYRnRjellDdGI4TmtlR045RW1DZnVCR2FMZmItZThn?oc=5",
       "auto": true
     },
     {
@@ -85,22 +95,12 @@
     },
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T17:16:19+00:00",
+      "published_at": "2026-09-10T18:40:00+00:00",
       "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - Barron's",
       "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. Barron's",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGg4ejkxdDczVUJ3bV94WWstTS15emk4UDByd2ZoMm9ZR254MFVSTld4bHZ5b0d0cFl0d1U3U1BqbHZSci0xU0J0UXIxMkZTVzh6NF9ScTJiQzg2X1pXYzFsLVpCWVNuT3BmZlZJUUlTMzhON2xaUHVIc3RkQ2d2ckRyWkgtRklLLWt4OEY2ekVJYno3YVUwSHdUUF9KZ2lfNC1z?oc=5",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "title": "Precision Medicine Has a Commercialization Problem - Fierce Pharma",
-      "text": "Precision Medicine Has a Commercialization Problem Fierce Pharma",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVEya1pNWG1SNFVpdXdmUmZja2tuRU51bGdwd0MtcTdQT2dRbnA0WU9sdXlsQVJENnk4SmRoTWNZZnd1VEd1dzE0VGF3SXFZQ09HWDJCSFVKUk9EX2dDNjk2a1Q0YXc4YmFLM3dNX25oVUpiZnFlMGVaSzJnQnd2SlJFQ2t3UnZsRXN3WDV0bG4?oc=5",
       "auto": true
     },
     {
@@ -216,8 +216,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T14:51:53+00:00",
-      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - WCM Newsroom",
-      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis WCM Newsroom",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
