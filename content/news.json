@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-12T11:23:23.926541+00:00",
+  "updated_at": "2026-09-12T12:29:13.287708+00:00",
   "items": [
     {
       "date": "12.09.2026",
@@ -21,6 +21,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkZPblJhMFBiT0JILUtNZXRwTU5BemFaS1R6aUJQVGVTSzlXNUJMZjl3a2phN2p1LUdzV29RbldCSmt4bDM5ZEhESmxyVXZieGppbGFMcDFPckhmNTE5eDdKcjFpWmswMlJGMlF5VUxOT3BXT3dhZDhrVTVmY1NIWWd5V21IYTNtUVBpQ1NSUkJHUE5PYTdVRUVpV3B6clhVaEZja1IwT2d6WlYyS29kRlRGRF9FY1k?oc=5",
+      "auto": true
+    },
+    {
+      "date": "11.09.2026",
+      "published_at": "2026-09-11T14:12:06+00:00",
+      "title": "U.S. women arrested for allegedly smuggling $1 million worth of drugs to Japan, one claims she was motivated by free trip - CBS News",
+      "text": "U.S. women arrested for allegedly smuggling $1 million worth of drugs to Japan, one claims she was motivated by free trip CBS News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDJJNEc3U0dhcG44d0t6eDBVdHY2X0FqdXg4WHVYR0ZUOGNPRFFrN1NlV3FFTkNxUGU1MXF0djJIbVRZT2lLbjItMHJ1VnRRU2xRNUVKdi05d19hWTdGX3E1LXZpXzlOVkZ1R2p6REtONEk2OTFRcnhDNi1VWkpMSDdrSWdhdw?oc=5",
       "auto": true
     },
     {
@@ -155,16 +165,6 @@
     },
     {
       "date": "09.09.2026",
-      "published_at": "2026-09-09T09:10:38+00:00",
-      "title": "AI-designed drug could slow aging; chatbots abandon referral advice when patients push back; virtual reality helped anxious patients finish cardiac scans — Morning Medical Update - Medical Economics",
-      "text": "AI-designed drug could slow aging; chatbots abandon referral advice when patients push back; virtual reality helped anxious patients finish cardiac scans — Morning Medical Update Medical Economics",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNenlwVnpRX3hYYTJwN1c3T1FPY0pqeFVJMkRtVnJUYXBVQlpNZUFZSzZuT0Y4eTRJb3ozU3V0eUhkRk1IM1VwX1ZwRk14VkQwZDNVbnNINkNscHZFLUpENXJsenRGUnVZcjFqLXhVSXYtNHVtbEFvZnNhRmd6V2FKNDljQ2VCSzMtUFJ0alNIMlp5TkQ1clR6dnctY2VURGI1N09PU1FsS3E5UlFOd3h0aVdoeVRVdjNuMXlmSHVFSHhzT0pZWFhZOE9wZ0QxZlE3MW5uSGtSV3NNdlA2WnRPbS0zWlJJSDhGeUJXQlVNU29KeHpXcjRzeDVEU21qU19pazdORS1aZVBWR2dtSDNTVHhRd3gzZk0xS3RSYXdmVmRZVVlwZHJ5NEtjbGdGTDRVZFIxVDJqYw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
       "published_at": "2026-09-09T09:06:53-04:00",
       "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
       "text": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to ",
@@ -266,21 +266,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -296,6 +286,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -306,21 +306,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -341,6 +331,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
