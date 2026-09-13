@@ -1,16 +1,36 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T03:25:44.515273+00:00",
+  "updated_at": "2026-09-13T04:26:03.683064+00:00",
   "items": [
     {
       "date": "13.09.2026",
-      "published_at": "2026-09-13T02:00:48+00:00",
+      "published_at": "2026-09-13T03:58:19+00:00",
       "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1News",
       "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1News",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2I2aGNrRnRFRDlFNE1mZGxBNUtMRUU1WkdPTG1tUUFySTFyWk9WYU5KcFBpNUVwUHlpU2ZBRVVNY292VnpROThxZVFTdmdCRHM4d0VwSnA5UW85RVpZSUtkbE9NMXZ2bEtEVkU1M3dsQ1J0RnFlbmRNTnNjTmVOdGVwTlJ5SDVoTU0yOVBNOVZhQWRiZzBqREg4WjZQeGxCQWc?oc=5",
+      "auto": true
+    },
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-12T22:18:14-04:00",
+      "title": "Ozempic and Wegovy may raise hair loss risk in some men",
+      "text": "GLP-1 drugs such as Ozempic, Wegovy, and Zepbound may increase hair-loss risk by 7% in men who are already genetically susceptible to male-pattern baldness. The findings suggest thinning hair may not be caused only by rapid weight loss and could also reflect a",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214241.htm",
+      "auto": true
+    },
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-12T21:44:05-04:00",
+      "title": "Scientists discover a hidden switch that shuts down inflammation",
+      "text": "Scientists have uncovered a natural braking system that helps the immune system switch off inflammation and prevent harmful immune cells from building up. Boosting this pathway in people reduced inflammation-related immune changes and sped up pain relief, poin",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
       "auto": true
     },
     {
@@ -36,8 +56,8 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T19:11:00+00:00",
-      "title": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says - wlox.com",
-      "text": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says wlox.com",
+      "title": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says - WLOX",
+      "text": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says WLOX",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU191RG1qSkJNUmFiNUJ0TlZLVEo1aVpFQ1R4VU9PNlF4WmJ5a2R2OGFSTV9DVDdLVjRpZmx2d1d0b3o2T005WFl0V3JIYWZpR1VMcWJLU0hiM09rVTlmOWNTRUJYNWtyOGlSQWQ1ZmVUd1JLNXJSVUg2dzNMVUZwS05qSFlWejRrNFk2WkIzdzhMNUZoUXU1RUJvNTFsR2hLdFBsYlNDdE1PTEl4cmU3LTZIdTRuMnk0cjVV0gHPAUFVX3lxTE03X0RCYTJTUUplRERrU0JlOVhjZ2JPYkttMjRKZV9zOWRMTHNnalhTNW1RNjJlMlI1T3p4R0FSNzhyZ1Q4dW96UFExSnRkWkNiVkZ4akhlc1lsWmhwejNTeGFjSlRkYm53QVJJRjgwZ3luQVlONVhleDZGZGhmU21CQmVQbGRWQmVBYVJlY0VPRV9IdHlhcU5ZUVdpWlNKTWZwSlFLcDlHQ3J5M1ViSmhQdjA2TUJSemRpbEh5REQ2eVRJczR5b2kyYnpsTTVPWQ?oc=5",
@@ -195,16 +215,6 @@
     },
     {
       "date": "08.09.2026",
-      "published_at": "2026-09-08T08:59:00-04:00",
-      "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-      "text": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. ",
-      "source": "ScienceDaily",
-      "category": "Farmakoloji",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-      "auto": true
-    },
-    {
-      "date": "08.09.2026",
       "published_at": "2026-09-08T03:37:21-04:00",
       "title": "Early statin use linked to 15% lower dementia risk",
       "text": "Starting statins soon after a type 2 diabetes diagnosis may do more than protect the heart. In a nationwide Danish study of more than 132,000 people, those who began statin treatment within a year of diagnosis had a 15% lower relative risk of developing dement",
@@ -239,7 +249,7 @@
       "title": "Cialis linked to higher glaucoma risk in large study",
       "text": "A large study of nearly 74,000 men suggests that long-term use of tadalafil, best known as Cialis, may be linked to a higher risk of glaucoma and other eye pressure problems. Men prescribed the drug for urinary symptoms caused by an enlarged prostate were 22% ",
       "source": "ScienceDaily",
-      "category": "Farmakoloji",
+      "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260906170134.htm",
       "auto": true
     },
@@ -351,26 +361,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
-      "published_at": "2026-08-30T10:35:22-04:00",
-      "title": "Common supplements rival antibiotics for severe gum disease",
-      "text": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could point to a new way to treat some patien",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm",
-      "auto": true
-    },
-    {
-      "date": "30.08.2026",
-      "published_at": "2026-08-29T21:28:13-04:00",
-      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-      "text": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectiv",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm",
       "auto": true
     },
     {
