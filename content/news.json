@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T20:25:40.507022+00:00",
+  "updated_at": "2026-09-13T21:24:17.843929+00:00",
   "items": [
     {
       "date": "13.09.2026",
       "published_at": "2026-09-13T18:59:15+00:00",
-      "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1News",
-      "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1News",
+      "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1news.co.nz",
+      "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1news.co.nz",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2I2aGNrRnRFRDlFNE1mZGxBNUtMRUU1WkdPTG1tUUFySTFyWk9WYU5KcFBpNUVwUHlpU2ZBRVVNY292VnpROThxZVFTdmdCRHM4d0VwSnA5UW85RVpZSUtkbE9NMXZ2bEtEVkU1M3dsQ1J0RnFlbmRNTnNjTmVOdGVwTlJ5SDVoTU0yOVBNOVZhQWRiZzBqREg4WjZQeGxCQWc?oc=5",
@@ -21,6 +21,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "auto": true
+    },
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-13T00:00:00-04:00",
+      "title": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels",
+      "text": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a G",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
       "auto": true
     },
     {
@@ -185,16 +195,6 @@
     },
     {
       "date": "09.09.2026",
-      "published_at": "2026-09-09T16:00:00+00:00",
-      "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - washingtonpost.com",
-      "text": "The largely hidden force helping drive America’s craze for weight-loss drugs washingtonpost.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmhrYnZHdlplOWVJYXNYWHlRLXg1YURabENudHFBUFR4bnctc3AtVXJDdnJXV000blVmZllFYjVXelc2MkhoczhrMDBwWWYxR2VZRTN1X005REQ5dFFMc1c2NHZtMjhka2VtSVI5NUhmQVlyOGVKV0dOWmJsWk9yQmRpVF80VnVSeUpnMG5FR3p6MXBWSzFwUTR4OTBzRTdBWnkyaGVUVVV1YlhLellXWExJZFVia2ZRc0E?oc=5",
-      "auto": true
-    },
-    {
-      "date": "09.09.2026",
       "published_at": "2026-09-09T09:06:53-04:00",
       "title": "Ozempic and Wegovy linked to nearly 40% fewer asthma attacks",
       "text": "Semaglutide, the drug found in Ozempic and Wegovy, was linked to nearly 40% fewer asthma attacks in a large real-world study. It was also associated with about 20% fewer COPD flare-ups. Researchers say GLP-1 drugs may offer respiratory benefits in addition to ",
@@ -276,11 +276,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -296,16 +306,6 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -316,31 +316,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
-      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -354,6 +334,16 @@
       "auto": true
     },
     {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "auto": true
+    },
+    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
@@ -361,6 +351,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
+      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
       "auto": true
     },
     {
