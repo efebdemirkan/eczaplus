@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T02:25:47.121418+00:00",
+  "updated_at": "2026-09-13T03:25:44.515273+00:00",
   "items": [
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-13T02:00:48+00:00",
+      "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1News",
+      "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1News",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2I2aGNrRnRFRDlFNE1mZGxBNUtMRUU1WkdPTG1tUUFySTFyWk9WYU5KcFBpNUVwUHlpU2ZBRVVNY292VnpROThxZVFTdmdCRHM4d0VwSnA5UW85RVpZSUtkbE9NMXZ2bEtEVkU1M3dsQ1J0RnFlbmRNTnNjTmVOdGVwTlJ5SDVoTU0yOVBNOVZhQWRiZzBqREg4WjZQeGxCQWc?oc=5",
+      "auto": true
+    },
     {
       "date": "12.09.2026",
       "published_at": "2026-09-12T10:33:54-04:00",
@@ -51,16 +61,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T23:09:26+00:00",
-      "title": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks - The People's Pharmacy",
-      "text": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks The People's Pharmacy",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0pWeEI3bEVIY2ZlT1hKVm56VlM3SzhjdV9vNWdQWlZTQ0c4MVk3SmJJMEdCUjBYUTBhUjRLcm9BbUFlSDRSdExSbk5fSGFjeVo1LVgyWm0wY3BPRjlwYU9VWGNHNHJiaWdvcVRhUnpYajh5U3JycEdhRzNqQUJqRk1tcFZmd0xYRnRjellDdGI4TmtlR045RW1DZnVCR2FMZmItZThn?oc=5",
       "auto": true
     },
     {
