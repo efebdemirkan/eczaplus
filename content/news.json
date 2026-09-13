@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T12:29:36.042346+00:00",
+  "updated_at": "2026-09-13T13:24:04.362363+00:00",
   "items": [
     {
       "date": "13.09.2026",
@@ -65,22 +65,22 @@
     },
     {
       "date": "11.09.2026",
+      "published_at": "2026-09-11T14:25:00+00:00",
+      "title": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case - WTOL",
+      "text": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case WTOL",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWRBbWtjVF9Palk5Q19ubTlKbkZ5QWx1Z2dRd0FsVXJSVHNIY2tWV1p1VkxHWlNfVjJJb1ZELURPcHBGZVh5QURDZWR3Qm1Pc282bTdQV01wdXRCb2dmRGhiMUxGbDdfbi1SaUxJMk12SWdnY2xqancxMXlwRVJxcjlCQktRbDY4MUZoS2VvVElyNEZrV2d2VER6a1VLc0NuYWxleDM1YjhDeUxBemJLcm1QcnJnRm1CcDFHSFZmYlhDZ3JGRWNYLWtfUDQ5Szh5?oc=5",
+      "auto": true
+    },
+    {
+      "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
       "text": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could h",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T23:09:26+00:00",
-      "title": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks - peoplespharmacy.com",
-      "text": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks peoplespharmacy.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0pWeEI3bEVIY2ZlT1hKVm56VlM3SzhjdV9vNWdQWlZTQ0c4MVk3SmJJMEdCUjBYUTBhUjRLcm9BbUFlSDRSdExSbk5fSGFjeVo1LVgyWm0wY3BPRjlwYU9VWGNHNHJiaWdvcVRhUnpYajh5U3JycEdhRzNqQUJqRk1tcFZmd0xYRnRjellDdGI4TmtlR045RW1DZnVCR2FMZmItZThn?oc=5",
       "auto": true
     },
     {
@@ -115,7 +115,7 @@
     },
     {
       "date": "10.09.2026",
-      "published_at": "2026-09-10T17:16:19+00:00",
+      "published_at": "2026-09-10T18:40:00+00:00",
       "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - Barron's",
       "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. Barron's",
       "source": "Google News",
