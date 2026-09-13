@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T16:25:52.613928+00:00",
+  "updated_at": "2026-09-13T17:23:44.193630+00:00",
   "items": [
-    {
-      "date": "13.09.2026",
-      "published_at": "2026-09-13T16:07:02+00:00",
-      "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1News",
-      "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2I2aGNrRnRFRDlFNE1mZGxBNUtMRUU1WkdPTG1tUUFySTFyWk9WYU5KcFBpNUVwUHlpU2ZBRVVNY292VnpROThxZVFTdmdCRHM4d0VwSnA5UW85RVpZSUtkbE9NMXZ2bEtEVkU1M3dsQ1J0RnFlbmRNTnNjTmVOdGVwTlJ5SDVoTU0yOVBNOVZhQWRiZzBqREg4WjZQeGxCQWc?oc=5",
-      "auto": true
-    },
     {
       "date": "13.09.2026",
       "published_at": "2026-09-13T06:46:19-04:00",
@@ -21,6 +11,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "auto": true
+    },
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-13T00:00:00-04:00",
+      "title": "Centric Compounding Issues Nationwide Recall of Glutathione, Myer’s Cocktail, and Tri-Immune Boost Due to Elevated Endotoxin Levels",
+      "text": "FOR IMMEDIATE RELEASE – 9/9/2026 – Houston, Texas, Centric Compounding is voluntarily recalling 6 lots of Glutathione 200mg/mL, Myer’s Cocktail, and Tri-Immune Boost injectable vials to the consumer level. The products have been found to be compounded with a G",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/centric-compounding-issues-nationwide-recall-glutathione-myers-cocktail-and-tri-immune-boost-due",
       "auto": true
     },
     {
@@ -66,8 +66,8 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T19:11:00+00:00",
-      "title": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says - WLOX",
-      "text": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says WLOX",
+      "title": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says - wlox.com",
+      "text": "Over 30 arrested, $500K in drugs seized during ‘Operation Gulf-Line,’ Harrison Co. Sheriff says wlox.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU191RG1qSkJNUmFiNUJ0TlZLVEo1aVpFQ1R4VU9PNlF4WmJ5a2R2OGFSTV9DVDdLVjRpZmx2d1d0b3o2T005WFl0V3JIYWZpR1VMcWJLU0hiM09rVTlmOWNTRUJYNWtyOGlSQWQ1ZmVUd1JLNXJSVUg2dzNMVUZwS05qSFlWejRrNFk2WkIzdzhMNUZoUXU1RUJvNTFsR2hLdFBsYlNDdE1PTEl4cmU3LTZIdTRuMnk0cjVV0gHPAUFVX3lxTE03X0RCYTJTUUplRERrU0JlOVhjZ2JPYkttMjRKZV9zOWRMTHNnalhTNW1RNjJlMlI1T3p4R0FSNzhyZ1Q4dW96UFExSnRkWkNiVkZ4akhlc1lsWmhwejNTeGFjSlRkYm53QVJJRjgwZ3luQVlONVhleDZGZGhmU21CQmVQbGRWQmVBYVJlY0VPRV9IdHlhcU5ZUVdpWlNKTWZwSlFLcDlHQ3J5M1ViSmhQdjA2TUJSemRpbEh5REQ2eVRJczR5b2kyYnpsTTVPWQ?oc=5",
@@ -85,22 +85,22 @@
     },
     {
       "date": "11.09.2026",
+      "published_at": "2026-09-11T14:25:00+00:00",
+      "title": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case - WTOL",
+      "text": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case WTOL",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWRBbWtjVF9Palk5Q19ubTlKbkZ5QWx1Z2dRd0FsVXJSVHNIY2tWV1p1VkxHWlNfVjJJb1ZELURPcHBGZVh5QURDZWR3Qm1Pc282bTdQV01wdXRCb2dmRGhiMUxGbDdfbi1SaUxJMk12SWdnY2xqancxMXlwRVJxcjlCQktRbDY4MUZoS2VvVElyNEZrV2d2VER6a1VLc0NuYWxleDM1YjhDeUxBemJLcm1QcnJnRm1CcDFHSFZmYlhDZ3JGRWNYLWtfUDQ5Szh5?oc=5",
+      "auto": true
+    },
+    {
+      "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
       "text": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could h",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
-      "auto": true
-    },
-    {
-      "date": "11.09.2026",
-      "published_at": "2026-09-11T00:00:00+00:00",
-      "title": "FDA Approves First Therapy to Target Muscle Loss in Spinal Muscular Atrophy - fda.gov",
-      "text": "FDA Approves First Therapy to Target Muscle Loss in Spinal Muscular Atrophy fda.gov",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSnNDdWtrSThzdkxNQm1zVklIT0xtV2xDTV9zU3BXZk1ncmlQU1VGekd3bVM2WnFGTWtlRTlDSFVVRUFZY1pWU2gyaHl1aFE3OHBSVVNfVkpwOFlUWURULTV1LTNtZ1AzUFZCb0duYi15c2dVT2E4Nkx5VXdiMkoyQWxXQVFQZWx4UEI4WFVObXBmMGkyUjhmQWh1dC1SbTdYNVBkd09UNHQ2cVk5ZHRKNFllQlVlTURHTGRV?oc=5",
       "auto": true
     },
     {
@@ -146,8 +146,8 @@
     {
       "date": "10.09.2026",
       "published_at": "2026-09-10T06:46:29+00:00",
-      "title": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - clinicaltrialvanguard.com",
-      "text": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF clinicaltrialvanguard.com",
+      "title": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF - The Clinical Trial Vanguard",
+      "text": "Insilico Medicine Begins Phase III Trial of AI-Discovered Drug Rentosertib for IPF The Clinical Trial Vanguard",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY1dOekRQM3pObndDUVhjMWFCMG0ycl9mYlg1M1YxdC1Vb1NqbEVMaDNLSGYzT3BSRW1QQlFURkZva1ltNEh4WG91MXh5bFc5NjFOQTFpU21hTVVRTkhGUGV5R0xjRjU4aFNxaDN3czJuN1lBVlVVVWg5OGh5aEt4R05FN09sTDl6RGF0NmJxc0F3WHluamxUQ3dUR2tmc2pIZ3NBSHJZSkRDakdmN2IzT1pieFVWeU1oM1o0dFZROGlERGFZ?oc=5",
@@ -344,16 +344,6 @@
       "auto": true
     },
     {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
@@ -361,6 +351,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
+      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
       "auto": true
     },
     {
