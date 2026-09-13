@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T13:24:04.362363+00:00",
+  "updated_at": "2026-09-13T14:24:36.838323+00:00",
   "items": [
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-13T06:46:19-04:00",
+      "title": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+      "text": "AI analysis of 400,000 Reddit posts found that users of drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound reported unexpected symptoms including menstrual changes, chills, hot flashes, and fatigue. Researchers cannot say the medications caused these proble",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "auto": true
+    },
     {
       "date": "13.09.2026",
       "published_at": "2026-09-12T22:18:14-04:00",
@@ -56,21 +66,11 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T15:44:59+00:00",
-      "title": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today",
-      "text": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer Medical News Today",
+      "title": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - medicalnewstoday.com",
+      "text": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer medicalnewstoday.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkZPblJhMFBiT0JILUtNZXRwTU5BemFaS1R6aUJQVGVTSzlXNUJMZjl3a2phN2p1LUdzV29RbldCSmt4bDM5ZEhESmxyVXZieGppbGFMcDFPckhmNTE5eDdKcjFpWmswMlJGMlF5VUxOT3BXT3dhZDhrVTVmY1NIWWd5V21IYTNtUVBpQ1NSUkJHUE5PYTdVRUVpV3B6clhVaEZja1IwT2d6WlYyS29kRlRGRF9FY1k?oc=5",
-      "auto": true
-    },
-    {
-      "date": "11.09.2026",
-      "published_at": "2026-09-11T14:25:00+00:00",
-      "title": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case - WTOL",
-      "text": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case WTOL",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWRBbWtjVF9Palk5Q19ubTlKbkZ5QWx1Z2dRd0FsVXJSVHNIY2tWV1p1VkxHWlNfVjJJb1ZELURPcHBGZVh5QURDZWR3Qm1Pc282bTdQV01wdXRCb2dmRGhiMUxGbDdfbi1SaUxJMk12SWdnY2xqancxMXlwRVJxcjlCQktRbDY4MUZoS2VvVElyNEZrV2d2VER6a1VLc0NuYWxleDM1YjhDeUxBemJLcm1QcnJnRm1CcDFHSFZmYlhDZ3JGRWNYLWtfUDQ5Szh5?oc=5",
       "auto": true
     },
     {
@@ -81,6 +81,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T23:09:26+00:00",
+      "title": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks - peoplespharmacy.com",
+      "text": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks peoplespharmacy.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0pWeEI3bEVIY2ZlT1hKVm56VlM3SzhjdV9vNWdQWlZTQ0c4MVk3SmJJMEdCUjBYUTBhUjRLcm9BbUFlSDRSdExSbk5fSGFjeVo1LVgyWm0wY3BPRjlwYU9VWGNHNHJiaWdvcVRhUnpYajh5U3JycEdhRzNqQUJqRk1tcFZmd0xYRnRjellDdGI4TmtlR045RW1DZnVCR2FMZmItZThn?oc=5",
       "auto": true
     },
     {
@@ -176,8 +186,8 @@
     {
       "date": "09.09.2026",
       "published_at": "2026-09-09T16:00:00+00:00",
-      "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - The Washington Post",
-      "text": "The largely hidden force helping drive America’s craze for weight-loss drugs The Washington Post",
+      "title": "The largely hidden force helping drive America’s craze for weight-loss drugs - washingtonpost.com",
+      "text": "The largely hidden force helping drive America’s craze for weight-loss drugs washingtonpost.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmhrYnZHdlplOWVJYXNYWHlRLXg1YURabENudHFBUFR4bnctc3AtVXJDdnJXV000blVmZllFYjVXelc2MkhoczhrMDBwWWYxR2VZRTN1X005REQ5dFFMc1c2NHZtMjhka2VtSVI5NUhmQVlyOGVKV0dOWmJsWk9yQmRpVF80VnVSeUpnMG5FR3p6MXBWSzFwUTR4OTBzRTdBWnkyaGVUVVV1YlhLellXWExJZFVia2ZRc0E?oc=5",
@@ -199,7 +209,7 @@
       "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
       "text": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial ",
       "source": "ScienceDaily",
-      "category": "Farmakoloji",
+      "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
       "auto": true
     },
@@ -351,16 +361,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "29.08.2026",
-      "published_at": "2026-08-29T06:52:20-04:00",
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "text": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
       "auto": true
     },
     {
