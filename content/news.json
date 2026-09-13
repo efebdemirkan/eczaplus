@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-13T04:26:03.683064+00:00",
+  "updated_at": "2026-09-13T05:24:17.810249+00:00",
   "items": [
-    {
-      "date": "13.09.2026",
-      "published_at": "2026-09-13T03:58:19+00:00",
-      "title": "Medicine company bids to get pseudoephedrine on pharmacy shelves - 1News",
-      "text": "Medicine company bids to get pseudoephedrine on pharmacy shelves 1News",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2I2aGNrRnRFRDlFNE1mZGxBNUtMRUU1WkdPTG1tUUFySTFyWk9WYU5KcFBpNUVwUHlpU2ZBRVVNY292VnpROThxZVFTdmdCRHM4d0VwSnA5UW85RVpZSUtkbE9NMXZ2bEtEVkU1M3dsQ1J0RnFlbmRNTnNjTmVOdGVwTlJ5SDVoTU0yOVBNOVZhQWRiZzBqREg4WjZQeGxCQWc?oc=5",
-      "auto": true
-    },
     {
       "date": "13.09.2026",
       "published_at": "2026-09-12T22:18:14-04:00",
@@ -85,6 +75,16 @@
     },
     {
       "date": "10.09.2026",
+      "published_at": "2026-09-10T23:09:26+00:00",
+      "title": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks - The People's Pharmacy",
+      "text": "Pelacarsen Failure: Heart Drug Lowers Lp(a) but NOT Heart Attacks The People's Pharmacy",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0pWeEI3bEVIY2ZlT1hKVm56VlM3SzhjdV9vNWdQWlZTQ0c4MVk3SmJJMEdCUjBYUTBhUjRLcm9BbUFlSDRSdExSbk5fSGFjeVo1LVgyWm0wY3BPRjlwYU9VWGNHNHJiaWdvcVRhUnpYajh5U3JycEdhRzNqQUJqRk1tcFZmd0xYRnRjellDdGI4TmtlR045RW1DZnVCR2FMZmItZThn?oc=5",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
       "published_at": "2026-09-10T22:30:01+00:00",
       "title": "Potentially harmful drug combinations prescribed to older adults identified - Medical Xpress",
       "text": "Potentially harmful drug combinations prescribed to older adults identified Medical Xpress",
@@ -106,8 +106,8 @@
     {
       "date": "10.09.2026",
       "published_at": "2026-09-10T21:12:00+00:00",
-      "title": "5th annual Harlan County Drug Summit brings medical professionals, recovered users together - WYMT",
-      "text": "5th annual Harlan County Drug Summit brings medical professionals, recovered users together WYMT",
+      "title": "5th annual Harlan County Drug Summit brings medical professionals, recovered users together - wymt.com",
+      "text": "5th annual Harlan County Drug Summit brings medical professionals, recovered users together wymt.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFZCZ090eVhGdjdfVFhONEF0Z0czVVVxc2otN1BRR25TNlFsb1BqeVpOQ0NfNENSQ3pQZmJwdzdhUndRajY2amFNQzdOTkgySk9keXJwenJSYWZpdjJqRkxxZEdDWWFRZDNOWnhtcU1iZ3VlcGV5c25kYjNNYlM1cHBEaG1qWnpZR3FiUnFqU3RzRGo3RGVpQWdseUZXV3FPMFdWVU50cFRoRWxsb3RfNGh3LXBwa0JBYXFONl9ONnnSAdQBQVVfeXFMUEFRVEIyWUlvWldBcEYyMlhDZ0dBODg4TG9hMEVnWWRhN3lqVmNKeU1qcEY2OEJKa29YYnllcUFhVmdHS3V5SldJbENodDJLdF9fRzN0cDk3Yk5MX2dEeTZpWDJNclpuMXozbjRMZ3hrRDlyalV3dEVjWGVqdk9Qd2g3V1NRZ19EODZOUk1RbzdxUDdkdVVPWXhDU3J6TkNzRDVpOG5XOUY0X1ZFYTVVYVRxMXY2UW02OUtBVklMV2N4T2hnNGVDT1JtbmNNRXl0cDN2U3I?oc=5",
@@ -236,8 +236,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T14:51:53+00:00",
-      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - WCM Newsroom",
-      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis WCM Newsroom",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
@@ -276,11 +276,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -296,16 +306,6 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -316,11 +316,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
@@ -341,16 +351,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
