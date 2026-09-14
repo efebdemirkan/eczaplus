@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T22:27:25.847622+00:00",
+  "updated_at": "2026-09-14T23:23:52.210418+00:00",
   "items": [
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T14:08:00+00:00",
+      "title": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers - finance.biggo.com",
+      "text": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers finance.biggo.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlNjdXU3pHUFE2Qm5YVjdpWTVCdXgxakhOUk94SVBLTWExS25ScjFISlRIbHJ6YzhKM29NRkthbERIM0ZUWVI4a0Y5TTE5WXBHVVJPSmttUVI1MXc?oc=5",
+      "auto": true
+    },
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T09:57:49-04:00",
@@ -15,12 +25,52 @@
     },
     {
       "date": "14.09.2026",
+      "published_at": "2026-09-14T09:30:00+00:00",
+      "title": "One State’s Battle to Stop People From Taking Unapproved Weight-Loss Drugs - WSJ",
+      "text": "One State’s Battle to Stop People From Taking Unapproved Weight-Loss Drugs WSJ",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMi1UYnZyZWZxYzMyM2hHUWR5QTlYaVFpN0ZBRWFROWFpVzg2ZFdicDNqQjVtZFdOeWprcklVcjJWS285bThpbUpTX0pRdVVjV2N5OERGTHNjSjNNamszWXZKclVkY0lhbUd4amQyQ2g3bEVTcU9heFdJYjEwVjdSVzh6XzY2c283MzFZLVhBOHAxRW5sSjZ1bkl4VndJSGNwZVBJVm9yeWVreDdjM09hX2hIZ2ZrMzQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
       "published_at": "2026-09-14T08:52:54-04:00",
       "title": "Scientists discover strange link between low vitamin D and pain",
       "text": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 h",
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T08:20:57+00:00",
+      "title": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies - EL PAÍS English",
+      "text": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies EL PAÍS English",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBQeWtHeTZnV2NEX01oN2ZRRlhUY2Z5M0RkN3ZYVExCbHp0U21xTlpfNUNpMXlvNktFemJJazlvcjNWQW5HaFJYemxHLVFMUHJna1JjQjJFUG5nTjRnS28zM012RGZFT2MwNFNJQlhzNjNZUlRmTGFndno3bDZsa0w4NWZrbXNEMXVabGU5WVVLZmp5ODZxckRiWEVkcUY3ZEJSS1VZR0ZfbS1CNUZhX3FDUHgxal9VRDF2MUlnU3hJaHJuT1QxcjVfeUoycm1DNkVueHB3d3ByakQ40gHwAUFVX3lxTE95VTNBMVFOUEFOWHNDTFA2Qmt2YUdxeUo1NWhuYmFsUlJoX1Z3dmp3ZjJWSTVKTG1wcnlBemRITk5QMmFHWGpUREdKMGtiUnhmSnVKc0RkQ0ZadVdSektOM0NNYzlhVi10RUYwdm1YT1dIWW9Dek9QUUdWNU9jREpNbW1iRF9QSElid1NZaEZ0MVdIUE9OUEZzY0swaHc0OV9aLVc5THFtcXNZa1dTcXlvd3l6VWlILVEzZWp3Um9PaGl4cmNGSXJXR1I0OXk3cUZFSElHREJyZHF3STV0RG5EZmJKRGFOeWk0T1NKTk80SQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T05:03:21+00:00",
+      "title": "US push to cut drug prices could mean longer waits for European patients - Euronews.com",
+      "text": "US push to cut drug prices could mean longer waits for European patients Euronews.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T04:00:04+00:00",
+      "title": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths - Medical Xpress",
+      "text": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths Medical Xpress",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVaeXBRd3FKemhiM1lESUQzeDl2U3Vtb2dxV09TXzNfVVplQ1FuT2tMdWIycVQxZDBZcXVlVGpnQW10VGtjQnlxQ01YZjNPRkh4YXQ3cFZkSTNyai01X0RLLVZ3eE5Qd3htempQTFduWV9WcVZRb3ZvS21xeDZOcE9oRnBLaFFkNjc4X29sOEw?oc=5",
       "auto": true
     },
     {
@@ -94,6 +144,16 @@
       "auto": true
     },
     {
+      "date": "12.09.2026",
+      "published_at": "2026-09-12T00:40:00+00:00",
+      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - Yahoo Finance",
+      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs Yahoo Finance",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnVtQjNRV25CbVY1bGpCNkVDeWJQaW1lX3V5SUY4OVhTYkZMejRQOTV5WkN6WWpwN3V0ZGtYUmw5ck42WjRmaWUxRmpBZ0JRSFdKRkRsWVpaNm5rSFFyZVRLZzhzQXdaY2tzemwyYkNLSnU5ZnludzN3a25SMWhDYVNkTWZJTVpHcGIxRTN5MUc3LThPOFN3Nm9qZ3kxUQ?oc=5",
+      "auto": true
+    },
+    {
       "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
@@ -144,6 +204,16 @@
       "auto": true
     },
     {
+      "date": "07.09.2026",
+      "published_at": "2026-09-07T14:51:53+00:00",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
+      "auto": true
+    },
+    {
       "date": "04.09.2026",
       "published_at": "2026-09-04T14:00:00+02:00",
       "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 31 August - 3 September 2026",
@@ -166,11 +236,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -186,16 +256,6 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -206,21 +266,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
@@ -234,6 +294,16 @@
       "auto": true
     },
     {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "auto": true
+    },
+    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
@@ -241,6 +311,56 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
+      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
+      "auto": true
+    },
+    {
+      "date": "21.08.2026",
+      "published_at": "2026-08-21T07:00:00+00:00",
+      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
+      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
+      "auto": true
+    },
+    {
+      "date": "13.08.2026",
+      "published_at": "2026-08-13T07:00:00+00:00",
+      "title": "Nonprescription Drug Product with an ACNU - fda.gov",
+      "text": "Nonprescription Drug Product with an ACNU fda.gov",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLXFGcHUyZGNMSU9oSnItVi1feWpabkNxWDNEcE1RWUVxeUQ2YTREOVFQZkhWVHg3YzhBQVc1ZFFxZi04SU9SbHdvcTJwOUlVd0g1dWxXcGlXcVRPSUprc2k4VXJqcmlici1jSVY1WVRPU1dVdFJXb0xuM0Z5cGZhY09OMnl5azJrVGNQU3NrbnJXRGk0c1p0NVFFQ3ZFb2ZXVDc5bUhFMy1FNTBIRFQwVkM0RlM4RnJiZHR5bE15MkI5eEpEX1VPdjNsZ3dNTjA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "03.08.2026",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
+      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "30.07.2026",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
       "auto": true
     }
   ]
