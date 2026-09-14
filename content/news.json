@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T10:27:09.219195+00:00",
+  "updated_at": "2026-09-14T11:27:32.746207+00:00",
   "items": [
     {
       "date": "14.09.2026",
@@ -121,16 +121,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T18:40:00+00:00",
-      "title": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. - Barron's",
-      "text": "Revolution Medicines Got a ‘Miracle’ Cancer Drug Approval. Wall Street Wants More. Barron's",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGg4ejkxdDczVUJ3bV94WWstTS15emk4UDByd2ZoMm9ZR254MFVSTld4bHZ5b0d0cFl0d1U3U1BqbHZSci0xU0J0UXIxMkZTVzh6NF9ScTJiQzg2X1pXYzFsLVpCWVNuT3BmZlZJUUlTMzhON2xaUHVIc3RkQ2d2ckRyWkgtRklLLWt4OEY2ekVJYno3YVUwSHdUUF9KZ2lfNC1z?oc=5",
       "auto": true
     },
     {
@@ -366,11 +356,21 @@
     {
       "date": "03.08.2026",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
-      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
+      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - wvumedicine.org",
+      "text": "New WVU Medicine Community Pharmacy opens in Morgantown wvumedicine.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "23.06.2026",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "title": "Shifting the goalposts in obesity drug development - Nature",
+      "text": "Shifting the goalposts in obesity drug development Nature",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45RENlRmk1eUt3Z0lZV0hnNGtPeDRFME5lV1k4UmFuWWJkblZNS2dxNUYxc2x0blpOcG5YbFNZU2RoZGlZc3l3d0lXczFxTVI4UjB2MUlBUGdkWXgwOVRz?oc=5",
       "auto": true
     }
   ]
