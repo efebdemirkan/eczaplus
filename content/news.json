@@ -1,23 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T05:25:59.381463+00:00",
+  "updated_at": "2026-09-14T06:34:21.939098+00:00",
   "items": [
     {
       "date": "14.09.2026",
-      "published_at": "2026-09-14T04:08:20+00:00",
-      "title": "Cannabis: do workplaces have a problem with ‘drug thinking’? - Personnel Today",
-      "text": "Cannabis: do workplaces have a problem with ‘drug thinking’? Personnel Today",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEgwcVJTZEdHTHE1ZEYtR25VSzViVEg4amFFZ29jYjFiajRwMXR1NjN1anRhWGhnWVpuYnNQNjlNcXZlbGFObldtRm5fV1RidVV5OWRIYXc4UlpLc3dSNzdndVgwU2JtX0thQzRqcWlaRDlpaDRaTkdMWW9XbkRGRFZsSktGdWtnMmpIRXdIeHFXeGwyaWc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
       "published_at": "2026-09-14T04:00:04+00:00",
-      "title": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths - medicalxpress.com",
-      "text": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths medicalxpress.com",
+      "title": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths - Medical Xpress",
+      "text": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths Medical Xpress",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVaeXBRd3FKemhiM1lESUQzeDl2U3Vtb2dxV09TXzNfVVplQ1FuT2tMdWIycVQxZDBZcXVlVGpnQW10VGtjQnlxQ01YZjNPRkh4YXQ3cFZkSTNyai01X0RLLVZ3eE5Qd3htempQTFduWV9WcVZRb3ZvS21xeDZOcE9oRnBLaFFkNjc4X29sOEw?oc=5",
@@ -106,8 +96,8 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T15:44:59+00:00",
-      "title": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - Medical News Today",
-      "text": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer Medical News Today",
+      "title": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer - medicalnewstoday.com",
+      "text": "Pancreatic cancer drug may also help fight treatment-resistant lung cancer medicalnewstoday.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkZPblJhMFBiT0JILUtNZXRwTU5BemFaS1R6aUJQVGVTSzlXNUJMZjl3a2phN2p1LUdzV29RbldCSmt4bDM5ZEhESmxyVXZieGppbGFMcDFPckhmNTE5eDdKcjFpWmswMlJGMlF5VUxOT3BXT3dhZDhrVTVmY1NIWWd5V21IYTNtUVBpQ1NSUkJHUE5PYTdVRUVpV3B6clhVaEZja1IwT2d6WlYyS29kRlRGRF9FY1k?oc=5",
@@ -371,6 +361,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "03.08.2026",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - wvumedicine.org",
+      "text": "New WVU Medicine Community Pharmacy opens in Morgantown wvumedicine.org",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
       "auto": true
     }
   ]
