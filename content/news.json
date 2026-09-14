@@ -1,18 +1,8 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T17:25:17.228239+00:00",
+  "updated_at": "2026-09-14T18:30:03.015772+00:00",
   "items": [
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T12:19:01+00:00",
-      "title": "Call for medicine reviews to cut adverse drug reaction hospitalisations - thepharmacist.co.uk",
-      "text": "Call for medicine reviews to cut adverse drug reaction hospitalisations thepharmacist.co.uk",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW4tVVlkQ1FKdW0yLUNDOVNUd1BLRG90dmJHb2txdDFMaHpOVkNFTDMwX25aQm5XWHd2bDZnUzVwSi1WVnVyVldNWlBKczlTSFhqTTE3Zi1qd1ltMzRjc19CdHBxUURNVzJud1VNZFRYRS1RM1hpNk9TamMzSld1SWlncWNuWmgzWTk0S0FmeS1RZGxqNG11cE9SdGxjc1o5WkJscmlJS0NVUkNTQllYcDZKTkk?oc=5",
-      "auto": true
-    },
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T09:57:49-04:00",
@@ -46,8 +36,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T05:03:21+00:00",
-      "title": "US push to cut drug prices could mean longer waits for European patients - Euronews.com",
-      "text": "US push to cut drug prices could mean longer waits for European patients Euronews.com",
+      "title": "US push to cut drug prices could mean longer waits for European patients - euronews.com",
+      "text": "US push to cut drug prices could mean longer waits for European patients euronews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
@@ -136,8 +126,8 @@
     {
       "date": "12.09.2026",
       "published_at": "2026-09-12T00:40:00+00:00",
-      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - Yahoo Finance",
-      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs Yahoo Finance",
+      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - finance.yahoo.com",
+      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs finance.yahoo.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnVtQjNRV25CbVY1bGpCNkVDeWJQaW1lX3V5SUY4OVhTYkZMejRQOTV5WkN6WWpwN3V0ZGtYUmw5ck42WjRmaWUxRmpBZ0JRSFdKRkRsWVpaNm5rSFFyZVRLZzhzQXdaY2tzemwyYkNLSnU5ZnludzN3a25SMWhDYVNkTWZJTVpHcGIxRTN5MUc3LThPOFN3Nm9qZ3kxUQ?oc=5",
@@ -146,8 +136,8 @@
     {
       "date": "11.09.2026",
       "published_at": "2026-09-11T19:20:25+00:00",
-      "title": "The treatment for a fatal cat disease wasn’t legally available. So cat lovers created an international black market. - revealnews.org",
-      "text": "The treatment for a fatal cat disease wasn’t legally available. So cat lovers created an international black market. revealnews.org",
+      "title": "The treatment for a fatal cat disease wasn’t legally available. So cat lovers created an international black market. - Reveal from The Center for Investigative Reporting",
+      "text": "The treatment for a fatal cat disease wasn’t legally available. So cat lovers created an international black market. Reveal from The Center for Investigative Reporting",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXJ0RVdBQ3lDdE0yOE9IZnFGZUdCek0zRTJ1NWZ1VUJUMHZZcjhSYTVZaVRvcTZxMFhVY29vVDZLMUV4NVV6NTNhZk4xQWh4Z0d2T1NxTWExa0p2TllyTUdEVHRQVWVpblVITUpFYkduNjhCVmw5d1BWeldCdE1Sa05MOVN4cklPNVdZa3FnX1FRYXlocHRTVXVCMlhwcHBnZkJHbEh6NA?oc=5",
@@ -356,11 +346,21 @@
     {
       "date": "30.07.2026",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - insilico.com",
-      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science insilico.com",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "23.06.2026",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "title": "Shifting the goalposts in obesity drug development - Nature",
+      "text": "Shifting the goalposts in obesity drug development Nature",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45RENlRmk1eUt3Z0lZV0hnNGtPeDRFME5lV1k4UmFuWWJkblZNS2dxNUYxc2x0blpOcG5YbFNZU2RoZGlZc3l3d0lXczFxTVI4UjB2MUlBUGdkWXgwOVRz?oc=5",
       "auto": true
     }
   ]
