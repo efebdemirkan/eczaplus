@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T12:33:39.751354+00:00",
+  "updated_at": "2026-09-14T13:29:46.373195+00:00",
   "items": [
     {
       "date": "14.09.2026",
@@ -76,8 +76,8 @@
     {
       "date": "12.09.2026",
       "published_at": "2026-09-12T00:40:00+00:00",
-      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - finance.yahoo.com",
-      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs finance.yahoo.com",
+      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - Yahoo Finance",
+      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs Yahoo Finance",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnVtQjNRV25CbVY1bGpCNkVDeWJQaW1lX3V5SUY4OVhTYkZMejRQOTV5WkN6WWpwN3V0ZGtYUmw5ck42WjRmaWUxRmpBZ0JRSFdKRkRsWVpaNm5rSFFyZVRLZzhzQXdaY2tzemwyYkNLSnU5ZnludzN3a25SMWhDYVNkTWZJTVpHcGIxRTN5MUc3LThPOFN3Nm9qZ3kxUQ?oc=5",
@@ -121,16 +121,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-10T07:31:34+00:00",
-      "title": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug - Insilico Medicine",
-      "text": "Insilico Medicine Doses First Patient in GENESIS-IPF-3, the World’s First Phase III Trial of a Generative AI-Driven Innovative Drug Insilico Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZGYxaEJhdjZOSXRvMWlfbXcwM18zRnVQeEplRldFci16U2stSUpIejkxOG5MWGxyMXJMU3lZYlVYWWF1UGE4Q05pVHRoVjdUUVVrMHhqUG1ORFFXSjJmdjlNNVhIRlFhczhYa0hrOVVrSU5PbFF6MlQ1NWNMeWd6V29Ba245cTV1Rnh0c2tNRS1CZw?oc=5",
       "auto": true
     },
     {
@@ -361,6 +351,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "30.07.2026",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
       "auto": true
     },
     {
