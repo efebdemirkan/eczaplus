@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T01:25:53.275850+00:00",
+  "updated_at": "2026-09-14T02:27:15.858590+00:00",
   "items": [
     {
       "date": "13.09.2026",
@@ -95,16 +95,6 @@
     },
     {
       "date": "11.09.2026",
-      "published_at": "2026-09-11T14:25:00+00:00",
-      "title": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case - WTOL",
-      "text": "Toledo-area doctor sentenced to 6 months in forced abortion-drug case WTOL",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWRBbWtjVF9Palk5Q19ubTlKbkZ5QWx1Z2dRd0FsVXJSVHNIY2tWV1p1VkxHWlNfVjJJb1ZELURPcHBGZVh5QURDZWR3Qm1Pc282bTdQV01wdXRCb2dmRGhiMUxGbDdfbi1SaUxJMk12SWdnY2xqancxMXlwRVJxcjlCQktRbDY4MUZoS2VvVElyNEZrV2d2VER6a1VLc0NuYWxleDM1YjhDeUxBemJLcm1QcnJnRm1CcDFHSFZmYlhDZ3JGRWNYLWtfUDQ5Szh5?oc=5",
-      "auto": true
-    },
-    {
-      "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
       "text": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could h",
@@ -131,6 +121,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909231723.htm",
+      "auto": true
+    },
+    {
+      "date": "10.09.2026",
+      "published_at": "2026-09-10T20:28:00+00:00",
+      "title": "FDA to consider ‘innovative approaches’ to psychedelic drug development - RAPS",
+      "text": "FDA to consider ‘innovative approaches’ to psychedelic drug development RAPS",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVdDZWNOQlpEN2tuTFc3VUV2SWd6dDBsNWEtMzN2Q1c4YmFVQmFqMkpidHFUNUpPTHU1cUxvZm9iRDRqMmNrV19wWFZjMEFpUFJZdlpzeWFSem5NMXA0b3BORTBPTnFEX1FHZHFWZlBEVVkxRXNWV2MySlFNS3NaWnBGLTBuc1BYbEtQNlpDTkgtZEZ6UzVUWF9fZ05oT2V5a2kyUEtkYw?oc=5",
       "auto": true
     },
     {
