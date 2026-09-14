@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T19:27:33.011215+00:00",
+  "updated_at": "2026-09-14T20:26:23.952390+00:00",
   "items": [
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T14:08:00+00:00",
+      "title": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers - finance.biggo.com",
+      "text": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers finance.biggo.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlNjdXU3pHUFE2Qm5YVjdpWTVCdXgxakhOUk94SVBLTWExS25ScjFISlRIbHJ6YzhKM29NRkthbERIM0ZUWVI4a0Y5TTE5WXBHVVJPSmttUVI1MXc?oc=5",
+      "auto": true
+    },
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T09:57:49-04:00",
@@ -314,16 +324,6 @@
       "auto": true
     },
     {
-      "date": "18.08.2026",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "title": "Trump is taking credit for sharply declining drug prices. The reality is more complex - PBS",
-      "text": "Trump is taking credit for sharply declining drug prices. The reality is more complex PBS",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3BaQTEtUnVycERKRGFKNnlmdm05N0hLdmJuaHNkTi1JUDJTZTBUUDdZV0pMWWRoZFZLMVVhWHNvUzVSYXZ5b09GTHpzS2Vld1RkajVCRjFPWDk3c1VXYkZyRDdyX25SQm1Uc1dhemd1WnNra29iT1hVU3VlNmowazBxdXR5ODI2N3FXaUpBcUtFLUlYaklUMGY5aWdEQWpkUERhM0VwcGJUbG5neVFDbVNfOVpJeE9YdWpIMA?oc=5",
-      "auto": true
-    },
-    {
       "date": "13.08.2026",
       "published_at": "2026-08-13T07:00:00+00:00",
       "title": "Nonprescription Drug Product with an ACNU - fda.gov",
@@ -346,8 +346,8 @@
     {
       "date": "30.07.2026",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
-      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - insilico.com",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science insilico.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
