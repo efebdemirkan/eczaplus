@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T04:28:12.680099+00:00",
+  "updated_at": "2026-09-15T05:27:07.948316+00:00",
   "items": [
+    {
+      "date": "15.09.2026",
+      "published_at": "2026-09-15T05:00:00+00:00",
+      "title": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide - The Jerusalem Post",
+      "text": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide The Jerusalem Post",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmF0RHNkWHBZLTRfRnFlanphTGhIOHdQLVljT1lOM2pQcWdZWU5SV3Rqc0dZN2EwMGJZOXlVUXlhOEROUl9HcUF4VkQ1aUJfNGxjbWRVMVU0cXJCZ1R6djdHeDFKSEl4UHg5WTVzU05RQkJQYzA3T1RNNkZ0WnUtNmZFWlFLOTJaZ0R2R2g1bkRkR1VYRnNOag?oc=5",
+      "auto": true
+    },
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T20:48:00+00:00",
@@ -45,6 +55,16 @@
     },
     {
       "date": "14.09.2026",
+      "published_at": "2026-09-14T09:00:10+00:00",
+      "title": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco - The New York Times",
+      "text": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckt2ZFNZX21TcDlqRFRFbUtLejZpamVrbjBrcHpIQ0ZSZFJveHhhU3VZWHFGVVhLekR2U3ZDejllTmdzQVdBUFhWS1RyekJNYkhnRFhzd0w4ejh5MzZtdTM3RWJFM196YkNlRVlEajFHcXY1ck5FM0VQdjNZMWZZNzQ3Zw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
       "published_at": "2026-09-14T08:52:54-04:00",
       "title": "Scientists discover strange link between low vitamin D and pain",
       "text": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 h",
@@ -71,16 +91,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T04:00:04+00:00",
-      "title": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths - medicalxpress.com",
-      "text": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths medicalxpress.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVaeXBRd3FKemhiM1lESUQzeDl2U3Vtb2dxV09TXzNfVVplQ1FuT2tMdWIycVQxZDBZcXVlVGpnQW10VGtjQnlxQ01YZjNPRkh4YXQ3cFZkSTNyai01X0RLLVZ3eE5Qd3htempQTFduWV9WcVZRb3ZvS21xeDZOcE9oRnBLaFFkNjc4X29sOEw?oc=5",
       "auto": true
     },
     {
@@ -156,8 +166,8 @@
     {
       "date": "12.09.2026",
       "published_at": "2026-09-12T00:40:00+00:00",
-      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - finance.yahoo.com",
-      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs finance.yahoo.com",
+      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - Yahoo Finance",
+      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs Yahoo Finance",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnVtQjNRV25CbVY1bGpCNkVDeWJQaW1lX3V5SUY4OVhTYkZMejRQOTV5WkN6WWpwN3V0ZGtYUmw5ck42WjRmaWUxRmpBZ0JRSFdKRkRsWVpaNm5rSFFyZVRLZzhzQXdaY2tzemwyYkNLSnU5ZnludzN3a25SMWhDYVNkTWZJTVpHcGIxRTN5MUc3LThPOFN3Nm9qZ3kxUQ?oc=5",
@@ -246,11 +256,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -266,6 +276,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -276,31 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
-      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -311,6 +311,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
       "auto": true
     },
     {
@@ -334,20 +344,10 @@
       "auto": true
     },
     {
-      "date": "21.08.2026",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "title": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients - UChicago Medicine",
-      "text": "New pancreatic cancer drug at UChicago Medicine may double survival for late-stage patients UChicago Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGt4R1V0SlRPSm4zYmhWVER3MDU2S1BUckcyTnNQcHI4bUNfUnJ4YXJfaVhYeXBtRnpjSFJfam9OOGJwaFJSbWdpUmhZdkJldENXS2lEc1JaRlNFV3I3V0VDSjA5LXBLX3FNY21xR2RxSG5VQng2cktjODhxaE8tbFlqNThTbmk5bXgweWdVWEloXzNXVVpsSmpOT1RYVjRrWHk1c3Z4RXhhdE9ua3hTUWl0dXlPdmRhdFE?oc=5",
-      "auto": true
-    },
-    {
       "date": "03.08.2026",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
-      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
+      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - wvumedicine.org",
+      "text": "New WVU Medicine Community Pharmacy opens in Morgantown wvumedicine.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
@@ -356,8 +356,8 @@
     {
       "date": "30.07.2026",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - insilico.com",
-      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science insilico.com",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
