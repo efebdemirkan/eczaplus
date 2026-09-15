@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T12:31:25.611479+00:00",
+  "updated_at": "2026-09-15T13:28:06.222373+00:00",
   "items": [
     {
       "date": "15.09.2026",
@@ -26,11 +26,21 @@
     {
       "date": "15.09.2026",
       "published_at": "2026-09-15T05:00:00+00:00",
-      "title": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide - jpost.com",
-      "text": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide jpost.com",
+      "title": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide - The Jerusalem Post",
+      "text": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide The Jerusalem Post",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmF0RHNkWHBZLTRfRnFlanphTGhIOHdQLVljT1lOM2pQcWdZWU5SV3Rqc0dZN2EwMGJZOXlVUXlhOEROUl9HcUF4VkQ1aUJfNGxjbWRVMVU0cXJCZ1R6djdHeDFKSEl4UHg5WTVzU05RQkJQYzA3T1RNNkZ0WnUtNmZFWlFLOTJaZ0R2R2g1bkRkR1VYRnNOag?oc=5",
+      "auto": true
+    },
+    {
+      "date": "15.09.2026",
+      "published_at": "2026-09-14T23:57:43-04:00",
+      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
+      "text": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-base",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
       "auto": true
     },
     {
@@ -51,6 +61,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnFpNXllUHloOVI4aEpsMFJFLTNFbTMtMlJRaVhIeEExZ3ZRZnBHb1hzdXQ2LVdCTUNyYnVUWmdqTmxGWDVoNkFTTjdQOVg4bElyQnZuejhfdmJIWFhSUVdtSjZxTlRRUmxSSnZvYTVBSmNzU1JLWVFDTXVGcE1wUjM3Z3ZCd1I3NEhLd3Y0bm9MWHFfNUc1cWVwWmFPSHdpc0VmQWFQVWJTM0tBZTFPc1B3U2U1UU5kU0laTC1RdWRvTGRP?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T12:40:16+00:00",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy - The Conversation",
+      "text": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy The Conversation",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEVNVDJlSFBCd25OeWRVdW9ZWWxfcXV6bEdfZVdZN2NsTmRZRUpkazduMkpZbGlIdkpoOGJDVTh5bE0xeTFlVVhxdkRlbFFoV3pHdTBGbTR3N0gxdkZBNjBQRHdnU0VpcUdMUXdBX2R0bWc1dnZFb2NfWE0zQkdMclYwd0xZY014TTRnS2tqaUlrX29ocV9RWG9McXNTaDgzZGZfZDI4Tk1NRFZSZ1dkTFhSWEZlRENtU2s2RkVpZWxwckQ5dVVTOU5LVGUzdw?oc=5",
       "auto": true
     },
     {
@@ -174,22 +194,12 @@
       "auto": true
     },
     {
-      "date": "12.09.2026",
-      "published_at": "2026-09-12T00:40:00+00:00",
-      "title": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs - Yahoo Finance",
-      "text": "Revolution Medicines (RVMD) Gets its First Approved Drug, and the Market Shrugs Yahoo Finance",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnVtQjNRV25CbVY1bGpCNkVDeWJQaW1lX3V5SUY4OVhTYkZMejRQOTV5WkN6WWpwN3V0ZGtYUmw5ck42WjRmaWUxRmpBZ0JRSFdKRkRsWVpaNm5rSFFyZVRLZzhzQXdaY2tzemwyYkNLSnU5ZnludzN3a25SMWhDYVNkTWZJTVpHcGIxRTN5MUc3LThPOFN3Nm9qZ3kxUQ?oc=5",
-      "auto": true
-    },
-    {
       "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
       "text": "A major Ontario study found 24 common medication chains in which one drug’s side effects can be mistaken for a new medical problem, leading to another prescription. Researchers say closer medication reviews, pharmacist involvement, and automated alerts could h",
       "source": "ScienceDaily",
-      "category": "Farmakoloji",
+      "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm",
       "auto": true
     },
@@ -236,8 +246,8 @@
     {
       "date": "07.09.2026",
       "published_at": "2026-09-07T14:51:53+00:00",
-      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - news.weill.cornell.edu",
-      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis news.weill.cornell.edu",
+      "title": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis - WCM Newsroom",
+      "text": "Newly Discovered Stem Cell Reveals Potential Drug Target for Spinal Stenosis WCM Newsroom",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORl9UaDNaLXE2NTluQ1hsTDZuWHpkODZkeEV1YzJrck1NU3Qwa3ZHamZNOERBam1VRWFNdS1SNkRZZFVmem4xb216RmxnTWZrdFUzbGRRNUt0OTZNSlFYczFMYUJaaGE2Y3VRQWtfVmF6UEdHZl9sWVNXWmQzYWstUGwycTFlYmFXZkFMd1JaX1FwRTl1Y1lwU1R6cWdMc0pVQXRWcGhvRVBIWkFKYkxrT2Rkd3lEQmxQZ0VQRA?oc=5",
