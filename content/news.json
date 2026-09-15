@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T11:26:05.920450+00:00",
+  "updated_at": "2026-09-15T12:31:25.611479+00:00",
   "items": [
     {
       "date": "15.09.2026",
@@ -36,8 +36,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T20:48:00+00:00",
-      "title": "Injectable drugs sold nationwide recalled. See affected products - usatoday.com",
-      "text": "Injectable drugs sold nationwide recalled. See affected products usatoday.com",
+      "title": "Injectable drugs sold nationwide recalled. See affected products - USA Today",
+      "text": "Injectable drugs sold nationwide recalled. See affected products USA Today",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlN2TFhlcU9Bd0Rlc2d1TGJYWGkzR1VOVlUzaE9IQTFHYUVDU2Izell1Um85YzU5UTExUVdSeE53Y09VR1dfbEQxMHZVYXlueF9sQjB4QjNsVmVQaFVybHJKMlRfZnNOa2RhbmVSc1hSUGQ1REJEeVN0bk95MU5aQWRncnZVLWVUckFrYWRkTElXanJwU21QMm05QlJYeDJvM1lSTzFIUGtYdWlIa0hRZmtJZndNUU5ZWXdXWXpZcDRmazZZOWxlVEM3eU1lVG1MaUk0?oc=5",
@@ -76,8 +76,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T08:20:57+00:00",
-      "title": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies - english.elpais.com",
-      "text": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies english.elpais.com",
+      "title": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies - EL PAÍS English",
+      "text": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies EL PAÍS English",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBQeWtHeTZnV2NEX01oN2ZRRlhUY2Z5M0RkN3ZYVExCbHp0U21xTlpfNUNpMXlvNktFemJJazlvcjNWQW5HaFJYemxHLVFMUHJna1JjQjJFUG5nTjRnS28zM012RGZFT2MwNFNJQlhzNjNZUlRmTGFndno3bDZsa0w4NWZrbXNEMXVabGU5WVVLZmp5ODZxckRiWEVkcUY3ZEJSS1VZR0ZfbS1CNUZhX3FDUHgxal9VRDF2MUlnU3hJaHJuT1QxcjVfeUoycm1DNkVueHB3d3ByakQ40gHwAUFVX3lxTE95VTNBMVFOUEFOWHNDTFA2Qmt2YUdxeUo1NWhuYmFsUlJoX1Z3dmp3ZjJWSTVKTG1wcnlBemRITk5QMmFHWGpUREdKMGtiUnhmSnVKc0RkQ0ZadVdSektOM0NNYzlhVi10RUYwdm1YT1dIWW9Dek9QUUdWNU9jREpNbW1iRF9QSElid1NZaEZ0MVdIUE9OUEZzY0swaHc0OV9aLVc5THFtcXNZa1dTcXlvd3l6VWlILVEzZWp3Um9PaGl4cmNGSXJXR1I0OXk3cUZFSElHREJyZHF3STV0RG5EZmJKRGFOeWk0T1NKTk80SQ?oc=5",
@@ -111,6 +111,16 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912220107.htm",
+      "auto": true
+    },
+    {
+      "date": "13.09.2026",
+      "published_at": "2026-09-13T10:25:44+00:00",
+      "title": "Longevity: AI-designed drug appears to slow down aging in trial - Medical News Today",
+      "text": "Longevity: AI-designed drug appears to slow down aging in trial Medical News Today",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVJRV2dNN1ZwT1RiUm5JcGtNMVotQzRSWEVMRGxXc0FWQUZWXzE4NVMxbkdvdEp6Q01hOWVONHhiLS1qRUgxVjJIYVpaU2h1VVpSa29fM3d4NDBoLUplWFJDVVVCLTNQb2hWZldldWhVZGNqa3RrZWUzSGZmY2NYem9RZ212VG9yLXQ3VkJWR0hIMDExallLdlB6eGhDNS1LWnVCbzN4SWh4TEJyQnp0NkF6VQ?oc=5",
       "auto": true
     },
     {
@@ -351,16 +361,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "30.07.2026",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
-      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
       "auto": true
     }
   ]
