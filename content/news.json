@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T14:27:09.093561+00:00",
+  "updated_at": "2026-09-15T15:26:05.851722+00:00",
   "items": [
     {
       "date": "15.09.2026",
@@ -105,6 +105,16 @@
     },
     {
       "date": "14.09.2026",
+      "published_at": "2026-09-14T09:00:10+00:00",
+      "title": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco - The New York Times",
+      "text": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckt2ZFNZX21TcDlqRFRFbUtLejZpamVrbjBrcHpIQ0ZSZFJveHhhU3VZWHFGVVhLekR2U3ZDejllTmdzQVdBUFhWS1RyekJNYkhnRFhzd0w4ejh5MzZtdTM3RWJFM196YkNlRVlEajFHcXY1ck5FM0VQdjNZMWZZNzQ3Zw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
       "published_at": "2026-09-14T08:52:54-04:00",
       "title": "Scientists discover strange link between low vitamin D and pain",
       "text": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 h",
@@ -156,8 +166,8 @@
     {
       "date": "13.09.2026",
       "published_at": "2026-09-13T10:25:44+00:00",
-      "title": "Longevity: AI-designed drug appears to slow down aging in trial - medicalnewstoday.com",
-      "text": "Longevity: AI-designed drug appears to slow down aging in trial medicalnewstoday.com",
+      "title": "Longevity: AI-designed drug appears to slow down aging in trial - Medical News Today",
+      "text": "Longevity: AI-designed drug appears to slow down aging in trial Medical News Today",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVJRV2dNN1ZwT1RiUm5JcGtNMVotQzRSWEVMRGxXc0FWQUZWXzE4NVMxbkdvdEp6Q01hOWVONHhiLS1qRUgxVjJIYVpaU2h1VVpSa29fM3d4NDBoLUplWFJDVVVCLTNQb2hWZldldWhVZGNqa3RrZWUzSGZmY2NYem9RZ212VG9yLXQ3VkJWR0hIMDExallLdlB6eGhDNS1LWnVCbzN4SWh4TEJyQnp0NkF6VQ?oc=5",
@@ -286,11 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -306,6 +316,16 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
       "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
@@ -316,31 +336,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "02.09.2026",
-      "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
-      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -354,6 +354,16 @@
       "auto": true
     },
     {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
+      "auto": true
+    },
+    {
       "date": "01.09.2026",
       "published_at": "2026-09-01T13:48:00+02:00",
       "title": "Voluntary data submission pilot to advance innovative alternatives to animal testing",
@@ -361,16 +371,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
-      "auto": true
-    },
-    {
-      "date": "03.08.2026",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "title": "New WVU Medicine Community Pharmacy opens in Morgantown - WVU Medicine",
-      "text": "New WVU Medicine Community Pharmacy opens in Morgantown WVU Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSkF5YlZEN09mN2xEbnZUbzU5VXVXVTJyTENyVzhoSS1GMUl3Qm1KVXhBaWRJZXpzMWtIOWhpd0ZRNHExZnIzVjZwTEVwZmd1c0dTS0VaaU9GV0hJSFlVTDRLYXAyYUVkSTdPZHFPczVzZTZ4dVZNYXdRLVFWSy1QRXpBUm4yeXdtdGd4NGo0aDhGeFZ2YTdNeE5BVlptUXVnVDZ2MDFOeFlHc2NOams3dVVRSUswcGFKbzNIWDV3MXh3MjhTakJXdQ?oc=5",
       "auto": true
     }
   ]
