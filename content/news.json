@@ -1,13 +1,13 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T07:29:06.169507+00:00",
+  "updated_at": "2026-09-15T08:30:00.275308+00:00",
   "items": [
     {
       "date": "15.09.2026",
       "published_at": "2026-09-15T05:00:00+00:00",
-      "title": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide - The Jerusalem Post",
-      "text": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide The Jerusalem Post",
+      "title": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide - jpost.com",
+      "text": "The Israeli drug that will revolutionize treatment for diabetes patients worldwide jpost.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmF0RHNkWHBZLTRfRnFlanphTGhIOHdQLVljT1lOM2pQcWdZWU5SV3Rqc0dZN2EwMGJZOXlVUXlhOEROUl9HcUF4VkQ1aUJfNGxjbWRVMVU0cXJCZ1R6djdHeDFKSEl4UHg5WTVzU05RQkJQYzA3T1RNNkZ0WnUtNmZFWlFLOTJaZ0R2R2g1bkRkR1VYRnNOag?oc=5",
@@ -25,19 +25,9 @@
     },
     {
       "date": "14.09.2026",
-      "published_at": "2026-09-14T14:13:15+00:00",
-      "title": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers - finance.biggo.com",
-      "text": "Cyril Konto: A Drug Discovery Platform Is Only Worth the Medicine It Delivers finance.biggo.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlNjdXU3pHUFE2Qm5YVjdpWTVCdXgxakhOUk94SVBLTWExS25ScjFISlRIbHJ6YzhKM29NRkthbERIM0ZUWVI4a0Y5TTE5WXBHVVJPSmttUVI1MXc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
       "published_at": "2026-09-14T13:20:00+00:00",
-      "title": "Iowa City man charged after authorities seize pounds of drugs from apartment - kcrg.com",
-      "text": "Iowa City man charged after authorities seize pounds of drugs from apartment kcrg.com",
+      "title": "Iowa City man charged after authorities seize pounds of drugs from apartment - KCRG",
+      "text": "Iowa City man charged after authorities seize pounds of drugs from apartment KCRG",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnFpNXllUHloOVI4aEpsMFJFLTNFbTMtMlJRaVhIeEExZ3ZRZnBHb1hzdXQ2LVdCTUNyYnVUWmdqTmxGWDVoNkFTTjdQOVg4bElyQnZuejhfdmJIWFhSUVdtSjZxTlRRUmxSSnZvYTVBSmNzU1JLWVFDTXVGcE1wUjM3Z3ZCd1I3NEhLd3Y0bm9MWHFfNUc1cWVwWmFPSHdpc0VmQWFQVWJTM0tBZTFPc1B3U2U1UU5kU0laTC1RdWRvTGRP?oc=5",
@@ -81,6 +71,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T04:00:04+00:00",
+      "title": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths - Medical Xpress",
+      "text": "Drug decriminalization in BC reduced police encounters for drug possession, with no changes in drug-related deaths Medical Xpress",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEVaeXBRd3FKemhiM1lESUQzeDl2U3Vtb2dxV09TXzNfVVplQ1FuT2tMdWIycVQxZDBZcXVlVGpnQW10VGtjQnlxQ01YZjNPRkh4YXQ3cFZkSTNyai01X0RLLVZ3eE5Qd3htempQTFduWV9WcVZRb3ZvS21xeDZOcE9oRnBLaFFkNjc4X29sOEw?oc=5",
       "auto": true
     },
     {
@@ -356,8 +356,8 @@
     {
       "date": "30.07.2026",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - insilico.com",
-      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science insilico.com",
+      "title": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science - Insilico Medicine",
+      "text": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science Insilico Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
