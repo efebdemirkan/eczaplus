@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-14T23:23:52.210418+00:00",
+  "updated_at": "2026-09-15T00:34:36.473441+00:00",
   "items": [
     {
       "date": "14.09.2026",
@@ -21,16 +21,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T09:30:00+00:00",
-      "title": "One State’s Battle to Stop People From Taking Unapproved Weight-Loss Drugs - WSJ",
-      "text": "One State’s Battle to Stop People From Taking Unapproved Weight-Loss Drugs WSJ",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMi1UYnZyZWZxYzMyM2hHUWR5QTlYaVFpN0ZBRWFROWFpVzg2ZFdicDNqQjVtZFdOeWprcklVcjJWS285bThpbUpTX0pRdVVjV2N5OERGTHNjSjNNamszWXZKclVkY0lhbUd4amQyQ2g3bEVTcU9heFdJYjEwVjdSVzh6XzY2c283MzFZLVhBOHAxRW5sSjZ1bkl4VndJSGNwZVBJVm9yeWVreDdjM09hX2hIZ2ZrMzQ?oc=5",
       "auto": true
     },
     {
@@ -56,8 +46,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T05:03:21+00:00",
-      "title": "US push to cut drug prices could mean longer waits for European patients - Euronews.com",
-      "text": "US push to cut drug prices could mean longer waits for European patients Euronews.com",
+      "title": "US push to cut drug prices could mean longer waits for European patients - euronews.com",
+      "text": "US push to cut drug prices could mean longer waits for European patients euronews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
@@ -361,6 +351,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWVfQ0hPRzZ3eGJCYmFOaFNhdVhGYjZoU193OHdSZmluNkhnOC1JYldUaW40NFpTSUF0TnlMZ1JraFhQQ0ZuX2t5VkZjbG1FdEFTS1F2eHZjdi14cllIcWNLTHpDSFdZdE56LUxrVlkwWmpORXdEdm00RktlOEJlLXZVcw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "23.06.2026",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "title": "Shifting the goalposts in obesity drug development - Nature",
+      "text": "Shifting the goalposts in obesity drug development Nature",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45RENlRmk1eUt3Z0lZV0hnNGtPeDRFME5lV1k4UmFuWWJkblZNS2dxNUYxc2x0blpOcG5YbFNZU2RoZGlZc3l3d0lXczFxTVI4UjB2MUlBUGdkWXgwOVRz?oc=5",
       "auto": true
     }
   ]
