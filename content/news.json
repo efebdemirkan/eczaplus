@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-15T18:27:27.348174+00:00",
+  "updated_at": "2026-09-15T19:24:32.150529+00:00",
   "items": [
     {
       "date": "15.09.2026",
@@ -61,16 +61,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmF0RHNkWHBZLTRfRnFlanphTGhIOHdQLVljT1lOM2pQcWdZWU5SV3Rqc0dZN2EwMGJZOXlVUXlhOEROUl9HcUF4VkQ1aUJfNGxjbWRVMVU0cXJCZ1R6djdHeDFKSEl4UHg5WTVzU05RQkJQYzA3T1RNNkZ0WnUtNmZFWlFLOTJaZ0R2R2g1bkRkR1VYRnNOag?oc=5",
-      "auto": true
-    },
-    {
-      "date": "15.09.2026",
-      "published_at": "2026-09-15T00:00:00-04:00",
-      "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-      "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
       "auto": true
     },
     {
@@ -306,11 +296,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -336,21 +326,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
       "auto": true
     },
     {
@@ -361,6 +351,16 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "auto": true
+    },
+    {
+      "date": "02.09.2026",
+      "published_at": "2026-09-02T00:00:00-04:00",
+      "title": "Convenience Kit Correction: Medline Issues Correction for Convenience Kits Containing BD ChloraPrep Applicators",
+      "text": "Certain BD ChloraPrep Applicators in Convenience Kits manufactured by Medline may not be sterile.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/convenience-kit-correction-medline-issues-correction-convenience-kits-containing-bd-chloraprep",
       "auto": true
     },
     {
