@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T16:26:49.751134+00:00",
+  "updated_at": "2026-09-16T17:24:34.131597+00:00",
   "items": [
     {
       "date": "16.09.2026",
@@ -25,6 +25,16 @@
     },
     {
       "date": "16.09.2026",
+      "published_at": "2026-09-16T13:53:34+00:00",
+      "title": "Remepy welcomes new CMO to advance hybrid drug pipeline - The Pharma Letter",
+      "text": "Remepy welcomes new CMO to advance hybrid drug pipeline The Pharma Letter",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUxvQnJ3WXZrWk5vYTBHRTJ5dUh4Ync4RE9XbldkZWtvcHFOTDVqcGQyWUpGcmRCN3dPc2J5UHJVRG1NRE9VODBjMUZzWDE3a20xNHRJa3NfSUJoalRJN3NLWUtSaHRYNTItRzNkcWVMZEN4WDl4QkR3TFBmbkdjQzRYVHp4Z1I2MW1aZzgyTnpETUJkeXNvMjNDaW5fcGhl?oc=5",
+      "auto": true
+    },
+    {
+      "date": "16.09.2026",
       "published_at": "2026-09-16T11:31:18+00:00",
       "title": "Horizon scanning: is laughter the best medicine for bronchiectasis? - Hospital Pharmacy Europe",
       "text": "Horizon scanning: is laughter the best medicine for bronchiectasis? Hospital Pharmacy Europe",
@@ -41,16 +51,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONUZFRXI3NEI3bVZXd0xKVWNpVm5wNEE3ZE9ULUt1aTkxLUM0QnV5WjNxNV91M3RrNElLdC1VMERaZWhqWlFxQ3R2RGVGdzJXNk9zRUJrQ1J0c0FsMVo1WEs3VkdEUUI5aVRsanVhbFcydHVFaUJISDl4Z2hyLV9OaXlpLVFZNTd1cVVHMDhybEFhM1hpMDdhTE9VOU56c19CLU5JV3BZbXZ2OF9uVnd6emRBNER5NDhRdVYyRXVzeWtDU24ydDN0a2JJTG9EQjJhN3liN1VTbnZFeW1Vd3pGYjhpWHdPUVVtSU5YSHQ1d0RRQQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "16.09.2026",
-      "published_at": "2026-09-16T09:13:11+00:00",
-      "title": "What drug shortage lists show in 2026, and what they leave out - The Pharma Letter",
-      "text": "What drug shortage lists show in 2026, and what they leave out The Pharma Letter",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2t0eVROa3M3eURpeENTWV95eDhodlNYX090bXRBU1lBZ2FQd0ItQnBISmxobmdiWFVpbGU4bFJ4NlNxb052T0NuOUdDdHVZRElPRU5MOTBnRVlXc2NKU1FVS29QU2RUQVcxVFVmSWNIZl9aYTBERGdFTTZYaWotMGo2MjBZa21qMVhGQVFrSVgxZ1M4TVFLRmdOVnRmUGVYLW1Wa3Bnbk94dG83NGtkb1dzUi1IUQ?oc=5",
       "auto": true
     },
     {
@@ -86,8 +86,8 @@
     {
       "date": "15.09.2026",
       "published_at": "2026-09-15T14:05:06+00:00",
-      "title": "New lung cancer drug lifts survival versus chemotherapy - Los Angeles Times",
-      "text": "New lung cancer drug lifts survival versus chemotherapy Los Angeles Times",
+      "title": "New lung cancer drug lifts survival versus chemotherapy - latimes.com",
+      "text": "New lung cancer drug lifts survival versus chemotherapy latimes.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmV0eTB5eDBWSVFFVnROY3NNSVBhREZiRmFrVzEwdmhCaGRuanNCQlk0NVE2RG9qUW1aMm1TeHh6SkUxa1VPLTVETVZhNC1nVFNBMXZIck1fWmxfR1huTEtLUGhvTEQzRmxLMG8zSEJGbHNTb1J1dUw4ZlZQa09GUlcxWW9rejN4RFdMRVNsMDVKck1VODFZMWgxRlVUTVN6NWdRY3pBUQ?oc=5",
@@ -306,31 +306,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
       "auto": true
     },
     {
@@ -346,21 +326,41 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
