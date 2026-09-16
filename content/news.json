@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T05:25:56.125189+00:00",
+  "updated_at": "2026-09-16T06:32:43.285776+00:00",
   "items": [
+    {
+      "date": "16.09.2026",
+      "published_at": "2026-09-16T01:02:44+00:00",
+      "title": "Oral Contraceptive Given to Sixth-Grader Seeking Cold Medicine... Pharmacy Says \"She Clearly Stated the Product Name\" - 아시아경제",
+      "text": "Oral Contraceptive Given to Sixth-Grader Seeking Cold Medicine... Pharmacy Says \"She Clearly Stated the Product Name\" 아시아경제",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yeG5XU2NlbkFPRElrdXFvMmx5LVBiSHY4UXdhR0plWFY2b1gwcXM3QXY0M09DSGhDOFVjQmNPamZoY0lOVWFMVS1idlVYRHJOd04wdkVRdWxvY2R2aUpWUUU2ZTVFRmYtNG1mcUY5ZEVvTFlUalI3VjB1N2lrWEE?oc=5",
+      "auto": true
+    },
     {
       "date": "15.09.2026",
       "published_at": "2026-09-15T20:47:06+00:00",
@@ -55,16 +65,6 @@
     },
     {
       "date": "15.09.2026",
-      "published_at": "2026-09-15T09:24:43+00:00",
-      "title": "US drug pricing policy may drive up global medicine prices - thepharmacist.co.uk",
-      "text": "US drug pricing policy may drive up global medicine prices thepharmacist.co.uk",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEs5R0h5SmtMZWx5MVlUUXNFR3pXWHZtanVEMW5tSk1IUnJodFNuR0FnYmVEdkZCYXFlZnE3ZWo1RWdWVENKRV9pSUQxME41SUs1RjZQVDYtdllYUzB4VDRxNlNibXNkRU9xOEkxMWJ6dG94NDlnaGVnR3RtMkY1RllUT3dvMHoxSV9wOWRBQTlHVDRscElzVHRWaUk?oc=5",
-      "auto": true
-    },
-    {
-      "date": "15.09.2026",
       "published_at": "2026-09-15T00:00:00-04:00",
       "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
       "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
@@ -86,8 +86,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T15:05:35+00:00",
-      "title": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders - news.weill.cornell.edu",
-      "text": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders news.weill.cornell.edu",
+      "title": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders - WCM Newsroom",
+      "text": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders WCM Newsroom",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBXek52RWRFNmZncTFKdFJ2TkhkSXdqSUY3cjZmNU93S0NuMEllZnpmMDREWHp6Y3V6UVU2cDJKNV9CbmtpVjRJVERMaWVpcFZQVTVkaXZfQmpZLWk4amVHSjNtcmZhY2ZRMkNjUEFEekNDVUVsSnE4Wm9ocVdDUnU4R0ZRN0lmV3lzbWJvdEhrY0VVX1prNzFPLThuekwtbTNjbnNGNGhWblFtbW9LaVIwVQ?oc=5",
@@ -306,31 +306,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Early Alert: Breathing Circuit Issue from Draeger",
       "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -346,21 +336,31 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
       "auto": true
     },
     {
