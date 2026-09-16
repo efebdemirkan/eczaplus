@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T12:32:31.536726+00:00",
+  "updated_at": "2026-09-16T13:28:07.767700+00:00",
   "items": [
     {
       "date": "16.09.2026",
@@ -115,6 +115,16 @@
     },
     {
       "date": "14.09.2026",
+      "published_at": "2026-09-14T12:40:16+00:00",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy - The Conversation",
+      "text": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy The Conversation",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEVNVDJlSFBCd25OeWRVdW9ZWWxfcXV6bEdfZVdZN2NsTmRZRUpkazduMkpZbGlIdkpoOGJDVTh5bE0xeTFlVVhxdkRlbFFoV3pHdTBGbTR3N0gxdkZBNjBQRHdnU0VpcUdMUXdBX2R0bWc1dnZFb2NfWE0zQkdMclYwd0xZY014TTRnS2tqaUlrX29ocV9RWG9McXNTaDgzZGZfZDI4Tk1NRFZSZ1dkTFhSWEZlRENtU2s2RkVpZWxwckQ5dVVTOU5LVGUzdw?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
       "published_at": "2026-09-14T09:57:49-04:00",
       "title": "Scientists find a hidden cause of high blood pressure that routine tests can miss",
       "text": "A wearable device has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure. The discovery could help explain why primary aldosteronism often escapes standard blood tests and point toward a more accurate way to diag",
@@ -141,16 +151,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T08:20:57+00:00",
-      "title": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies - EL PAÍS English",
-      "text": "How Trump’s pharmaceutical plan threatens Europe: Higher drug prices and delays in new therapies EL PAÍS English",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBQeWtHeTZnV2NEX01oN2ZRRlhUY2Z5M0RkN3ZYVExCbHp0U21xTlpfNUNpMXlvNktFemJJazlvcjNWQW5HaFJYemxHLVFMUHJna1JjQjJFUG5nTjRnS28zM012RGZFT2MwNFNJQlhzNjNZUlRmTGFndno3bDZsa0w4NWZrbXNEMXVabGU5WVVLZmp5ODZxckRiWEVkcUY3ZEJSS1VZR0ZfbS1CNUZhX3FDUHgxal9VRDF2MUlnU3hJaHJuT1QxcjVfeUoycm1DNkVueHB3d3ByakQ40gHwAUFVX3lxTE95VTNBMVFOUEFOWHNDTFA2Qmt2YUdxeUo1NWhuYmFsUlJoX1Z3dmp3ZjJWSTVKTG1wcnlBemRITk5QMmFHWGpUREdKMGtiUnhmSnVKc0RkQ0ZadVdSektOM0NNYzlhVi10RUYwdm1YT1dIWW9Dek9QUUdWNU9jREpNbW1iRF9QSElid1NZaEZ0MVdIUE9OUEZzY0swaHc0OV9aLVc5THFtcXNZa1dTcXlvd3l6VWlILVEzZWp3Um9PaGl4cmNGSXJXR1I0OXk3cUZFSElHREJyZHF3STV0RG5EZmJKRGFOeWk0T1NKTk80SQ?oc=5",
       "auto": true
     },
     {
@@ -306,31 +306,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
-      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
       "auto": true
     },
     {
@@ -346,21 +326,41 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Early Alert: Heart Pump Controller Purge Cassette Issue from Abiomed",
+      "text": "Abiomed is removing Automated Impella Controllers due to purge cassette recognition failures that may lead to prolonged delayed in mechanical circulatory support.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-heart-pump-controller-purge-cassette-issue-abiomed",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
-      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
+      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
+      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
       "auto": true
     },
     {
