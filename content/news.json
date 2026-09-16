@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T21:26:35.287168+00:00",
+  "updated_at": "2026-09-16T22:24:54.718326+00:00",
   "items": [
     {
       "date": "16.09.2026",
@@ -31,16 +31,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUxvQnJ3WXZrWk5vYTBHRTJ5dUh4Ync4RE9XbldkZWtvcHFOTDVqcGQyWUpGcmRCN3dPc2J5UHJVRG1NRE9VODBjMUZzWDE3a20xNHRJa3NfSUJoalRJN3NLWUtSaHRYNTItRzNkcWVMZEN4WDl4QkR3TFBmbkdjQzRYVHp4Z1I2MW1aZzgyTnpETUJkeXNvMjNDaW5fcGhl?oc=5",
-      "auto": true
-    },
-    {
-      "date": "16.09.2026",
-      "published_at": "2026-09-16T16:04:19+00:00",
-      "title": "Fake medicine racket: Pharmacy owner sent to SIT custody for 7 days - Deccan Herald",
-      "text": "Fake medicine racket: Pharmacy owner sent to SIT custody for 7 days Deccan Herald",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnJ5WmFEN0x2amhqVGtvb0N1aTc3eUQwelVLSU1KR242aHVNVmIzdnVCRm9fdlluNU5HWUY3Zl9HT2R1dFk5ODZJbHdqTmxSY2x2Z1Q5Z0thNjU3eElOWGJfbHRZZUZkb0JiRThjTWl3QnJHX0tKU1UzZmQ2OEJTamRoLXlhY0NSeG52M2syQXoxek1uSFNKMVZ0OXBhRWtQLU45bV9OTE9sS09JTVdvb2NfZTZncjR2MHF6SkFMVHVLdWpwb044eQ?oc=5",
       "auto": true
     },
     {
@@ -131,6 +121,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBXek52RWRFNmZncTFKdFJ2TkhkSXdqSUY3cjZmNU93S0NuMEllZnpmMDREWHp6Y3V6UVU2cDJKNV9CbmtpVjRJVERMaWVpcFZQVTVkaXZfQmpZLWk4amVHSjNtcmZhY2ZRMkNjUEFEekNDVUVsSnE4Wm9ocVdDUnU4R0ZRN0lmV3lzbWJvdEhrY0VVX1prNzFPLThuekwtbTNjbnNGNGhWblFtbW9LaVIwVQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T12:40:16+00:00",
+      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy - theconversation.com",
+      "text": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy theconversation.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEVNVDJlSFBCd25OeWRVdW9ZWWxfcXV6bEdfZVdZN2NsTmRZRUpkazduMkpZbGlIdkpoOGJDVTh5bE0xeTFlVVhxdkRlbFFoV3pHdTBGbTR3N0gxdkZBNjBQRHdnU0VpcUdMUXdBX2R0bWc1dnZFb2NfWE0zQkdMclYwd0xZY014TTRnS2tqaUlrX29ocV9RWG9McXNTaDgzZGZfZDI4Tk1NRFZSZ1dkTFhSWEZlRENtU2s2RkVpZWxwckQ5dVVTOU5LVGUzdw?oc=5",
       "auto": true
     },
     {
@@ -306,31 +306,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
-      "auto": true
-    },
-    {
-      "date": "03.09.2026",
-      "published_at": "2026-09-03T00:00:00-04:00",
       "title": "Early Alert: Breathing Circuit Issue from Draeger",
       "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
@@ -346,21 +336,31 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
-      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "auto": true
+    },
+    {
+      "date": "03.09.2026",
+      "published_at": "2026-09-03T00:00:00-04:00",
+      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
+      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
       "auto": true
     },
     {
       "date": "02.09.2026",
       "published_at": "2026-09-02T00:00:00-04:00",
-      "title": "Catheter Recall Expansion: Medline Industries Removes Reprocessed Electrophysiology and Ultrasound Catheters",
-      "text": "Certain reprocessed catheters may contain residual particulates that could cause infection, embolism, or thrombosis",
+      "title": "Early Alert: Convenience Kit Issue from AVID Medical",
+      "text": "AVID Medical is correcting convenience kits containing recalled Huons Co. sodium chloride ampules.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/catheter-recall-expansion-medline-industries-removes-reprocessed-electrophysiology-and-ultrasound",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-convenience-kit-issue-avid-medical-0",
       "auto": true
     },
     {
