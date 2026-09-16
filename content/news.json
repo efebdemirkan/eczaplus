@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T10:27:24.663333+00:00",
+  "updated_at": "2026-09-16T11:26:44.757756+00:00",
   "items": [
     {
       "date": "16.09.2026",
@@ -26,8 +26,8 @@
     {
       "date": "15.09.2026",
       "published_at": "2026-09-15T20:44:00+00:00",
-      "title": "Injectable drugs sold nationwide recalled. See affected products - USA Today",
-      "text": "Injectable drugs sold nationwide recalled. See affected products USA Today",
+      "title": "Injectable drugs sold nationwide recalled. See affected products - usatoday.com",
+      "text": "Injectable drugs sold nationwide recalled. See affected products usatoday.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYlN2TFhlcU9Bd0Rlc2d1TGJYWGkzR1VOVlUzaE9IQTFHYUVDU2Izell1Um85YzU5UTExUVdSeE53Y09VR1dfbEQxMHZVYXlueF9sQjB4QjNsVmVQaFVybHJKMlRfZnNOa2RhbmVSc1hSUGQ1REJEeVN0bk95MU5aQWRncnZVLWVUckFrYWRkTElXanJwU21QMm05QlJYeDJvM1lSTzFIUGtYdWlIa0hRZmtJZndNUU5ZWXdXWXpZcDRmazZZOWxlVEM3eU1lVG1MaUk0?oc=5",
@@ -161,16 +161,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912220107.htm",
-      "auto": true
-    },
-    {
-      "date": "13.09.2026",
-      "published_at": "2026-09-13T10:25:44+00:00",
-      "title": "Longevity: AI-designed drug appears to slow down aging in trial - Medical News Today",
-      "text": "Longevity: AI-designed drug appears to slow down aging in trial Medical News Today",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVJRV2dNN1ZwT1RiUm5JcGtNMVotQzRSWEVMRGxXc0FWQUZWXzE4NVMxbkdvdEp6Q01hOWVONHhiLS1qRUgxVjJIYVpaU2h1VVpSa29fM3d4NDBoLUplWFJDVVVCLTNQb2hWZldldWhVZGNqa3RrZWUzSGZmY2NYem9RZ212VG9yLXQ3VkJWR0hIMDExallLdlB6eGhDNS1LWnVCbzN4SWh4TEJyQnp0NkF6VQ?oc=5",
       "auto": true
     },
     {
@@ -361,6 +351,16 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/voluntary-data-submission-pilot-advance-innovative-alternatives-animal-testing",
+      "auto": true
+    },
+    {
+      "date": "31.08.2026",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "title": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque - Yale School of Medicine",
+      "text": "Cancer Drug Reduces Atherosclerosis Inflammation and Plaque Yale School of Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlhJN1U0cUU1VmJ3R1pIYkJ6LUp2VlVQeFQxTlNMdTM0aDBoS3BfLWZTZkJMSUtwbzFiSFpIQUhMSUx5N2lXZWgtdXJZT3VxYnJMLUN2eXNXTzg1aGtVdm9GQWRJeFBzMVo2SGh4dVhvUHloVjh6OURyWUJRaDR3RENBRXpuN0twZ0xRSndabmp6czBPa2hhN1ZVdUVBN3lU?oc=5",
       "auto": true
     },
     {
