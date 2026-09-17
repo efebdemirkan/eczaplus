@@ -1,7 +1,7 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-17T18:13:05.135596+00:00",
+  "updated_at": "2026-09-17T21:22:39.567694+00:00",
   "items": [
     {
       "date": "17.09.2026",
@@ -65,6 +65,16 @@
     },
     {
       "date": "17.09.2026",
+      "published_at": "2026-09-17T05:11:58+00:00",
+      "title": "AI is not yet driving drug development - Axios",
+      "text": "AI is not yet driving drug development Axios",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yT3EwaXp3SGFnNmFTV3hfOW4tVFVwckczaFU2ZzdzU2x4Zks2Tmx5dHNQcFNFQzNkb2FlOV9ucENBSGRJOGpJbW0zNy1RZTNkNnlENXY0ZnA3ZV9lUHpGb2NR?oc=5",
+      "auto": true
+    },
+    {
+      "date": "17.09.2026",
       "published_at": "2026-09-17T04:35:03+00:00",
       "title": "A New Course Bridges the Gap Between Discovery and Drug Development - the-scientist.com",
       "text": "A New Course Bridges the Gap Between Discovery and Drug Development the-scientist.com",
@@ -76,8 +86,8 @@
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T03:14:00+00:00",
-      "title": "Some patients to be exempted from additional drug payments - The Japan Times",
-      "text": "Some patients to be exempted from additional drug payments The Japan Times",
+      "title": "Some patients to be exempted from additional drug payments - japantimes.co.jp",
+      "text": "Some patients to be exempted from additional drug payments japantimes.co.jp",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmxlSFp0bGcwVlhFQlgwWmFoTzE4V2w1MFJjM2tuYVJGMEptbEJJTE55YWpsYkNVM2ZkUmI2N2pyMS1TY0Y4YVo4MG9tUTR0Wll0N0ZGM2Jlc1VVSzBndzFFMTVLRlN5NHRwajN0SnVpa0xhcng4VkhMemNtalJobUYtN2JLNDRQRzUyclMwSnpuaWI4UTU2TGRlQ2V5RlRrN0FmMTZiVQ?oc=5",
@@ -151,16 +161,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T13:20:00+00:00",
-      "title": "Iowa City man charged after authorities seize pounds of drugs from apartment - KCRG",
-      "text": "Iowa City man charged after authorities seize pounds of drugs from apartment KCRG",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnFpNXllUHloOVI4aEpsMFJFLTNFbTMtMlJRaVhIeEExZ3ZRZnBHb1hzdXQ2LVdCTUNyYnVUWmdqTmxGWDVoNkFTTjdQOVg4bElyQnZuejhfdmJIWFhSUVdtSjZxTlRRUmxSSnZvYTVBSmNzU1JLWVFDTXVGcE1wUjM3Z3ZCd1I3NEhLd3Y0bm9MWHFfNUc1cWVwWmFPSHdpc0VmQWFQVWJTM0tBZTFPc1B3U2U1UU5kU0laTC1RdWRvTGRP?oc=5",
       "auto": true
     },
     {
