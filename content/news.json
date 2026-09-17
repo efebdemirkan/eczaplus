@@ -1,8 +1,38 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-17T04:27:09.024449+00:00",
+  "updated_at": "2026-09-17T05:25:59.988204+00:00",
   "items": [
+    {
+      "date": "17.09.2026",
+      "published_at": "2026-09-17T04:30:00+00:00",
+      "title": "A New Course Bridges the Gap Between Discovery and Drug Development - the-scientist.com",
+      "text": "A New Course Bridges the Gap Between Discovery and Drug Development the-scientist.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1IzU3pQQlVrdm1rYXNGQkdrU3dUQi1aQjhUNnc1YjdsM3owQy13RlVfN0hwVlVZbElqeTJFUXhCR0lzZzNvX0FVaGdCRzE3YS04c2doVXNOWTZhMVZoNmlacVc0QU4yaDB4UHpCNnVsdDhUekNiTlBVWU1XMU5hQ3F0N01UNHFBTjdlUS1wMFp2dGZiaGJMUmY5R0RHSEhjeWZ3eFFB?oc=5",
+      "auto": true
+    },
+    {
+      "date": "17.09.2026",
+      "published_at": "2026-09-17T03:14:00+00:00",
+      "title": "Some patients to be exempted from additional drug payments - The Japan Times",
+      "text": "Some patients to be exempted from additional drug payments The Japan Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmxlSFp0bGcwVlhFQlgwWmFoTzE4V2w1MFJjM2tuYVJGMEptbEJJTE55YWpsYkNVM2ZkUmI2N2pyMS1TY0Y4YVo4MG9tUTR0Wll0N0ZGM2Jlc1VVSzBndzFFMTVLRlN5NHRwajN0SnVpa0xhcng4VkhMemNtalJobUYtN2JLNDRQRzUyclMwSnpuaWI4UTU2TGRlQ2V5RlRrN0FmMTZiVQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "17.09.2026",
+      "published_at": "2026-09-17T01:11:51-04:00",
+      "title": "New mesothelioma drug turns cancer’s own defenses against it",
+      "text": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to surviv",
+      "source": "ScienceDaily",
+      "category": "Farmasötik Bilimler",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+      "auto": true
+    },
     {
       "date": "16.09.2026",
       "published_at": "2026-09-16T23:01:00+00:00",
@@ -95,16 +125,6 @@
     },
     {
       "date": "15.09.2026",
-      "published_at": "2026-09-15T14:05:06+00:00",
-      "title": "New lung cancer drug lifts survival versus chemotherapy - Los Angeles Times",
-      "text": "New lung cancer drug lifts survival versus chemotherapy Los Angeles Times",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmV0eTB5eDBWSVFFVnROY3NNSVBhREZiRmFrVzEwdmhCaGRuanNCQlk0NVE2RG9qUW1aMm1TeHh6SkUxa1VPLTVETVZhNC1nVFNBMXZIck1fWmxfR1huTEtLUGhvTEQzRmxLMG8zSEJGbHNTb1J1dUw4ZlZQa09GUlcxWW9rejN4RFdMRVNsMDVKck1VODFZMWgxRlVUTVN6NWdRY3pBUQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "15.09.2026",
       "published_at": "2026-09-15T00:00:00-04:00",
       "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
       "text": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
@@ -126,8 +146,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T15:05:35+00:00",
-      "title": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders - WCM Newsroom",
-      "text": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders WCM Newsroom",
+      "title": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders - news.weill.cornell.edu",
+      "text": "Uncovering Hidden Complexity in a Key Drug Target for Brain Disorders news.weill.cornell.edu",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBXek52RWRFNmZncTFKdFJ2TkhkSXdqSUY3cjZmNU93S0NuMEllZnpmMDREWHp6Y3V6UVU2cDJKNV9CbmtpVjRJVERMaWVpcFZQVTVkaXZfQmpZLWk4amVHSjNtcmZhY2ZRMkNjUEFEekNDVUVsSnE4Wm9ocVdDUnU4R0ZRN0lmV3lzbWJvdEhrY0VVX1prNzFPLThuekwtbTNjbnNGNGhWblFtbW9LaVIwVQ?oc=5",
@@ -151,16 +171,6 @@
       "source": "ScienceDaily",
       "category": "Farmakoloji",
       "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
-      "published_at": "2026-09-14T05:03:21+00:00",
-      "title": "US push to cut drug prices could mean longer waits for European patients - Euronews.com",
-      "text": "US push to cut drug prices could mean longer waits for European patients Euronews.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
       "auto": true
     },
     {
@@ -261,16 +271,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
-      "auto": true
-    },
-    {
-      "date": "08.09.2026",
-      "published_at": "2026-09-08T09:54:56-04:00",
-      "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-      "text": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial ",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
       "auto": true
     },
     {
