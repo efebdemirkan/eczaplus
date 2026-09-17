@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-16T23:24:40.114757+00:00",
+  "updated_at": "2026-09-17T00:32:43.615777+00:00",
   "items": [
+    {
+      "date": "16.09.2026",
+      "published_at": "2026-09-16T23:01:00+00:00",
+      "title": "Existing drug may slow progression of MS in ‘exciting’ world-first trial - The Independent",
+      "text": "Existing drug may slow progression of MS in ‘exciting’ world-first trial The Independent",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWhxcXUtcjJrTmZyVFFTZHJyNGtJWTQzVXZHaF9pV0hiR0lNZGMtRW5zWXJ2eFpDUlJ0ZU04aEZVWXhFR1p0ejFZdjYwS0VETlktMWlBcHdhV2RlUVR6R3d2UThXdTNJcHFZWlhZN0s1ektVLWFLaEQ2cVpleVpRbTMxOTdyLWJZc3p1MFctX1Z6MTRuRzlXVEJsMmw2bTdOb3c?oc=5",
+      "auto": true
+    },
     {
       "date": "16.09.2026",
       "published_at": "2026-09-16T20:52:38+00:00",
@@ -15,7 +25,7 @@
     },
     {
       "date": "16.09.2026",
-      "published_at": "2026-09-16T17:26:15+00:00",
+      "published_at": "2026-09-16T17:31:24+00:00",
       "title": "Horizon scanning: is laughter the best medicine for bronchiectasis? - Hospital Pharmacy Europe",
       "text": "Horizon scanning: is laughter the best medicine for bronchiectasis? Hospital Pharmacy Europe",
       "source": "Google News",
@@ -36,8 +46,8 @@
     {
       "date": "16.09.2026",
       "published_at": "2026-09-16T15:01:56+00:00",
-      "title": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria - Medical Economics",
-      "text": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria Medical Economics",
+      "title": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria - medicaleconomics.com",
+      "text": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria medicaleconomics.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXdBSzV4RVNOVHVOUzFFU3BRam9IdFdxTnFkZGZ4a3o0aTNaNjdrNkVYSmwyUVZ2cWNZajJucUpVQno4QklMS2tieUh1UWc3ZHlsOEZGdzFIREdLZC1SbVY2Wnk5X3lMc1ZWeElLbFZFZ3RjUnF6aXc2N1JVbDRraGtUaU9fTmNBWmlxODFmU0hVOWtxVWRGYktrUnI4VkJMdlpBalZqTDY0alhWMTJaQ1JVcDRCNGNHU1E?oc=5",
@@ -125,16 +135,6 @@
     },
     {
       "date": "14.09.2026",
-      "published_at": "2026-09-14T12:40:16+00:00",
-      "title": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy - The Conversation",
-      "text": "Portugal decriminalized drugs 25 years ago, but the real lesson is what it built around this policy The Conversation",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEVNVDJlSFBCd25OeWRVdW9ZWWxfcXV6bEdfZVdZN2NsTmRZRUpkazduMkpZbGlIdkpoOGJDVTh5bE0xeTFlVVhxdkRlbFFoV3pHdTBGbTR3N0gxdkZBNjBQRHdnU0VpcUdMUXdBX2R0bWc1dnZFb2NfWE0zQkdMclYwd0xZY014TTRnS2tqaUlrX29ocV9RWG9McXNTaDgzZGZfZDI4Tk1NRFZSZ1dkTFhSWEZlRENtU2s2RkVpZWxwckQ5dVVTOU5LVGUzdw?oc=5",
-      "auto": true
-    },
-    {
-      "date": "14.09.2026",
       "published_at": "2026-09-14T09:57:49-04:00",
       "title": "Scientists find a hidden cause of high blood pressure that routine tests can miss",
       "text": "A wearable device has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure. The discovery could help explain why primary aldosteronism often escapes standard blood tests and point toward a more accurate way to diag",
@@ -156,8 +156,8 @@
     {
       "date": "14.09.2026",
       "published_at": "2026-09-14T05:03:21+00:00",
-      "title": "US push to cut drug prices could mean longer waits for European patients - euronews.com",
-      "text": "US push to cut drug prices could mean longer waits for European patients euronews.com",
+      "title": "US push to cut drug prices could mean longer waits for European patients - Euronews.com",
+      "text": "US push to cut drug prices could mean longer waits for European patients Euronews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVBEc1Y0Y0J2SUxzTnkxRUt5bzBxQ19oWG9oU1BPT09VOEkzY0I3WDFTMFMxSkZUeXZxQUNSYm0zWXoycHZFeEk3R24xVk5pb01uaF9raHBkV0xOa2ludUJHcWlkenh5RGEzUEhTNi1qN1dxb2RXNENjX0JNN2dEREIzbnk1UTZ6ZnZMejdkaWtTNW5ESWt4NVgzaGV3N1dmc3JtLUFmQkktbm5CYmpjV016Z0drdw?oc=5",
