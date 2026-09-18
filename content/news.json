@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-17T21:22:39.567694+00:00",
+  "updated_at": "2026-09-18T00:18:14.070072+00:00",
   "items": [
+    {
+      "date": "17.09.2026",
+      "published_at": "2026-09-17T18:04:39+00:00",
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Stanford Medicine",
+      "text": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery Stanford Medicine",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
+      "auto": true
+    },
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T18:00:47+00:00",
@@ -31,16 +41,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWNyM2FEQ1JPN0xPZkRwTVNZVTAzMV9GakotN3c5SnoySU5QM3VqaTE4VzR5VDhVX3dTeHVEb2tTdWdaVEszcWY3dkJ1aVhLNzB6NmE3bUNxNFNWWldFUzl6cjNEZFhxa2hlbFpyWDdaZFhfS0RMeHY4RkxEQzRXaTc1SmNTc2ZEekU3VkZkWTYwQVc2UWNiblhkbkgzUk1xbjJIdFFPR3dNSTlzdE5kdzgzclZXUEpJY0dvaHVjM3JXVEx3blJKV0xpcEdDTExCQU5laU5aTlNHRmZJYjYwZ3o3Q1d6WW0weUd1d1FBa1J5QXZCbUt4cA?oc=5",
-      "auto": true
-    },
-    {
-      "date": "17.09.2026",
-      "published_at": "2026-09-17T09:00:13+00:00",
-      "title": "Anti-Seizure Drug Could Slow Aggressive Childhood Brain Tumors - Inside Precision Medicine",
-      "text": "Anti-Seizure Drug Could Slow Aggressive Childhood Brain Tumors Inside Precision Medicine",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDBkS2pxLXY4TUhDaTRGZEJvbDNwRjU0ZDZON3diZU1XRlU1M3ZSak5rTkhBdXk1MVdXMTVTYmJZZy1UOEZoTGhXSldVUVdEcGl3TXRDME5vU0JCb3c4SDhwS3hFRXZyaC1IVVJoalNLSWd6TV9JcjdoUTJGQ0hfY3l3MENXVy1GeVZIS3J2bVhpbjJrcjJhU21McWgyX1otd3RiWVBHYVNMRUVzb3o3M1hYaDQ4T0FSelZV?oc=5",
       "auto": true
     },
     {
@@ -86,8 +86,8 @@
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T03:14:00+00:00",
-      "title": "Some patients to be exempted from additional drug payments - japantimes.co.jp",
-      "text": "Some patients to be exempted from additional drug payments japantimes.co.jp",
+      "title": "Some patients to be exempted from additional drug payments - The Japan Times",
+      "text": "Some patients to be exempted from additional drug payments The Japan Times",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmxlSFp0bGcwVlhFQlgwWmFoTzE4V2w1MFJjM2tuYVJGMEptbEJJTE55YWpsYkNVM2ZkUmI2N2pyMS1TY0Y4YVo4MG9tUTR0Wll0N0ZGM2Jlc1VVSzBndzFFMTVLRlN5NHRwajN0SnVpa0xhcng4VkhMemNtalJobUYtN2JLNDRQRzUyclMwSnpuaWI4UTU2TGRlQ2V5RlRrN0FmMTZiVQ?oc=5",
@@ -111,16 +111,6 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
-      "auto": true
-    },
-    {
-      "date": "16.09.2026",
-      "published_at": "2026-09-16T14:31:55+00:00",
-      "title": "Deep dive: Psychedelics back on FDA’s doorstep - BioSpace",
-      "text": "Deep dive: Psychedelics back on FDA’s doorstep BioSpace",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDVoM2RXSWoyU1c2WlBXbHJuNkNXQW5pdWEwMHM3aE5IZWxKbU1qaDlqOXVZMTdMTkpHb0FWc0UyQ3QzZzV2R2p1djlVRnRfY0FvNFhKenRya1RLancxdnYwZlNyNE8wTWJCclRsZTlreTgxemRPSjMwbFVtZ3VUbG5MWS01YW9Qb2ZyX0VzQQ?oc=5",
       "auto": true
     },
     {
@@ -171,6 +161,16 @@
       "source": "ScienceDaily",
       "category": "Farmasötik Bilimler",
       "url": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
+      "auto": true
+    },
+    {
+      "date": "14.09.2026",
+      "published_at": "2026-09-14T09:00:10+00:00",
+      "title": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco - The New York Times",
+      "text": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckt2ZFNZX21TcDlqRFRFbUtLejZpamVrbjBrcHpIQ0ZSZFJveHhhU3VZWHFGVVhLekR2U3ZDejllTmdzQVdBUFhWS1RyekJNYkhnRFhzd0w4ejh5MzZtdTM3RWJFM196YkNlRVlEajFHcXY1ck5FM0VQdjNZMWZZNzQ3Zw?oc=5",
       "auto": true
     },
     {
