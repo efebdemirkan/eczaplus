@@ -1,8 +1,28 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-18T11:13:17.282001+00:00",
+  "updated_at": "2026-09-18T14:59:27.226210+00:00",
   "items": [
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T14:40:09+00:00",
+      "title": "At‑home drug disposal products can play an important role in keeping rural Coloradans safe - Medical Xpress",
+      "text": "At‑home drug disposal products can play an important role in keeping rural Coloradans safe Medical Xpress",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWk9wSmtsWEI2T1Q0MTd3Z1BIeHo2MG9KOVlQNUlkRzBZZjgySEtlZ2pUM25NWTlGWHZPSHh2VkVmNDBaelRzSXhVczlOT3BpSGJaUmRVWHh2V1I1ajZoM29SeUMyMU4xMW1kcmpvU29oaGNDdTREbEctQlk2YVJPYjRhM2Y?oc=5",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T14:32:12+00:00",
+      "title": "Study finds possibly problematic drug combos being prescribed to older adults - The Washington Post",
+      "text": "Study finds possibly problematic drug combos being prescribed to older adults The Washington Post",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5",
+      "auto": true
+    },
     {
       "date": "18.09.2026",
       "published_at": "2026-09-18T12:00:00+02:00",
@@ -11,26 +31,6 @@
       "source": "EMA",
       "category": "İlaç / Regülasyon",
       "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026",
-      "auto": true
-    },
-    {
-      "date": "18.09.2026",
-      "published_at": "2026-09-18T10:21:05+00:00",
-      "title": "Some drugs can lead to additional prescriptions, putting older adults at risk - The Washington Post",
-      "text": "Some drugs can lead to additional prescriptions, putting older adults at risk The Washington Post",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "18.09.2026",
-      "published_at": "2026-09-18T07:57:15+00:00",
-      "title": "Government drug panel recommends ban on Lindane, medicine used for scabies and lice infestations - thesouthfirst.com",
-      "text": "Government drug panel recommends ban on Lindane, medicine used for scabies and lice infestations thesouthfirst.com",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVozczNjbGFMQy1kOUxmSHdaelo5UHRuaUVzY1NicTdXWDk2VTBkNWw2SjY3dTgydUdkTTQ4WnNsbTNlNGFObUpSMG12a0xIRWQ0MzZOMHFkcks2WXBOUmpkSl8yak5uSjFPeXFGRFhEMzFmLUpzN0JUWU0zRlZmMDJzOWp6a1haRzJ5X0JLRHc1Ymp5Q3E4QkZuLTdSOG10YUJ3bDJXbFZfY29rUm9FS01zb0FDcEtIQUtnTERhM1ozbm4tbFpocA?oc=5",
       "auto": true
     },
     {
@@ -105,16 +105,6 @@
     },
     {
       "date": "17.09.2026",
-      "published_at": "2026-09-17T09:00:03+00:00",
-      "title": "Anti-seizure drug fights aggressive childhood brain tumors, study shows - Medical Xpress",
-      "text": "Anti-seizure drug fights aggressive childhood brain tumors, study shows Medical Xpress",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFhZaGFNd0ZkWjdvX2twdDNQM1VhTGxGM1RVeFRmY1l1SHBrTl9VMnlOU0tDN1c5TEctTV9yQmg5aktyZVpBVExoZ2h2OXFwUk1RSG5hUFVodlRtUEZwdGkwanRkUm9MRlRVcnNYcndIdjJHUElvNWh6cGxxZWNvWHJReGNuSThyOHc?oc=5",
-      "auto": true
-    },
-    {
-      "date": "17.09.2026",
       "published_at": "2026-09-17T07:13:50-04:00",
       "title": "Scientists find a natural gut compound that helps heal the intestine",
       "text": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining. The discovery reveals a surprising beneficial side of an inflammatory pathway and could inspire more",
@@ -161,6 +151,16 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yT3EwaXp3SGFnNmFTV3hfOW4tVFVwckczaFU2ZzdzU2x4Zks2Tmx5dHNQcFNFQzNkb2FlOV9ucENBSGRJOGpJbW0zNy1RZTNkNnlENXY0ZnA3ZV9lUHpGb2NR?oc=5",
+      "auto": true
+    },
+    {
+      "date": "15.09.2026",
+      "published_at": "2026-09-15T16:19:00+00:00",
+      "title": "Add-on drug lumateperone boosts sexual function in patients with depression - News-Medical",
+      "text": "Add-on drug lumateperone boosts sexual function in patients with depression News-Medical",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdF9oX1NMaUpUT3c1blJLWUl0MldQLU5LODVRQVV4bENDLWNBdUNMSGhydGJfT21WLTBUNG1QZ2xmSENyeEdMQnAycG1NNXhPYld6Y0NYY1JQZFVsNG1HMFdJVGFVVS1WTFZ4a0U1aVIyRHJSMHVmWGhlX0pXeE44WDh2Q1dCMEY4ZHM0bDFZRmhycko0ZnN5VnRsM3k3V2N0ZlJxVFotdzdvUTlsUktoXzZqVlBQZTJMbng5VFRIdWU?oc=5",
       "auto": true
     },
     {
