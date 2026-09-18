@@ -1,8 +1,68 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-18T05:54:44.820846+00:00",
+  "updated_at": "2026-09-18T11:13:17.282001+00:00",
   "items": [
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T12:00:00+02:00",
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 14-17 September 2026",
+      "text": "12 new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended 12 medicines for approval at its September 2026 meeting.The committee recommended…, CHMP statistics Key figures from the September 2026 CHMP meeting are represented in ",
+      "source": "EMA",
+      "category": "İlaç / Regülasyon",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-14-17-september-2026",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T10:21:05+00:00",
+      "title": "Some drugs can lead to additional prescriptions, putting older adults at risk - The Washington Post",
+      "text": "Some drugs can lead to additional prescriptions, putting older adults at risk The Washington Post",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T07:57:15+00:00",
+      "title": "Government drug panel recommends ban on Lindane, medicine used for scabies and lice infestations - thesouthfirst.com",
+      "text": "Government drug panel recommends ban on Lindane, medicine used for scabies and lice infestations thesouthfirst.com",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVozczNjbGFMQy1kOUxmSHdaelo5UHRuaUVzY1NicTdXWDk2VTBkNWw2SjY3dTgydUdkTTQ4WnNsbTNlNGFObUpSMG12a0xIRWQ0MzZOMHFkcks2WXBOUmpkSl8yak5uSjFPeXFGRFhEMzFmLUpzN0JUWU0zRlZmMDJzOWp6a1haRzJ5X0JLRHc1Ymp5Q3E4QkZuLTdSOG10YUJ3bDJXbFZfY29rUm9FS01zb0FDcEtIQUtnTERhM1ozbm4tbFpocA?oc=5",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "title": "Insilico Medicine's Alex Zhavoronkov bets China and AI can deliver the drug industry’s next breakthrough - Fortune",
+      "text": "Insilico Medicine's Alex Zhavoronkov bets China and AI can deliver the drug industry’s next breakthrough Fortune",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVXpLVkhyaFdzXzg1dGZ1MThmV0QyWC0zWEtRdkFZeWRNa3J3ZU40VkYyZmw5Sk1sY3I1aEpYUXVwZDZ3M09KLVdjWVZWNVF4YlNveFZhYkJjRHk2VHgwZmhGajl4MVEtdnJBOWl3VlhHZm5VVFFQRGZ5M2JSZTAyQlpMRG5FajNhMkVkMkNjQW03WjBsQXJGbFdSYTlyVHRncElyRGg3MzZTbkhlaDd4MXRpdWRiUQ?oc=5",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T05:48:31-04:00",
+      "title": "These blood thinners may have an unexpected benefit for Alzheimer’s patients",
+      "text": "Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. Th",
+      "source": "ScienceDaily",
+      "category": "Farmasötik Bilimler",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-17T23:52:09-04:00",
+      "title": "Ozempic can change your body. Can it change your life?",
+      "text": "Ozempic and other GLP-1 medications can improve blood sugar, weight, and cardiovascular health, but researchers found little evidence that they also improve mental health, employment, marriage, or overall well-being. The findings suggest the drugs’ broader lif",
+      "source": "ScienceDaily",
+      "category": "Farmakoloji",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+      "auto": true
+    },
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T18:04:39+00:00",
@@ -25,19 +85,19 @@
     },
     {
       "date": "17.09.2026",
-      "published_at": "2026-09-17T14:21:45+00:00",
-      "title": "Steve Belichick resigning as UNC defensive coordinator after drug probe - New York Post",
-      "text": "Steve Belichick resigning as UNC defensive coordinator after drug probe New York Post",
+      "published_at": "2026-09-17T16:45:58+00:00",
+      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? - NPR",
+      "text": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? NPR",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEsxYUZJMVpIUmNrUmZObEsyaDRoQVE0VGNrMWNqR21xN3RaNWRndGZyem4zejJGTXJCY3NfcnlMSkRRNHFQbmFfTkZ4Z1RpbjlKbW1EaWE3S3Z0bGZ1eGNpVklQVm83Q3Jpc2QwMHRNajFnU1NJLWwxZ1JCNm9FUVFNRkhldlcyYm41Q2kxdlFGdk8xcUt3bjZJUWtnUHJIQUlWQmJrLUw4Z211Z1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2U0RVdMNHVZeGRQTFBiaGxpZ21QMTdHY19kU2xzMHdHVE1rVUpSdUkxX1c1RGZIRTJCRkRIT1U2dzhhM3poR05Pb25hbVhFazcxbXZDaHlFUnlNYzdpZDIxRElZYnRIQlFMZ1JhSDlQY1B2aWpkcmlGU1FvYVNPS1VxWF9hOFIwaHlTLV9uS2E0d08xbWhuUVEzS3RkMDRhUVU0VkJTd0I?oc=5",
       "auto": true
     },
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T11:00:00+00:00",
-      "title": "Orbis Medicines Enters Multi-Target Drug Discovery Partnership with Novo Nordisk Worth up to USD 1.4 Billion - Business Wire",
-      "text": "Orbis Medicines Enters Multi-Target Drug Discovery Partnership with Novo Nordisk Worth up to USD 1.4 Billion Business Wire",
+      "title": "Orbis Medicines Enters Multi-Target Drug Discovery Partnership with Novo Nordisk Worth up to USD 1.4 Billion - businesswire.com",
+      "text": "Orbis Medicines Enters Multi-Target Drug Discovery Partnership with Novo Nordisk Worth up to USD 1.4 Billion businesswire.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMWNyM2FEQ1JPN0xPZkRwTVNZVTAzMV9GakotN3c5SnoySU5QM3VqaTE4VzR5VDhVX3dTeHVEb2tTdWdaVEszcWY3dkJ1aVhLNzB6NmE3bUNxNFNWWldFUzl6cjNEZFhxa2hlbFpyWDdaZFhfS0RMeHY4RkxEQzRXaTc1SmNTc2ZEekU3VkZkWTYwQVc2UWNiblhkbkgzUk1xbjJIdFFPR3dNSTlzdE5kdzgzclZXUEpJY0dvaHVjM3JXVEx3blJKV0xpcEdDTExCQU5laU5aTlNHRmZJYjYwZ3o3Q1d6WW0weUd1d1FBa1J5QXZCbUt4cA?oc=5",
@@ -101,36 +161,6 @@
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yT3EwaXp3SGFnNmFTV3hfOW4tVFVwckczaFU2ZzdzU2x4Zks2Tmx5dHNQcFNFQzNkb2FlOV9ucENBSGRJOGpJbW0zNy1RZTNkNnlENXY0ZnA3ZV9lUHpGb2NR?oc=5",
-      "auto": true
-    },
-    {
-      "date": "16.09.2026",
-      "published_at": "2026-09-16T15:01:56+00:00",
-      "title": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria - Medical Economics",
-      "text": "AI models flag existing drugs that could fight drug-resistant pneumonia bacteria Medical Economics",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXdBSzV4RVNOVHVOUzFFU3BRam9IdFdxTnFkZGZ4a3o0aTNaNjdrNkVYSmwyUVZ2cWNZajJucUpVQno4QklMS2tieUh1UWc3ZHlsOEZGdzFIREdLZC1SbVY2Wnk5X3lMc1ZWeElLbFZFZ3RjUnF6aXc2N1JVbDRraGtUaU9fTmNBWmlxODFmU0hVOWtxVWRGYktrUnI4VkJMdlpBalZqTDY0alhWMTJaQ1JVcDRCNGNHU1E?oc=5",
-      "auto": true
-    },
-    {
-      "date": "16.09.2026",
-      "published_at": "2026-09-16T14:31:55+00:00",
-      "title": "Deep dive: Psychedelics back on FDA’s doorstep - BioSpace",
-      "text": "Deep dive: Psychedelics back on FDA’s doorstep BioSpace",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDVoM2RXSWoyU1c2WlBXbHJuNkNXQW5pdWEwMHM3aE5IZWxKbU1qaDlqOXVZMTdMTkpHb0FWc0UyQ3QzZzV2R2p1djlVRnRfY0FvNFhKenRya1RLancxdnYwZlNyNE8wTWJCclRsZTlreTgxemRPSjMwbFVtZ3VUbG5MWS01YW9Qb2ZyX0VzQQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "15.09.2026",
-      "published_at": "2026-09-15T16:19:00+00:00",
-      "title": "Add-on drug lumateperone boosts sexual function in patients with depression - News-Medical",
-      "text": "Add-on drug lumateperone boosts sexual function in patients with depression News-Medical",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdF9oX1NMaUpUT3c1blJLWUl0MldQLU5LODVRQVV4bENDLWNBdUNMSGhydGJfT21WLTBUNG1QZ2xmSENyeEdMQnAycG1NNXhPYld6Y0NYY1JQZFVsNG1HMFdJVGFVVS1WTFZ4a0U1aVIyRHJSMHVmWGhlX0pXeE44WDh2Q1dCMEY4ZHM0bDFZRmhycko0ZnN5VnRsM3k3V2N0ZlJxVFotdzdvUTlsUktoXzZqVlBQZTJMbng5VFRIdWU?oc=5",
       "auto": true
     },
     {
@@ -244,16 +274,6 @@
       "auto": true
     },
     {
-      "date": "12.09.2026",
-      "published_at": "2026-09-12T10:33:54-04:00",
-      "title": "Who really needs a heart calcium scan?",
-      "text": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scans could make a meaningful difference by ",
-      "source": "ScienceDaily",
-      "category": "Farmakoloji",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
-      "auto": true
-    },
-    {
       "date": "11.09.2026",
       "published_at": "2026-09-11T08:17:18-04:00",
       "title": "Your next prescription could be treating a side effect from the last one",
@@ -271,16 +291,6 @@
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/epidural-kit-correction-medical-action-industries-issues-correction-epidural-kits-containing-spectra",
-      "auto": true
-    },
-    {
-      "date": "10.09.2026",
-      "published_at": "2026-09-09T22:56:17-04:00",
-      "title": "One sugary drink a day linked to more than double the risk of stomach cancer",
-      "text": "People who drank at least one sugar-sweetened beverage a day had roughly 2.45 times the risk of gastric cancer compared with those who rarely consumed them, according to a decades-long study of more than 112,000 U.S. adults. Artificially sweetened drinks showe",
-      "source": "ScienceDaily",
-      "category": "Farmasötik Bilimler",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
       "auto": true
     },
     {
