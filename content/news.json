@@ -1,8 +1,18 @@
 {
   "eyebrow": "ECZACILIK GÜNDEMİ",
   "title": "Haber Panosu",
-  "updated_at": "2026-09-19T00:20:28.180376+00:00",
+  "updated_at": "2026-09-19T05:52:36.055980+00:00",
   "items": [
+    {
+      "date": "19.09.2026",
+      "published_at": "2026-09-19T00:22:20+00:00",
+      "title": "Trump Promotes Program to Reduce Medicaid Drug Prices - The New York Times",
+      "text": "Trump Promotes Program to Reduce Medicaid Drug Prices The New York Times",
+      "source": "Google News",
+      "category": "İlaç / Eczacılık",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0ROTHhnMGV0MFV6M2psR1BUcEJLMmtRbUlJdUdwUXc4aDNQODB2NXhmcWlTb3JpOG9nbDJqLThNRkpENnRMNWV6a1pGcHJlbWZSYjlRV1ZDOFByMWgxNzhFMlhmQ1FLc3F6Y2ZfeGZ3MzNTRHoxcHEzV2lHWnE3Qw?oc=5",
+      "auto": true
+    },
     {
       "date": "18.09.2026",
       "published_at": "2026-09-18T20:40:43+00:00",
@@ -36,8 +46,8 @@
     {
       "date": "18.09.2026",
       "published_at": "2026-09-18T16:28:00+00:00",
-      "title": "Researchers create virtual cells to accelerate drug discovery efforts - news-medical.net",
-      "text": "Researchers create virtual cells to accelerate drug discovery efforts news-medical.net",
+      "title": "Researchers create virtual cells to accelerate drug discovery efforts - News-Medical",
+      "text": "Researchers create virtual cells to accelerate drug discovery efforts News-Medical",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWHZmRWwxUTRFNjA3UVRYMWx1TnJaZW5uMzN5bVVxUWRMVXp5dnlQQ3JJQUQyTDQwWklyN1VTY2o1bFZZcm9wODFyRjVKa09hamlYOHJMT09PUTU1U0FvLTN5al85b1Q1ZGNiUHZzbWZ0a2NuWmY4bVI2b3Q1NVdOd2I2YjNLX1UwV0JmRGZCbnh1NFRDRkhWZkRwSl9kYWJpWjlDQXV4aWpod2E2SEMxR28xS3Y4WGhC?oc=5",
@@ -55,22 +65,12 @@
     },
     {
       "date": "18.09.2026",
-      "published_at": "2026-09-18T14:15:38+00:00",
-      "title": "DifGen Pharmaceuticals receives FDA nod for generic adrenalin injection - Drug Store News",
-      "text": "DifGen Pharmaceuticals receives FDA nod for generic adrenalin injection Drug Store News",
+      "published_at": "2026-09-18T13:33:36+00:00",
+      "title": "Pharmalittle: We're reading about licensing deals with China, making drugs in space, and more - statnews.com",
+      "text": "Pharmalittle: We're reading about licensing deals with China, making drugs in space, and more statnews.com",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazJNQ3lTZWdOdlNXOFJEYnA3aWZ3SmlYRktkbGc2OTdFMTg1V0JJemktcVV6ZGZ6VWpMUzR2U24ycExpLVRSRGluZnpRdjJJTTV1LV9DR2hrNzdTX2F4WlhCcjdTbEpTTXAtZmREWS0tUFhfUk9HaTNSckdHenpvVzBmOGY3UEZXZVBqaXdsZEVPQnNkRnE1OQ?oc=5",
-      "auto": true
-    },
-    {
-      "date": "18.09.2026",
-      "published_at": "2026-09-18T12:40:28+00:00",
-      "title": "Insilico Medicine launches open-source AI longevity research toolkit - Drug Target Review",
-      "text": "Insilico Medicine launches open-source AI longevity research toolkit Drug Target Review",
-      "source": "Google News",
-      "category": "İlaç / Eczacılık",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlUxTkU2WnFIV0FLZDUwZDdteUJqMUQzdlZzQ3dkSG1OSzl4ZHJRNDZMNlYtSkxwOGhBOUNMSnUzclZtb0RjMEo0MmJ3bXpsclRhbTUtTzhVa2d0RDVZdUUyTHFJOGdYYldqLVVBV2JvalpNeXd3WkFIbFZyY0paNzQ5bmI4ZFFSUDlOc3h3bEt0TXU3bTJibmhkcHhnb1lJWjl5OHdGQ1F4ZWFuM01vQUxTY1Q3SUJi?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDdCaHZ5WGVZc01rLW5oZ1JPMDJhNTBQM1JhamNtRnVERjRnTnRqUF9HUTVFTl9paC1meFQ1R0pKb1BuLWhuUmhXamhJQjI3SWxRVlB5LUZERHpvTVN4VllRbkpTdDl6UVNReFI5MUxRTE5iQWJRRm95OGl1SGdHbUlmU0E5QzZ6bkl1R0cwZnBsUnJRZFJnbkxnaUZqcWxiLUE?oc=5",
       "auto": true
     },
     {
@@ -106,21 +106,21 @@
     {
       "date": "18.09.2026",
       "published_at": "2026-09-18T00:00:00-04:00",
-      "title": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
-      "text": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
-      "source": "FDA MedWatch",
-      "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-      "auto": true
-    },
-    {
-      "date": "18.09.2026",
-      "published_at": "2026-09-18T00:00:00-04:00",
       "title": "Nitric Oxide Delivery System Correction: NOxBOX Updates Use Instructions for NOxBOXi Nitric Oxide Delivery System",
       "text": "The NOxBOX NOxBOXi System may leak oxygen during inhaled nitric oxide therapy",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
       "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/nitric-oxide-delivery-system-correction-noxbox-updates-use-instructions-noxboxi-nitric-oxide",
+      "auto": true
+    },
+    {
+      "date": "18.09.2026",
+      "published_at": "2026-09-18T00:00:00-04:00",
+      "title": "Sodium Chloride Flush Recall: Spectra Medical Removes Sodium Chloride Injection USP Ampules",
+      "text": "Spectra Medical Devices is removing Sodium Chloride Flush products that were manufactured by Huons Co,. Ltd.",
+      "source": "FDA MedWatch",
+      "category": "İlaç Güvenliği",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
       "auto": true
     },
     {
@@ -136,8 +136,8 @@
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T18:04:39+00:00",
-      "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - med.stanford.edu",
-      "text": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery med.stanford.edu",
+      "title": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery - Stanford Medicine",
+      "text": "Virtual biotech company puts thousands of AI scientist agents to work on drug discovery Stanford Medicine",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnFHYlZsNzYwS2NwYWtleUtJSC13SUJCTlJQelk4ZFd2OHEydmdPQjB5R2F0ZXl4UWhYS2pjc213S3RPemJaUWQ3bHlGQzlRZlFENUhjZ3hDelBmOGtTbFRfTXlqVHpSSzJnRVl0UXFWMUl6ZXpSd1B3OTU4NnFRMA?oc=5",
@@ -156,8 +156,8 @@
     {
       "date": "17.09.2026",
       "published_at": "2026-09-17T16:45:58+00:00",
-      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? - NPR",
-      "text": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? NPR",
+      "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? - npr.org",
+      "text": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened? npr.org",
       "source": "Google News",
       "category": "İlaç / Eczacılık",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2U0RVdMNHVZeGRQTFBiaGxpZ21QMTdHY19kU2xzMHdHVE1rVUpSdUkxX1c1RGZIRTJCRkRIT1U2dzhhM3poR05Pb25hbVhFazcxbXZDaHlFUnlNYzdpZDIxRElZYnRIQlFMZ1JhSDlQY1B2aWpkcmlGU1FvYVNPS1VxWF9hOFIwaHlTLV9uS2E0d08xbWhuUVEzS3RkMDRhUVU0VkJTd0I?oc=5",
@@ -346,21 +346,21 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
-      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
+      "title": "Monitoring System Correction: GE HealthCare Updates Use Instructions for Portrait Core Services Software",
+      "text": "Patients monitored on Portrait Mobile devices may be discharged (removed) from the Portrait monitoring system during an update to the Portrait Core Services software.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/monitoring-system-correction-ge-healthcare-updates-use-instructions-portrait-core-services-software",
       "auto": true
     },
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Early Alert: Breathing Circuit Issue from Draeger",
-      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
+      "title": "B. Braun Medical Inc. Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container Due to the Presence of Particulate Matter",
+      "text": "FOR IMMEDIATE RELEASE – September 3, 2026– Bethlehem, PA, B. Braun Medical Inc (B. Braun) is voluntarily recalling three (3) lots of 0.9% Sodium Chloride Injection USP, 100 mL, in a 150 mL PAB® Container, to the hospital/healthcare facility/user level due to p",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
+      "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/b-braun-medical-inc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-100-ml-150",
       "auto": true
     },
     {
@@ -376,11 +376,11 @@
     {
       "date": "03.09.2026",
       "published_at": "2026-09-03T00:00:00-04:00",
-      "title": "Spinal Cord Stimulator Recall: Boston Scientific Removes Infinion CX Lead",
-      "text": "Infinion CX Lead bodies may experience mechanical stress at the anchor site resulting in inadequate stimulation requiring lead explant and replacement.",
+      "title": "Early Alert: Breathing Circuit Issue from Draeger",
+      "text": "Removal of VentStar Resus Neo hoses due to the potential for cracks resulting in restricted ventilation or delayed therapy.",
       "source": "FDA MedWatch",
       "category": "İlaç Güvenliği",
-      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/spinal-cord-stimulator-recall-boston-scientific-removes-infinion-cx-lead",
+      "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/early-alert-breathing-circuit-issue-draeger",
       "auto": true
     },
     {
